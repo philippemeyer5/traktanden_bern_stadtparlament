@@ -1,0 +1,1009 @@
+# Identifier (Identifier der Ressource im Quellsystem des Publishers): Traktanden_SR_2018_bis_Heute_CSV
+# Titel (Titel der Datei): Traktanden_SR_2018 bis heute mit Beschlüsse
+# Beschreibung (Datei-Informationen): Die Traktandenliste aller Geschäfte und Beschlüsse zu den Stadtratssitzungen der Stadt Bern.
+# Sprache (Sprache in der diese Datei vorliegt): Deutsch
+# Erstellt (Datum der Veröffentlichung dieser Datei): 01.12.2017
+# Geändert (Datum der letzten Änderung dieser Datei): 27.05.2019
+# Nutzungsbedingungen (Art der Nutzung und Angabepflicht): Freie Nutzung - Quellenangben ist Pflicht (Autor, Titel und Link zum Datensatz).
+# Zugangs-URL (Die URL über welche auf die Ressource zugegriffen werden kann): https://www.bern.ch/open-government-data-ogd/ogd-nach-themen/stadtrat-ogd
+# Download-URL (URL der Datei um die Ressource direkt heruntergeladen werden kann): https://www.bern.ch/open-government-data-ogd/ogd-nach-themen/stadtrat-ogd/download-stadtraetische-traktanden-und-beschluesse-ogd/traktanden-sr-2018-bis-heute-mit-beschluesse.txt/download
+# Dateigrösse (Angabe in Bytes): 196608
+# Dateiformat (Datei Typ und Kürzel des Formats): CSV
+# Autor der Datei (Ein oder mehrere Autoren dieser Datei): Ratssekretariat des Stadtrats der Stadt Bern
+# Dateibezogene Zusatzinformationen (Der richtige Umgang und Interpretation die es ggf. zu berücksichtigen gilt.): Weitere Informationen zu den einzelnen Traktanden und Geschäfte finden Sie als PDF Datei unter https://www.bern.ch/politik-und-verwaltung/stadtrat/sitzung-geschaeft.
+
+
+
+Datum;Traktanden Nr.;Traktandierungstitel;Beschluss Nr.;Traktandumstatus;Beschluss
+15.08.2019;1;Dringliche Interpellation Fraktion SVP (Janosch Weyermann/Alexander Feuz, SVP): Wie geht die Stadt Bern beim Bau von 5G-Antennen vor?;;Traktandiert;
+27.06.2019;1;Jahresrechnung 2018;;Traktandiert;
+27.06.2019;2;Tätigkeitsbericht der Ombuds- und der Datenaufsichtsstelle 2018;;Traktandiert;
+13.06.2019;6;Dringliche Motion Eva Krattiger und Seraina Patzen (JA!): Konsequente Klimapolitik #5: Keine Parkplätze mehr in Bern!;;Traktandiert;
+13.06.2019;1;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 08 vom 04. April 2019);;Traktandiert;
+13.06.2019;2;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 09 vom 25. April 2019);;Traktandiert;
+13.06.2019;4;Kleine Anfrage Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Ab 15. Dezember 2019 keine direkte Zugverbindung mehr ab Bern nach Paris;;Traktandiert;
+13.06.2019;3;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 10 vom 02. Mai 2019);;Traktandiert;
+13.06.2019;7;"Gesamtsanierung Kindergarten Wylergut 1 + 2; Baukredit";;Traktandiert;
+13.06.2019;15;"Melchiorstrasse 9, 3027 Bern; Erwerb des Grundstücks Bern Gbbl.-Nr. 3918/6";;Traktandiert;
+13.06.2019;16;Potenzialanalyse Open Source Software (POTOSS);;Traktandiert;
+13.06.2019;13;Postulat Fraktion SP (Fuat Köçer/Halua Pinto de Magalhães): Vielfalt im Lehrerzimmer als Antwort auf Vielfalt im Klassenzimmer;;Traktandiert;
+13.06.2019;9;Interfraktionelles Postulat GB/JA!, SP (Regula Bühlmann GB/Johannes Wartenweiler SP): Gleich lange Spiesse - Faire Arbeitsbedingungen für das Personal in Kindertagesstätten;;Traktandiert;
+13.06.2019;10;Interfraktionelle Motion GB/JA!, SP/JUSO, GFL/EVP (Regula Bühlmann, GB/ Nadja Kehrli-Feldmann, SP/Brigitte Hilty Haller, GFL): Bedarfsgerechtes Angebot für betreute Tagesferien;;Traktandiert;
+13.06.2019;11;Postulat Fraktion GB/JA! (Regula Bühlmann, GB): Elternbeiträge an Kinder-betreuung auf europäisches Niveau senken;;Traktandiert;
+13.06.2019;12;Interfraktionelles Postulat FDP/JF, GLP/JGLP, BDP/CVP (Claudine Esseiva, FDP/Marianne Schild, GLP/Milena Daphinoff, CVP): Einheitliche Finanzierung der Betreuungsstrukturen (KITA, Kindergarten, Tagesstrukturen) über Betreuungsgutscheine (Ki-Tax-Portal);;Traktandiert;
+13.06.2019;19;Interfraktionelles Postulat GB/JA!, GFL/EVP, SP/JUSO (Regula Bühlmann/Katharina Gallizzi, GB/Bettina Jans-Troxler, EVP/Yasemin Cevik/Lena Sorg, SP): Ein Pilotprojekt für eine Elternzeit für städtische Angestellte;;Traktandiert;
+13.06.2019;14;Interpellation Fraktion SP/JUSO (Fuat Köçer, SP): Fördern unsere Schulmodelle die Chancengerechtigkeit?;;Traktandiert;
+13.06.2019;17;Postulat Fraktion GLP/JGLP (Matthias Egli, GLP): Jobsharing und Teilzeitarbeit auch für Kadermitarbeitende, sowie Gemeinderätinnen und Gemeinderäte ermöglichen;;Traktandiert;
+13.06.2019;18;Motion Henri-Charles Beuchat (SVP): Willkommen zum Stillen und Wickeln!;;Traktandiert;
+13.06.2019;8;Motion Fraktion GB/JA! (Leena Schmitter, GB): Sexualisierte Gewalt aktiv angehen: Selbstverteidigungskurse als kostenloses Angebot für QuartierbewohnerInnen!;;Traktandiert;
+13.06.2019;5;Dringliche Motion Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Konsequente Klimapolitik #1: Vermeidung von unnötigem Suchverkehr – Mehr Parkplätze in Bern!;;Traktandiert;
+06.06.2019;6;Interfraktionelle Motion GB/JA!, GFL/EVP, GLP (Franziska Grossenbacher, GB/Michael Steiner, GFL/Sandra Ryser, GLP): Klima schützen und Kosten sparen mit energieeffizienter Schwimmhalle;;Traktandiert;
+06.06.2019;16;Motion Fraktion GB/JA! (Stéphanie Penher, GB): Freie Bahn für den 10er-Bus durch die Einführung einer Umweltspur für öV und Velo;;Traktandiert;
+06.06.2019;29;Motion Fraktion SP/JUSO (Andreas Flückiger/Peter Blaser, SP): Planung Rehhag: Naturschutz und Naherholung statt Bauschuttdeponie (Ergänzung) (Pkt. 1);;Traktandiert;
+06.06.2019;28;Motion Fraktion SP/JUSO (Andreas Flückiger/Peter Blaser, SP): Planung Rehhag: Naturschutz und Naherholung statt Bauschuttdeponie (Pkt. 1, 2, 3, 5, 7);;Traktandiert;
+06.06.2019;27;Motion Fraktion GFL/EVP (Manuel C. Widmer, GFL): Citylogistic: Dem zunehmenden Lieferverkehr zukunftsgerichtet und nachhaltig begegnen;;Traktandiert;
+06.06.2019;26;Interfraktionelles Postulat GLP/JGLP, FDP/JF, GFL/EVP (Maurice Lindgren, JGLP/Barbara Freiburghaus, FDP/Danielle Cesarov-Zaugg, GFL): Von der Digitalisierung im Bauwesen profitieren – Mit BIM in die Zukunft;;Traktandiert;
+06.06.2019;25;Interfraktionelle Interpellation GLP/JGLP, GFL/EVP (Matthias Egli, GLP/Matthias Stürmer, EVP/Danielle Cesarov-Zaugg, GFL): Koordination und Entwicklung Smart City Stadt Bern;;Traktandiert;
+06.06.2019;24;Motion Rolf Zbinden (PdA): Jedem Kind ein Instrument;;Traktandiert;
+06.06.2019;23;Postulat Fraktion GB/JA! (Franziska Grossenbacher/Regula Tschanz, GB): „Kalkbreite“ am Eigerplatz;;Traktandiert;
+06.06.2019;22;Motion Fraktion GB/JA! (Franziska Grossenbacher/Regula Tschanz, GB): „Kalkbreite“ am Eigerplatz;;Traktandiert;
+06.06.2019;21;Motion David Stampfli (SP): Rechtsabbiegen bei Rot für Velofahrende gestatten;;Traktandiert;
+06.06.2019;20;Motion Fraktion GB/JA! (Regula Tschanz, GB/Seraina Patzen, JA!): Velofreundliche Lichtsignalanlagen – Rechtsabbiegen bei Rot an Kreuzungen ermöglichen;;Traktandiert;
+06.06.2019;19;Interfraktionelle Motion GFL/EVP, SP/JUSO, FDP (Ueli Stückelberger, GFL/Gisela Vollmer, SP/Karin Feuz-Ramseyer, FDP/Christoph Müller, FDP): Helvetiaplatz: Mit städtebaulicher Aufwertung nicht zuwarten, sondern jetzt in Etappen beginnen;;Traktandiert;
+06.06.2019;18;Motion Tabea Rai und Angela Falk (AL): Motorisierter Privatverkehr führt in die Sackgasse – für mehr Sackgassen in Bern;;Traktandiert;
+06.06.2019;17;Postulat Fraktion GB/JA! (Franziska Grossenbacher, GB/Seraina Patzen, JA!): Transparenz bei Flugreisen der Stadtverwaltung;;Traktandiert;
+06.06.2019;30;Motion Fraktion SP/JUSO (Michael Aebersold, SP): Grüne Lungen in Bern;;Traktandiert;
+06.06.2019;14;Motion Fraktion GB/JA! (Stéphanie Penher, GB): Bern klimaneutral bis 2035 (III), Umweltzonen zum Schutz von Klima und Bevölkerung;;Traktandiert;
+06.06.2019;13;Interfraktionelle Motion BDP/CVP, GLP/JGLP (Michael Daphinoff, CVP/Lionel Gaudy, BDP/Matthias Egli, GLP): Pilotversuch Gratisparkplätze für Elektrofahrzeuge;;Traktandiert;
+06.06.2019;12;Postulat Fraktion BDP/CVP (Michael Daphinoff, CVP/Martin Schneider, BDP):  Fördermassnahmen für mehr Elektromobilität in Bern;;Traktandiert;
+06.06.2019;11;Interfraktionelle Motion GLP/JGLP, BDP/CVP, SP/JUSO, GFL/EVP (Matthias Egli, GLP/Michael Daphinoff, CVP/Benno Frauchiger, SP/Franziska Grossenbacher, GB/Matthias Stürmer, EVP): Elektroautos als Teil der Mobilität in Bern anerkennen und geeignete Anreize schaffen;;Traktandiert;
+06.06.2019;10;Postulat Fraktion SP/JUSO (Benno Frauchiger, SP): Elektroautos statt Benzinkutschen – auch für MieterInnen von Abstellplätzen;;Traktandiert;
+06.06.2019;5;Dringliche Motion Zora Schneider (PdA), Angela Falk (AL), Tabea Rai (AL): Klimamassnahmen prioritär umsetzen;;Traktandiert;
+06.06.2019;4;Dringliche Motion Fraktion SP/JUSO (Nora Krummen/Ingrid Kissling-Näf/Benno Frauchiger, SP): CO2-Neutralität bis 2030;;Traktandiert;
+06.06.2019;3;Interfraktionelles Postulat GFL/EVP, GB/JA!, GLP/JGLP, AL/GaP/PdA (Marcel Wüthrich, GFL/Bettina Jans-Troxler, EVP/Katharina Gallizzi, GB/Eva Krattiger, JA!/Peter Ammann, GLP/Christa Ammann, AL/Luzius Theiler, GaP/Lionel Gaudy, BDP): Klimastrategie für die Anlagen der Personalvorsorgekasse;;Traktandiert;
+06.06.2019;9;Interfraktionelle Motion GB/JA!, GFL/EVP (Franziska Grossenbacher, GB/Marcel Wüthrich, GFL): Bern klimaneutral bis 2035 (II): Bern startet eine Solaroffensive!;;Traktandiert;
+06.06.2019;8;Interfraktionelles Postulat Fraktion GB/JA!, SP/JUSO, GFL/EVP (Katharina Gallizzi/Rahel Ruch, GB/Ingrid Kissling-Näf, SP/Patrik Wyss, GFL): Kreislaufwirtschaft und soziale Innovation fördern: Masterplan;;Traktandiert;
+06.06.2019;7;Interfraktionelle Motion GFL/EVP, GB/JA! (Lukas Gutzwiller, GFL/Stéphanie Penher, GB): Der Gebäudebestand der Stadt Bern wird bis 2035 klimaneutral;;Traktandiert;
+06.06.2019;2;Interfraktionelle Motion GB/JA!, GFL/EVP (Franziska Grossenbacher, GB/Brigitte Hilty Haller, GFL): Bern klimaneutral bis 2035 (IV), Austausch und Beteiligung;;Traktandiert;
+06.06.2019;1;Interfraktionelle Motion GB/JA!, GFL/EVP (Regula Tschanz, GB/Janine Wicki, GFL): Bern klimaneutral bis 2035;;Traktandiert;
+06.06.2019;15;Interfraktionelle Motion Fraktionen GB/JA!, SP/JUSO, GFL/EVP, GLP/JGLP (Stéphanie Penher, GB/Michael Sutter, SP/Marcel Wüthrich, GFL/Matthias Egli, GLP): Mobilitätsset für Zuzügerinnen und Zuzüger beim Wohnortwechsel und beim Arbeitsplatzwechsel;;Traktandiert;
+23.05.2019;13;Dringliche Motion Fraktion SP/JUSO (Nora Krummen/Ingrid Kissling-Näf/Benno Frauchiger, SP): CO2-Neutralität bis 2030;2019-355;Beschlossen;Verschiebung
+23.05.2019;14;Dringliche Motion Zora Schneider (PdA), Angela Falk (AL), Tabea Rai (AL): Klimamassnahmen prioritär umsetzen;2019-356;Beschlossen;Verschiebung
+23.05.2019;10;Dringliche Interpellation Luzius Theiler (GaP): Wie gedenkt der Gemeinderat die städtebauliche Qualität bei der Neugestaltung des Bubenbergplatzes sicherzustellen?;2019-352;Beschlossen;Kenntnis
+23.05.2019;9;Dringliche Interpellation Henri-Charles Beuchat (SVP): Nicht Einhaltung von Verfügungen des Regierungsstatthalters durch die Reitschule. Verstösse gegen das GGG;2019-351;Beschlossen;Kenntnis
+23.05.2019;8;Integrierter Aufgaben- und Finanzplan 2020–2023;2019-350;Beschlossen;Kenntnis
+23.05.2019;1;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 06 vom 21.03.2019);2019-343;Beschlossen;Genehmigung
+23.05.2019;2;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 07 vom 28.03.2019);2019-344;Beschlossen;Genehmigung
+23.05.2019;7;Interpellation Fraktion BDP/CVP (Michael Daphinoff, CVP/Lionel Gaudy, BDP): Stellenwachstum nachvollziehen;2019-349;Beschlossen;Kenntnis
+23.05.2019;11;Motion Fraktion SP (Peter Marbet/Michael Sutter): Weyermannshaus: Mehr Qualität im Aussenraum I - Schaffen eines Quartierzentrums;2019-353;Beschlossen;Erheblicherkl.
+23.05.2019;12;Motion Fraktion SP (Peter Marbet/Michael Sutter, SP): Weyermannshaus: Mehr Qualität im Aussenraum II – Schaffen des Grünraums Stadtbach;2019-354;Beschlossen;Erheblicherkl.
+23.05.2019;3;Kleine Anfrage Fraktion GB/JA! (Rahel Ruch, GB): Transparenz am E-Prix?;2019-345;Beschlossen;Kenntnis
+23.05.2019;4;Kleine Anfrage Fraktion GFL/EVP (Marcel Wüthrich, GFL): Wie beeinflussen – oder auch nicht – globale Megatrends die Auswahl der Anlagefonds und somit die Rendite der Personalvorsorgekasse?;2019-346;Beschlossen;Kenntnis
+23.05.2019;5;Kleine Anfrage Matthias Stürmer (EVP): Transparenz-Rückschritt beim ewb Finanzbericht 2018;2019-347;Beschlossen;Kenntnis
+23.05.2019;6;Kleine Anfrage Zora Schneider (PdA): Wie geht es weiter mit der Frauenklinik?;2019-348;Beschlossen;Kenntnis
+16.05.2019;12;Dringliche Motion Fraktion SP/JUSO (Timur Akçasayar/Ladina Kirchen, SP): Neue Tangentialbuslinie Bern Nordwest: Die Lücke im städtischen Liniennetz mit einer direkten Busverbindung Kleefeld-Neufeld schliessen;2019-324;Beschlossen;Erheblicherkl. als Richtlinie
+16.05.2019;3;Interfraktionelle Kleine Anfrage SVP, FDP/JF (Alexander Feuz/Hans Ulrich Gränicher, SVP/Ruth Altmann, FDP): Thunstrasse West: Fragen zum Widerstand der Fussgänger, der Velofahrer und der betroffenen Anwohner und Gewerbler gegen die gefährliche Verkehrsführung!;2019-315;Beschlossen;Kenntnis
+16.05.2019;4;Interfraktionelle Kleine Anfrage SVP, FDP/JF (Alexander Feuz/Hans Ulrich Gränicher, SVP/Ruth Altmann, FDP): Thunstrasse West: Welche Konsequenzen drohen Bernmobil und dem Steuerzahler infolge des aufgelegten Projekts?;2019-316;Beschlossen;Kenntnis
+16.05.2019;5;Interfraktionelle Kleine Anfrage FDP/JF, SVP (Ruth Altmann, FDP/Alexander Feuz, SVP): Renovations- und Umbauarbeiten an der unteren Thunstrasse zwischen Helvetiaplatz und Thunplatz. Bauvorhaben Thunstrasse 2020 und Sanierung Ostring;2019-317;Beschlossen;Kenntnis
+16.05.2019;6;Kleine Anfrage Fraktion BDP/CVP (Michael und Milena Daphinoff, CVP): Wo stehen wir im Zeitplan für die Planung und Entwicklung des Gaswerkareals?;2019-318;Beschlossen;Kenntnis
+16.05.2019;7;Kleine Anfrage Fraktion FDP/JF (Christophe Weder/Oliver Berger, FDP): Einspurverkehr Neubrückstrasse-Bollwerk-Lorrainebrücke;2019-319;Beschlossen;Kenntnis
+16.05.2019;1;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 04 vom 28.02.2019);2019-313;Beschlossen;Genehmigung
+16.05.2019;2;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 05 vom 14.03.2019);2019-314;Beschlossen;Genehmigung
+16.05.2019;15;Interfraktionelle Motion GB/JA!, GFL/EVP, AL/GPB-DA/PdA (Eva Krattiger, JA!/Katharina Gallizzi, GB/Marcel Wüthrich GFL/Matthias Stürmer, EVP/Daniel Egloff, PdA/Luzius Theiler, GPB-DA/Christa Ammann, AL/Tamara Funiciello, JUSO): Keine Rentengelder für die Kriegsmaterialproduktion!;2019-327;Beschlossen;Erheblicherkl.
+16.05.2019;17;Motion Fraktion GFL/EVP (Lukas Gutzwiller, GFL/Matthias Stürmer, EVP): Stadtanzeiger auf dem Weg zur Smart City?;2019-329;Beschlossen;Verschiebung
+16.05.2019;20;"Postulat Fraktion GB/JA! (Regula Bühlmann/Katharina Gallizzi, GB): Verlängerung von bezahltem Mutterschafts- und Vaterschaftsurlaub bei erschwerten Bedingungen; Fristverlängerung";2019-332;Beschlossen;Fristverl.
+16.05.2019;21;"Postulat Fraktion GLP/JGLP (Claude Grosjean, GLP): Bedingter Elternurlaub von maximal 16 Wochen für beide Elternteile bei beidseitiger Erwerbstätigkeit; Fristverlängerung";2019-333;Beschlossen;Fristverl.
+16.05.2019;22;"Motion Fraktion SP (Rithy Chheng/Lena Sorg, SP): Längerer Mutterschafts- und Vaterschaftsurlaub für städtische Angestellte bei Zwillingen und Mehrlingen; Fristverlängerung";2019-334;Beschlossen;Fristverl.
+16.05.2019;19;Interfraktionelles Postulat GB/JA!, GFL/EVP, SP/JUSO (Regula Bühlmann/Katharina Gallizzi, GB/Bettina Jans-Troxler, EVP/Yasemin Cevik/Lena Sorg, SP): Ein Pilotprojekt für eine Elternzeit für städtische Angestellte;2019-331;Beschlossen;Verschiebung
+16.05.2019;24;Postulat Fraktion SP/JUSO (Katharina Altas, SP): Mehr günstige Räume für Kultur und Bildung dank besserer Zusammenarbeit zwischen Immobilien Stadt Bern (ISB)/Koordinationsstelle Zwischennutzung und Jugendamt/Kultur Stadt Bern;2019-336;Beschlossen;Verschiebung
+16.05.2019;25;Motion Fraktion SVP (Alexander Feuz, SVP): Zwischennutzungen städtischer Areale: Gleich lange Spiesse für alle! Transparenz und nicht rotgrüne Klientelpolitik ist gefordert!;2019-337;Beschlossen;Verschiebung
+16.05.2019;30;Motion Freie Fraktion AL/GaP/PdA (Christa Ammann, AL/Zora Schneider, PdA/Luzius Theiler, GaP/Seraina Patzen, JA!/Tamara Funiciello, JUSO): Steigi 69 bleibt! Kein Abriss auf Vorrat von städtischen Liegenschaften!;2019-342;Beschlossen;Verschiebung
+16.05.2019;28;Interfraktionelle Motion GB/JA!, AL/GPB-DA/PdA (Seraina Patzen, JA!/Lea Bill, GB/Christa Ammann, AL/Tabea Rai, AL/Tamara Funiciello, JUSO): Die Stadt Bern braucht eine politische Haltung im Umgang mit Hausbesetzungen;2019-340;Beschlossen;Verschiebung
+16.05.2019;29;Postulat Fraktion GFL/EVP (Michael Burkard/Patrik Wyss, GFL): Prüfung der Praxis von Zürich und Genf bei Hausbesetzungen;2019-341;Beschlossen;Verschiebung
+16.05.2019;16;Interfraktionelle Interpellation GFL/EVP, GB/JA!, AL/GaP/PdA, GLP/JGLP (Marcel Wüthrich, GFL/Matthias Stürmer, EVP/Katharina Gallizzi, GB/Eva Krattiger, JA!/Christa Ammann, AL/Luzius Theiler, GaP/Peter Ammann, GLP/Lionel Gaudy, BDP): Welche anlagestrategischen Kompetenzen hat der Stadtrat gegenüber der Personalvorsorgekasse?;2019-328;Beschlossen;Kenntnis
+16.05.2019;23;"Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Ein Haus der Vereine im Ringhof!; Fristverlängerung";2019-335;Beschlossen;Fristverl.
+16.05.2019;26;Interpellation Fraktion SVP (Alexander Feuz, SVP): Wie ernst nimmt der Gemeinderat kritische Parlamentarier und Bürger? Sind Treu und Glauben im staatlichen Handeln des Gemeinderates gewährleistet?;2019-338;Beschlossen;Verschiebung
+16.05.2019;18;Interpellation Fraktion GLP (Melanie Mettler, GLP): Zukunft der Verbreitung amtlicher Bekanntmachungen;2019-330;Beschlossen;Verschiebung
+16.05.2019;27;Interpellation BDP/CVP (Michael Daphinoff, CVP/Lionel Gaudy, BDP): Stellenwachstum nachvollziehen;2019-339;Beschlossen;Verschiebung
+16.05.2019;9;"Sanierung Freibad Weyermannshaus; Erhöhung Projektierungskredit und Baukredit Sanierung Garderobengebäude";2019-321;Beschlossen;Bewilligung
+16.05.2019;10;"Motion Gisela Vollmer (SP): Stadtlaube: Fuss- und Veloverbindung als Impuls für ein neues Stadtquartier; Abschreibung Punkt 1";2019-322;Beschlossen;Abschreibung
+16.05.2019;11;"Verlängerung der Trolleybuslinie 11 zum Warmbächliweg; Ausführungskredit";2019-323;Beschlossen;Bewilligung
+16.05.2019;13;"Motion Fraktion SP/JUSO (Liselotte Lüscher, SP/Ernst Stauffer, ARP): Der Stehstress in der Stadt Bern muss endlich ein Ende haben!; Abschreibung";2019-325;Beschlossen;Abschreibung
+16.05.2019;14;"CITRIX-Wartung für die Virtualisierungsplattform der Bürokommunikationsarbeitsplätze der Stadtverwaltung; Verpflichtungskredit";2019-326;Beschlossen;Bewilligung
+16.05.2019;8;Aufsichtskommission (AK): Ersatzwahl;2019-320;Beschlossen;Wahl
+02.05.2019;3;"Stadtteile ohne Partnergewalt (StoP). Für ein Pilotprojekt in Bern!; Verpflichtungskredit";2019-290;Beschlossen;Bewilligung
+02.05.2019;4;"Umsetzung hindernisfreier öffentlicher Raum (UHR), Teilprojekt Sitzgelegenheiten; Realisierungskredit für altersgerechte und hindernisfreie Sitzbänke";2019-291;Beschlossen;Bewilligung
+02.05.2019;8;Interfraktionelle Motion AL/GPB-DA/PdA+, SP (Mess Barry, parteilos/Daniel Egloff, PdA/Fuat Köçer, Halua Pinto de Magalhães, SP): Unterstützung von Flüchtlingen beim Abschluss einer Ausbildung;2019-295;Beschlossen;Erheblicherkl. als Postulat
+02.05.2019;12;Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Für einen wissen-schaftlichen Pilotversuch für den kontrollierten Kokainverkauf;2019-299;Beschlossen;Ablehnung
+02.05.2019;5;Interfraktionelle Motion FDP/JF, GB/JA!, GLP/JGLP, GFL/EVP (Thomas Berger, JF/Regula Tschanz, GB/Maurice Lindgren, JGLP/Manuel C. Widmer, GFL): Nächtliche Öffnung der Münsterplattform als Pilotversuch;2019-292;Beschlossen;Erheblicherkl. als Richtlinie
+02.05.2019;6;Motion Fraktion SP (Fuat Köçer/Michael Sutter): Verbindung und Erweiterung der Pilotprojekte Tempo 30 Loryplatz und Brunnmattstrasse im Bereich Brunnhof;2019-293;Beschlossen;Teilweise Erheblicherkl. als Richtlinie
+02.05.2019;15;"Motion Fraktion FDP (Bernhard Eicher): Neues Jugendzentrum für junge Menschen des 21sten Jahrhunderts; Begründungsbericht";2019-302;Beschlossen;Verschiebung
+02.05.2019;9;"Motion Fraktion AL/GPB-DA/PdA+ (Mess Barry, parteilos/Daniel Egloff, PdA): Bessere Unterstützung von Migrantinnen und Migranten beim Spracherwerb; Begründungsbericht";2019-296;Beschlossen;Kenntnis
+02.05.2019;17;Motion Kommission PVS (Franziska Grossenbacher, GB/Alexander Feuz, SVP/David Stampfli, SP): Schulraumsicherung in der Länggasse im Zusammenhang mit dem Neubau Depotstrasse 40, Abschreibung;2019-304;Beschlossen;Verschiebung
+02.05.2019;24;Interpellation Christa Amman (AL): SozialdetektivInnen in Bern - Welche Folgen hat das Urteil des Europäischen Gerichtshofs für Menschenrechte für die SozialdetektivInnen in Bern?;2019-311;Beschlossen;Verschiebung
+02.05.2019;11;Interpellation Fraktion SVP (Alexander Feuz): Zum Postulat „Zufluchtstadt Bern“: Weshalb verheimlicht der Gemeinderat dem Stadtrat die hohen Folgekosten der Annahme dieses Postulats?;2019-298;Beschlossen;Kenntnis
+02.05.2019;22;Postulat Fraktion SP/JUSO (Peter Marbet, SP): Für einen starken Bildungsstandort Bern;2019-309;Beschlossen;Verschiebung
+02.05.2019;18;Motion Fraktion GFL/EVP (Manuel C. Widmer, GFL): Keine Festvermietungen von Rasenplätzen auf Berner Schulgeländen!;2019-305;Beschlossen;Verschiebung
+02.05.2019;20;Postulat Henri-Charles Beuchat (SVP): Wahl in die Schulkommission soll kein Durchwinken von unbekannten Personen sein;2019-307;Beschlossen;Verschiebung
+02.05.2019;21;Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL): Angemessene und einheitliche Mitwirkung der LehrerInnen sicherstellen!;2019-308;Beschlossen;Verschiebung
+02.05.2019;23;Interpellation Fraktion SVP (Henri-Charles Beuchat): Religiös motivierte Dispensation vom Schwimm- und Sportunterricht in der Stadt Bern;2019-310;Beschlossen;Verschiebung
+02.05.2019;16;Motion Fraktion SP (Halua Pinto de Magalhães): Westwind plus - Kinder- und Jugendkulturprojekt für Holligen;2019-303;Beschlossen;Verschiebung
+02.05.2019;19;Interfraktionelle Motion GLP/JGLP, FDP/JF, GFL/EVP, BDP/CVP (Claude Grosjean, GLP/Thomas Berger, JF/Patrik Wyss, GFL/Philip Kohli, BDP): Fertig usebschliesse: Pilotversuch für längere Öffnungszeiten für ausgewählte Schul- und Sportanlagen in den Quartiere;2019-306;Beschlossen;Verschiebung
+02.05.2019;25;Postulat Michael Daphinoff/Milena Daphinoff (CVP): Weiterführung der kirchlichen Infrastruktur mit weltlicher Ausrichtung;2019-312;Beschlossen;Verschiebung
+02.05.2019;7;Motion Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz): Langfristige planerische Sicherung der Realisierbarkeit einer Brückenverbindung zwischen Länggasse/Viererfeld und dem Wankdorf/Wylerquartier;2019-294;Beschlossen;Ablehnung
+02.05.2019;1;"Betriebskommission des Fonds für Boden- und Wohnbaupolitik; Ersatzwahl";2019-288;Beschlossen;Wahl
+02.05.2019;10;Motion Zora Schneider (PdA): Kostenlose und professionelle Sprachkurse für die Integration der Geflüchteten in der Stadt Bern;2019-297;Beschlossen;Erheblicherkl. als Richtlinie
+02.05.2019;14;Motion Freie Fraktion AL/GaP/PdA (Christa Ammann, AL): Suche nach Standort für zweite Anlaufstelle muss weitergeführt werden!;2019-301;Beschlossen;Teilweise Erheblicherkl. als Richtlinie
+02.05.2019;13;Interfraktionelle Motion GB/JA!, SP/JUSO, FDP/JF, BDP/CVP, AL/GaP/PdA, GLP/JGLP (Lea Bill, GB/Seraina Patzen, JA!/Marieke Kruit/Yasemin Cevik, SP/Claudine Esseiva, FDP/Philip Kohli, BDP/Christa Ammann, AL/Zora Schneider, PdA/Melanie Mettler, GLP): Cannabis-Pilotprojekt – jetzt erst recht!;2019-300;Beschlossen;Kenntnis
+02.05.2019;2;Kommission für Planung, Verkehr und Stadtgrün (PVS): Ersatzwahl;2019-289;Beschlossen;Wahl
+25.04.2019;14;Dringliche Interpellation Luzius Theiler (GaP): Chliforst: Mit welchen weiteren Schritten will der Gemeinderat die BLS-Werkstätte im Landwirtschaftsgebiet verhindern?;2019-273;Beschlossen;Kenntnis
+25.04.2019;6;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Velofahren auf den Trottoirs der Thunstrasse: praktische Probleme der Umsetzung;2019-265;Beschlossen;Kenntnis
+25.04.2019;7;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Velofahren auf den Trottoirs der Thunstrasse: Dichtung und Wahrheit oder die Irreführung des Stadtrates durch den Gemeinderat;2019-266;Beschlossen;Kenntnis
+25.04.2019;1;Kleine Anfrage Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Bern Welcome und Förderverein Bern Tourismus: Gibt es hier Interessenskonflikte?;2019-260;Beschlossen;Kenntnis
+25.04.2019;2;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Bern Welcome oder Bern goodbye? Wie geht es mit Bern Welcome weiter? (Teil I Erfolgsaussichten);2019-261;Beschlossen;Kenntnis
+25.04.2019;3;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Bern Welcome oder Bern goodbye? Wie geht es mit Bern Welcome weiter? (Teil II Strategie und Erfolgsaussichten);2019-262;Beschlossen;Kenntnis
+25.04.2019;4;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Bern Welcome oder Bern goodbye? Wie geht es mit Bern Welcome weilt? (Teil III Organisation);2019-263;Beschlossen;Kenntnis
+25.04.2019;5;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Bern Welcome oder Bern goodbye? Wie geht es mit Bern Welcome weiter? (Teil IV Interessenkonflikte);2019-264;Beschlossen;Kenntnis
+25.04.2019;8;Kleine Anfrage Milena Daphinoff, Michael Daphinoff (CVP): Wie steht es um die Zwischennutzungen auf dem Viererfeld?;2019-267;Beschlossen;Kenntnis
+25.04.2019;11;"Antrag Sitzungsgelder und Entschädigungen Stadtrat; Teilrevision des Geschäftsreglements und des Stadtratsbeschlusses betreffend Festsetzung der Sitzungsgelder der Mitglieder des Stadtrats; Zuweisung zur Vorberatung gemäss Art. 82 GRSR";2019-270;Beschlossen;Zuweisung
+25.04.2019;13;"Planungsprozess Stadtraum Bahnhof; Aufstockung Planungskredit";2019-272;Beschlossen;Bewilligung
+25.04.2019;15;Dringliche Interfraktionelle Motion FDP/JF, GLP/JGLP, SVP, BDP/CVP (Bernhard Eicher/Barbara Freiburghaus FDP/Melanie Mettler, GLP/Alexander Feuz, SVP/Lionel Gaudy, BDP/Michael Daphinoff, CVP): Mehrheitsfähige Vorlage für die Überbauung des Gaswerkareals schaffen;2019-274;Beschlossen;Ablehnung
+25.04.2019;16;"Mahlzeitenvergünstigung in familienergänzenden Betreuungsangeboten: Reglement vom 30. August 2012 über die familienergänzende Betreuung von Kindern und Jugendlichen (Betreuungsreglement; FEBR; SSSB 862.31)/Reglement vom 30. März 2006 über das Schulwesen (Schulreglement; SR; SSSB 430.101); Teilrevision";2019-275;Beschlossen;Genehmigung
+25.04.2019;25;Interfraktionelle Motion GB/JA!, GLP, SP, GFL/EVP, AL/GPB-DA/PdA+ (Seraina Patzen, JA!/Cristina Anliker-Mansour, GB/Peter Ammann, GLP/Lena Sorg, SP/Tania Espinoza Haller, GFL/Christa Ammann, AL): Unterstützung für die Beratungsstelle für Sans-Papiers;2019-284;Beschlossen;Verschiebung
+25.04.2019;9;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Gaswerkareal: Schmutzige Hinterlassenschaften der Besetzer. Lernt die Stadt aus den Fehlern oder muss immer noch der Steuerzahler für die Kosten der Räumung und Reinigung aufkommen?;2019-268;Beschlossen;Kenntnis
+25.04.2019;10;Kleine Anfrage Luzius Theiler (GaP): Zur Sanierung Ostring: Mehr Autos auf Kosten der Fussgänger?;2019-269;Beschlossen;Kenntnis
+25.04.2019;26;Motion Fraktion GB/JA! (Seraina Patzen, JA!): Qualität der Asylunterkünfte in der Stadt Bern prüfen und verbessern;2019-285;Beschlossen;Verschiebung
+25.04.2019;28;Postulat Fraktion SP (Katharina Altas/Marieke Kruit): Wohnen mit Dienstleistungen - Stadt Bern soll die Versorgungslücke für EL-Beziehende und RentnerInnen mit bescheidenem Einkommen schliessen;2019-287;Beschlossen;Verschiebung
+25.04.2019;27;Interpellation Tabea Rai (AL): Betreffend Situation der LGBT-Geflüchteten (Lesbian, Gay, Bi, Transgender) in Bern – Einschätzung der Problemlage und Bereitschaft für ein Engagement beim Bund betreffend Anerkennung der Fluchtgründe im Asylgesetz und für die Erarbeitung von Lösungen mit anderen Gemeinden;2019-286;Beschlossen;Verschiebung
+25.04.2019;24;Motion Fraktion SP/JUSO (Halua Pinto de Magalhães/Fuat Köçer, SP): Ganzjähriges Aktionsprogramm gegen Rassismus – Neuauflage der Aktionswoche gegen Rassismus zum zehnjährigen Jubiläum;2019-283;Beschlossen;Verschiebung
+25.04.2019;22;Interfraktionelles Postulat GB/JA!, SP (Regula Bühlmann GB/Johannes Wartenweiler SP): Gleich lange Spiesse - Faire Arbeitsbedingungen für das Personal in Kindertagesstätten;2019-281;Beschlossen;Verschiebung
+25.04.2019;17;Interfraktionelle Motion FDP/JF, GLP/JGLP, BDP/CVP (Claudine Esseiva, FDP/Marianne Schild, GLP/Milena Daphinoff, CVP): Flächendeckendes Angebot an Tagesschulen oder Ganztagesschulen bis 2025;2019-276;Beschlossen;Erheblicherkl. als Richtlinie
+25.04.2019;19;Motion Fraktion SP/JUSO (Peter Marbet/Nadja Kehrli-Feldmann, SP): Ganz-tageskindergärten schaffen;2019-278;Beschlossen;Erheblicherkl. als Richtlinie
+25.04.2019;18;Interfraktionelle Motion GB/JA!, SP/JUSO (Regula Bühlmann, GB/Nadja Kehrli-Feldmann, SP/Brigitte Hilty Haller, GFL): Ganztagesschulen für Bern – die Zukunft beginnt heute;2019-277;Beschlossen;Erheblicherkl. als Richtlinie
+25.04.2019;20;Interfraktionelle Motion GB/JA!, SP/JUSO, GFL/EVP (Regula Bühlmann, GB/ Nadja Kehrli-Feldmann, SP/Brigitte Hilty Haller, GFL): Bedarfsgerechtes Angebot für betreute Tagesferien;2019-279;Beschlossen;Verschiebung
+25.04.2019;21;Postulat Fraktion GB/JA! (Regula Bühlmann, GB): Elternbeiträge an Kinderbetreuung auf europäisches Niveau senken;2019-280;Beschlossen;Verschiebung
+25.04.2019;23;Postulat Fraktion SP (Fuat Köçer/Halua Pinto de Magalhães, SP): Vielfalt im Lehrerzimmer als Antwort auf Vielfalt im Klassenzimmer;2019-282;Beschlossen;Verschiebung
+25.04.2019;12;Kommission für Finanzen, Sicherheit und Umwelt (FSU): Wahlen Legislatur 2017 - 2020;2019-271;Beschlossen;Wahl
+04.04.2019;10;Dringliche interfraktionelle Motion FDP/JF, GLP/JGLP, SVP, BDP/CVP (Bernhard Eicher/Barbara Freiburghaus FDP/Melanie Mettler, GLP/Alexander Feuz, SVP/Lionel Gaudy, BDP/Michael Daphinoff, CVP): Mehrheitsfähige Vorlage für die Überbauung des Gaswerkareals schaffen;2019-249;Beschlossen;Verschiebung
+04.04.2019;8;Wohnstrategie Stadt Bern mit Massnahmen;2019-247;Beschlossen;Kenntnis
+04.04.2019;7;"Hallenbad Hirschengraben: Massnahmen zur Betriebsaufrechterhaltung betreffend Sicherheit 2019-2026; Baukredit";2019-246;Beschlossen;Bewilligung
+04.04.2019;11;Logistik Bern: Nachkredit zum Globalbudget 2018;2019-250;Beschlossen;Bewilligung
+04.04.2019;12;"Zweites Rechenzentrum; Verlängerung des Housing-Vertrags; Verpflichtungskredit";2019-251;Beschlossen;Bewilligung
+04.04.2019;1;Protokollgenehmigung Stadtrat 2019 (Protokoll Nr. 3 vom 14.02.2019);2019-240;Beschlossen;Genehmigung
+04.04.2019;9;"Motion Fraktion GLP (Melanie Mettler, GLP): Planungsprozess für das Gaswerkareal unverzüglich starten; Abschreibung";2019-248;Beschlossen;Abschreibung
+04.04.2019;2;Kleine Anfrage Fraktion SVP (Roger Mischler, SVP): Krähenplage im Nordquartier;2019-241;Beschlossen;Kenntnis
+04.04.2019;5;Kleine Anfrage Fraktion SVP (Roger Mischler, SVP): Veloverleih PubliBike AG – Kennzahlen über Nutzer der Bikes;2019-244;Beschlossen;Kenntnis
+04.04.2019;3;Kleine Anfrage Fraktion GB/JA! (Regula Bühlmann, GB): Wie klein müssen Kundgebungen auf dem Bundesplatz sein?;2019-242;Beschlossen;Kenntnis
+04.04.2019;4;Kleine Anfrage Fraktion GB/JA! (Regula Bühlmann, GB): Wie gross müssen Kundgebungen auf dem Bundesplatz sein?;2019-243;Beschlossen;Kenntnis
+04.04.2019;6;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Schleichverkehr am Viktoriaplatz: Wurde die Wirtschaft vom Gemeinderat vor vollendete Tatsachen gestellt oder bestand ein Konsens?;2019-245;Beschlossen;Kenntnis
+04.04.2019;13;"Interfraktionelle Motion GB/JA!, GLP, GFL, EVP, SP (Franziska Grossenbacher, GB/Melanie Mettler, GLP/Patrik Wyss, GFL/Michael Sutter, SP): Mittel- und Viererfeld: Politische Leitlinien für den städtebaulichen Wettbewerb; Begründungsbericht";2019-252;Beschlossen;Kenntnis
+04.04.2019;15;Interfraktionelle Motion FDP/JF, SVP, GLP/JGLP, BDP/CVP (Bernhard Eicher/Vivianne Esseiva, FDP/Kurt Rüegsegger SVP/Matthias Egli, GLP/Lionel Gaudy, BDP): Städtisches Bauwesen: vermehrte Anwendung der Idee des 2-Couvert Verfahrens;2019-254;Beschlossen;Kenntnis
+04.04.2019;17;Motion Fraktion GB/JA! (Regula Tschanz, GB): Städtisches Lohnsystem auf den Stand der Zeit bringen;2019-256;Beschlossen;Erheblicherkl. als Postulat
+04.04.2019;20;"Interfraktionelle Motion SP, AL/GPD-DA/PdA+, GB/JA!, GLP (Martin Krebs, SP/Christa Ammann, AL/Seraina Patzen, JA!/Melanie Mettler, GLP/Matthias Stürmer, EVP): Standplätze für Fahrende – Keine Räumung im Buech!; Begründungsbericht Punkt 1/Abschreibung Punkt 2";2019-259;Beschlossen;Verschiebung
+04.04.2019;16;Interfraktionelle Motion FDP/JF, BDP/CVP, GLP/JGLP, GFL/EVP, SP/JUSO (Thomas Berger, JF/Vivianne Esseiva, FDP/Lionel Gaudy, BDP/Milena Daphinoff, CVP/Manuel C. Widmer, GFL/Lukas Meier, SP/Maurice Lindgren, JGLP): Gastronomiebetriebe in Stadtberner Bädern vom Badebetrieb trennen;2019-255;Beschlossen;Erheblicherkl.
+04.04.2019;18;Motion Fraktion SVP (Alexander Feuz, SVP): Zwischennutzungen städtischer Areale: Gleich lange Spiesse für alle! Transparenz und nicht rotgrüne Klientelpolitik ist gefordert!;2019-257;Beschlossen;Verschiebung
+04.04.2019;14;"Motion GB/JA! (Franziska Grossenbacher, GB): Für Mensch und Natur Biodiversitätsförderung und Mitwirkung der Nutzenden in der Gestaltung des Aussenraums; Begründungsbericht";2019-253;Beschlossen;Kenntnis
+04.04.2019;19;Postulat Fraktion SP/JUSO (Katharina Altas, SP): Mehr günstige Räume für Kultur und Bildung dank besserer Zusammenarbeit zwischen Immobilien Stadt Bern (ISB)/Koordinationsstelle Zwischennutzung und Jugendamt/Kultur Stadt Bern;2019-258;Beschlossen;Verschiebung
+28.03.2019;13;Dringliche Motion Fraktion FDP/JF (Oliver Berger/Christophe Weder, FDP): Verzicht auf neues Temporegime am Viktoriaplatz;2019-228;Beschlossen;Ablehnung
+28.03.2019;10;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Wie sind die Veloabstellplätze im Raum Bahnhof ausgelastet? Welche Fussdistanz zum Veloparkplatz ist für Velofahrer noch zumutbar? Wie will der Gemeinderat verhindern, dass trotz der neu geplanten Veloeinstellhallen gleichwohl im Raum Bahnhof oberirdisch Velos wild abgestellt werden und neue Velodeponien wie beim Hirschengraben entstehen?;2019-225;Beschlossen;Kenntnis
+28.03.2019;1;Protokollgenehmigungen Stadtrat 2019 (Protokoll Nr. 2 vom 31.01.2019);2019-216;Beschlossen;Genehmigung
+28.03.2019;3;"Sporthalle Wankdorf, Ersatz der Audioanlage und Spielanzeige; Projektierungs- und Baukredit";2019-218;Beschlossen;Bewilligung
+28.03.2019;4;"Sanierung Freibad Lorraine; Projektierungskredit";2019-219;Beschlossen;Bewilligung
+28.03.2019;11;"Gesamtsanierung Rathausgasse: Einbau einer Pflästerung, Ersatz der Abwasserleitung; Ausführungskredit";2019-226;Beschlossen;Bewilligung
+28.03.2019;12;"Fuss- und Veloverbindung Weyermannshaus Ost: Vorstudie und Vorprojekt; Projektierungskredit";2019-227;Beschlossen;Bewilligung
+28.03.2019;2;Antrag auf definitive Anstellung der Ratssekretärin;2019-217;Beschlossen;Bewilligung
+28.03.2019;14;Motion Fraktion SVP (Alexander Feuz, SVP): Gründung von Bern Welcome: zu einem herzlichen Willkommen für unser Gäste gehört auch eine saubere und sichere Stadt Bern!;2019-229;Beschlossen;Ablehnung
+28.03.2019;19;Postulat Freie Fraktion AL/GPB-DA/PdA (Tabea Rai, AL): Mehr urbane Aare-Lebensqualität für alle durch Brückenlifte;2019-234;Beschlossen;Erheblicherkl.
+28.03.2019;7;Interfraktionelle Interpellation SP/JUSO, GB/JA! (Katharina Altas, SP/Leena Schmitter, GB): Bundesmillion: Lässt der Bund die Bundesstadt im Stich?;2019-222;Beschlossen;Kenntnis
+28.03.2019;15;Motion Fraktion SVP (Roland Iseli, SVP): Mehr Parkplätze für Roller und Motorräder;2019-230;Beschlossen;Ablehnung
+28.03.2019;9;Interpellation Fraktion SVP (Hans Ulrich Gränicher, SVP): Ein neues Botschaftsquartier für Bern?;2019-224;Beschlossen;Kenntnis
+28.03.2019;6;Interfraktionelles Postulat FDP/JF, GLP/JGLP, GB/JA!, BDP/CVP, SP/JUSO (Bernhard Eicher, FDP/Thomas Berger, JF/Patrick Zillig, GLP/Franziska Grossenbacher, GB/Philip Kohli, BDP/Katharina Altas, SP): Rückgewinnung von Siedlungsraum: Prüfung von Potential zur Überdachung von Verkehrsflächen;2019-221;Beschlossen;Genehmigung Prüf.bericht
+28.03.2019;20;Interpellation Melanie Mettler (GLP) und Barbara Nyffeler (SP): Rückgang des Fussverkehrs?;2019-235;Beschlossen;Kenntnis
+28.03.2019;17;Interfraktionelle Motion SP/JUSO, GLP/JGLP (Michael Sutter, SP/Melanie Mettler, GLP): Verlängerung der Buslinie 11 bis zum Europaplatz;2019-232;Beschlossen;Erheblicherkl. als Richtlinie
+28.03.2019;5;Motion Fraktion SP/JUSO (Johannes Wartenweiler/Barbara Nyffeler, SP): Eine Strategie für den Wirtschafts- und Arbeitsstandort Stadt Bern;2019-220;Beschlossen;Erheblicherkl. als Richtlinie
+28.03.2019;8;Interfraktionelle Interpellation GB/JA!, SP/JUSO (Regula Bühlmann, GB/Patrizia Mordini, SP): Wie wird die Charta für Lohngleichheit im öffentlichen Sektor in Bern umgesetzt?;2019-223;Beschlossen;Kenntnis
+28.03.2019;16;Motion Fraktion SVP (Roland Iseli, SVP): Behinderten Parkplätze am Bärenpark;2019-231;Beschlossen;Erheblicherkl. als Richtlinie
+28.03.2019;18;Motion Fraktion GLP/JGLP (Matthias Egli, GLP): SmartCity Bern mit selbstfahrenden Shuttles für eine bessere Erschliessung der Quartiere;2019-233;Beschlossen;Teilweise Erheblicherkl. als Richtlinie
+28.03.2019;21;Motion Fraktion FDP/JF (Barbara Freiburghaus/Bernhard Eicher, FDP): Parkplatzkompromiss bei Velos;2019-236;Beschlossen;Teilweise Erheblicherkl.
+28.03.2019;22;Interpellation Erich Hess (SVP): Spart sich Bernmobil die Beiträge an die Pensionskasse?;2019-237;Beschlossen;Kenntnis
+28.03.2019;23;Interfraktionelle Motion GLP/JGLP, CVP/BDP, FDP/JF (Matthias Egli, GLP/Michael Daphinoff, CVP/Bernhard Eicher, FDP): Sicherstellen der Abfallentsorgung an allen Arbeitstagen;2019-238;Beschlossen;Ablehnung
+28.03.2019;24;Motion Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Langfristige planerische Sicherung der Realisierbarkeit einer Brückenverbindung zwischen Länggasse/Viererfeld und dem Wankdorf/Wylerquartier;2019-239;Beschlossen;Verschiebung
+21.03.2019;1;"Interfraktionelles Postulat SP, AL/GPB-DA/PdA+, SVP (Gisela Vollmer, SP/Luzius Theiler, GPB-DA/Kurt Rüegsegger, SVP): Bern+ mit Stadtmodell „Endlich diese Übersicht“; Fristverlängerung Prüfungsbericht";2019-100;Beschlossen;Fristverl.
+21.03.2019;2;"Motion Fraktion GB/JA! (Judith Gasser/Aline Trede, GB): Biodiversität in der Stadt Bern erhalten und fördern (I): unversiegelten Boden erhalten; Fristverlängerung Punkt 1 a";2019-101;Beschlossen;Fristverl.
+21.03.2019;3;"Interfraktionelle Motion SP, BDP/CVP, GLP, GB/JA! (Gisela Vollmer, SP/Martin Mäder, BDP/Franziska Grossenbacher, GB/Melanie Mettler, GLP/Manuel C. Widmer, GFL): Ausserholligen: Ein neues Stadtquartier und den zweitgrössten Umsteigepunkt in Bern können doch die SBB nicht verhindern!; Fristverlängerung";2019-102;Beschlossen;Fristverl.
+21.03.2019;5;"Motion Fraktion AL/GPB-DA/PdA+ (Luzius Theiler GPB-DA): Gegen Zweckentfremdung von Wohnraum in der Altstadt; Fristverlängerung";2019-104;Beschlossen;Fristverl.
+21.03.2019;4;"Motion Fraktion SP (Katharina Altas/Marieke Kruit, SP): Keine weiteren „toten"" Schaufenster in der Berner Altstadt; Fristverlängerung Punkt 1";2019-103;Beschlossen;Fristverl.
+21.03.2019;6;"Interfraktionelle Motion SP, GB/JA! (Marieke Kruit/Lena Sorg, SP/Regula Tschanz, GB): SBB-Areale in Bern – Chance für mehr bezahlbaren Wohnraum in Bern nicht verpassen; Begründungsbericht";2019-105;Beschlossen;Kenntnis
+21.03.2019;56;"Postulat Fraktion BDP/CVP (Michael Daphinoff, CVP/Martin Schneider, BDP):  Fördermassnahmen für mehr Elektromobilität in Bern; Fristverlängerung Prüfungsbericht Punkt 3";2019-155;Beschlossen;Verschiebung
+21.03.2019;57;"Interfraktionelle Motion SP, GB/JA, AL/GPB-DA/PdA+, BDP/CVP (Patrizia Mordini/Johannes Wartenweiler, SP/Stéphanie Penher, GB/Daniel Egloff, PdA/Hans Kupferschmid, BDP/Manuel C. Widmer, GFL): Nein zu weiteren Poststellenschliessungen – nein zum Abbau des Service public; Begründungsbericht";2019-156;Beschlossen;Kenntnis
+21.03.2019;108;Interfraktionelle Motion FDP/JF, GLP/JGLP, BDP/CVP (Claudine Esseiva, FDP/Marianne Schild, GLP/Milena Daphinoff, CVP): Flächendeckendes Angebot an Tagesschulen oder Ganztagesschulen bis 2025;2019-207;Beschlossen;Verschiebung
+21.03.2019;90;"Motion Fraktion AL/GPB-DA/PdA+ (Mess Barry, parteilos/Daniel Egloff, PdA): Bessere Unterstützung von Migrantinnen und Migranten beim Spracherwerb; Begründungsbericht";2019-189;Beschlossen;Verschiebung
+21.03.2019;89;"Motion Fraktion FDP (Bernhard Eicher, FDP): Neues Jugendzentrum für junge Menschen des 21sten Jahrhunderts; Begründungsbericht";2019-188;Beschlossen;Verschiebung
+21.03.2019;32;"Motion Fraktion SP/JUSO (Andreas Flückiger, SP): Naturerlebnispark im Gäbelbachtal; Fristverlängerung";2019-131;Beschlossen;Fristverl.
+21.03.2019;33;"Interfraktionelle Motion GFL/EVP, GB/JA!/GPB (Ueli Stückelberger, GFL/Blaise Kropf, JA!): Mehr Wohnqualität: Zusätzliche Verkehrsberuhigungsmassnahmen im Stadtteil 3 (Mattenhof/Weissenbühl); Fristverlängerung";2019-132;Beschlossen;Fristverl.
+21.03.2019;34;"Postulat Fraktion SP/JUSO (Silvia Schoch-Meyer, SP): Eine andere Gestaltung der Tramhaltestelle Wander muss geprüft werden!; Fristverlängerung";2019-133;Beschlossen;Fristverl.
+21.03.2019;36;"Postulat Fraktion SP (Michael Sutter/Ingrid Kissling-Näf, SP): Harmonisierung der Parkgebühren in der Berner Altstadt; Fristverlängerung Prüfungsbericht";2019-135;Beschlossen;Fristverl.
+21.03.2019;35;"Interfraktionelle Motion GFL/EVP, SP/JUSO (Peter Künzler, GFL/Beat Zobrist, SP): Verkehrsberuhigung Viktoriarain; Fristverlängerung Punkt 1";2019-134;Beschlossen;Fristverl.
+21.03.2019;37;"Postulat Fraktion SP (David Stampfli SP): Sicheres Schulumfeld in der Länggasse; Fristverlängerung Prüfungsbericht";2019-136;Beschlossen;Fristverl.
+21.03.2019;38;"Postulat Fraktion SP (Benno Frauchiger, SP): Elektromobilität für alle – Anwohnerparkplätze mit Stromanschluss; Fristverlängerung Prüfungsbericht";2019-137;Beschlossen;Fristverl.
+21.03.2019;40;Interfraktionelle Motion FDP/JF, GLP/JGLP (Claudine Esseiva, FDP/Marianne Schild GLP): Ehre für den Berner Friedensnobelpreisträger Charles Albert Gobat: Waffenweg in Gobat-Weg umbenennen;2019-139;Beschlossen;Kenntnis
+21.03.2019;41;"Motion David Stampfli (SP): Velonetzlücke beim Bubenbergplatz schliessen; Begründungsbericht";2019-140;Beschlossen;Kenntnis
+21.03.2019;42;"Motion Fraktion SP/JUSO (Miriam Schwarz, SP): Fussgänger- und velofreundliche Ampelsteuerung der Kreuzung Monbijou/Eigerstrasse (Haltestelle Sulgenau); Begründungsbericht";2019-141;Beschlossen;Kenntnis
+21.03.2019;72;"Motion Rolf Zbinden (PdA): Keine weitere Vernichtung von günstigen Wohnungen in der Stadt Bern; Fristverlängerung Punkt 2";2019-171;Beschlossen;Fristverl.
+21.03.2019;85;Motion Freie Fraktion AL/GaP/PdA (Christa Ammann, AL/Zora Schneider, PdA/Luzius Theiler, GaP/Seraina Patzen, JA!/Tamara Funiciello, JUSO): Steigi 69 bleibt! Kein Abriss auf Vorrat von städtischen Liegenschaften!;2019-184;Beschlossen;Verschiebung
+21.03.2019;73;"Interfraktionelle Motion GB/JA!, GLP, GFL, EVP, SP (Franziska Grossenbacher, GB/Melanie Mettler, GLP/Patrik Wyss, GFL/Michael Sutter, SP): Mittel- und Viererfeld: Politische Leitlinien für den städtebaulichen Wettbewerb; Begründungsbericht";2019-172;Beschlossen;Verschiebung
+21.03.2019;74;"Motion GB/JA! (Franziska Grossenbacher, GB): Für Mensch und Natur Biodiversitätsförderung und Mitwirkung der Nutzenden in der Gestaltung des Aussenraums; Begründungsbericht";2019-173;Beschlossen;Verschiebung
+21.03.2019;84;Interfraktionelle Motion FDP/JF, SVP, GLP/JGLP, BDP/CVP (Bernhard Eicher/Vivianne Esseiva, FDP/Kurt Rüegsegger SVP/Matthias Egli, GLP/Lionel Gaudy, BDP): Städtisches Bauwesen: vermehrte Anwendung der Idee des 2-Couvert Verfahrens;2019-183;Beschlossen;Verschiebung
+21.03.2019;47;"I5100390, Fr. 820 000.00, Erneuerung Lichtsignalanlage Laubegg-/Schosshaldenstrasse; Nachkredit";2019-146;Beschlossen;Genehmigung
+21.03.2019;8;"Motion Fraktion SP/JUSO (Raymond Anliker, SP): Sicherheit in der Stadt Bern: Konzept und Massnahmenplan zur Gebietsaufwertung; Abschreibung Punkt 3";2019-107;Beschlossen;Abschreibung
+21.03.2019;9;"Motion Gisela Vollmer (SP): Stadtlaube: Fuss- und Veloverbindung als Impuls für ein neues Stadtquartier; Abschreibung Punkt 1";2019-108;Beschlossen;Verschiebung
+21.03.2019;98;"Motion Kommission PVS (Franziska Grossenbacher, GB/Alexander Feuz, SVP/David Stampfli, SP): Schulraumsicherung in der Länggasse im Zusammenhang mit dem Neubau Depotstrasse 40; Abschreibung";2019-197;Beschlossen;Verschiebung
+21.03.2019;92;Interfraktionelle Motion GB/JA!, GLP, SP, GFL/EVP, AL/GPB-DA/PdA+ (Seraina Patzen, JA!/Cristina Anliker-Mansour, GB/Peter Ammann, GLP/Lena Sorg, SP/Tania Espinoza Haller, GFL/Christa Ammann, AL): Unterstützung für die Beratungsstelle für Sans-Papiers;2019-191;Beschlossen;Verschiebung
+21.03.2019;91;Interfraktionelle Motion AL/GPB-DA/PdA+, SP (Mess Barry, parteilos/Daniel Egloff, PdA/Fuat Köçer, Halua Pinto de Magalhães, SP): Unterstützung von Flüchtlingen beim Abschluss einer Ausbildung;2019-190;Beschlossen;Verschiebung
+21.03.2019;93;Motion Fraktion GB/JA! (Seraina Patzen, JA!): Qualität der Asylunterkünfte in der Stadt Bern prüfen und verbessern;2019-192;Beschlossen;Verschiebung
+21.03.2019;94;Postulat Fraktion SP (Fuat Köçer/Halua Pinto de Magalhães, SP): Vielfalt im Lehrerzimmer als Antwort auf Vielfalt im Klassenzimmer;2019-193;Beschlossen;Verschiebung
+21.03.2019;95;Interfraktionelle Motion GB/JA!, GFL/EVP, GLP (Franziska Grossenbacher, GB/Michael Steiner, GFL/Sandra Ryser, GLP): Klima schützen und Kosten sparen mit energieeffizienter Schwimmhalle;2019-194;Beschlossen;Verschiebung
+21.03.2019;96;Postulat Fraktion SP (Katharina Altas/Marieke Kruit, SP): Wohnen mit Dienstleistungen – Stadt Bern soll die Versorgungslücke für EL-Beziehende und RentnerInnen mit bescheidenem Einkommen schliessen;2019-195;Beschlossen;Verschiebung
+21.03.2019;97;Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Für einen wissenschaftlichen Pilotversuch für den kontrollierten Kokainverkauf;2019-196;Beschlossen;Verschiebung
+21.03.2019;43;Motion Fraktion BDP/CVP (Kurt Hirsbrunner, BDP/Claudio Fischer, CVP): Unübersichtliche, gefährliche und unklare Verkehrs- bzw. Parkiersituation entlang der Bolligenstrasse 46 bis 56 und auf der anschliessenden Nussbaumstrasse soll nun endlich zur Zufriedenheit der Anwohnerinnen und Anwohner gelöst werden!;2019-142;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;44;Interpellation Fraktion SP (Michael Sutter/Edith Siegenthaler, SP): Keine Besetzung des öffentlichen Raums durch APG-Werbe-Banderolen;2019-143;Beschlossen;Kenntnis
+21.03.2019;45;Motion Fraktion SP (David Stampfli/Katharina Altas, SP): Eine Maurice Bavaud-Strasse in Bern;2019-144;Beschlossen;Erheblicherkl. als Postulat
+21.03.2019;46;Motion Michael Daphinoff und Milena Daphinoff (CVP): Mehr Sicherheit auf gemischt genutzten Velo-Fussgängerflächen durch Verbesserung der (Boden-)Signalisation;2019-145;Beschlossen;Teilweise Erheblicherkl. als Postulat
+21.03.2019;58;Postulat Lionel Gaudy (BDP): Das Aareufer für Bernerinnen und Berner – la dolce vita!;2019-157;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;59;Postulat Fraktion BDP/CVP (Lionel Gaudy/Philip Kohli, BDP/Milena Daphinoff, CVP): Es werde Licht – ein Beleuchtungskonzept für die Aareuferwege;2019-158;Beschlossen;Ablehnung
+21.03.2019;60;Interpellation Christa Ammann (AL): Polizeieinsatz gegen die Afrin-Kundgebung – offene Fragen zur Vorbereitung und zur Einschätzung der Lage im Vorfeld;2019-159;Beschlossen;Kenntnis
+21.03.2019;61;Interpellation Christa Ammann (AL): Fragen zum Polizeieinsatz an der Afrin-Kundgebung vom 7. April 2018;2019-160;Beschlossen;Kenntnis
+21.03.2019;63;Interpellation Fraktion SP/JUSO (Ingrid Kissling-Näf, SP): Zur digitalen Transformation in der Verwaltung;2019-162;Beschlossen;Kenntnis
+21.03.2019;62;Interpellation SP/JUSO (Johannes Wartenweiler/Michael Sutter, SP): Warum lässt die Polizei grabschende Rassisten an der Aare gewähren?;2019-161;Beschlossen;Kenntnis
+21.03.2019;64;Interfraktionelle Interpellation GB/JA!, AL/GaP/PdA (Franziska Grossenbacher, GB/Eva Krattiger, JA!/Tabea Rai, AL): Luxushotel überwacht den öffentlichen Raum – was unternimmt der Gemeinderat?;2019-163;Beschlossen;Kenntnis
+21.03.2019;7;Interpellation Fraktion SP/JUSO (Peter Marbet, SP): Umnutzung oder Rückführung geeigneter freiwerdender Büroräume zu Wohnraum bei Bezug des neuen Verwaltungszentrums im ehemaligen Zeughausareal am Guisanplatz;2019-106;Beschlossen;Kenntnis
+21.03.2019;12;Interpellation Fraktion GLP (Patrick Zillig, GLP): E-Government-Strategie Stadt Bern – Stand der Umsetzung;2019-111;Beschlossen;Kenntnis
+21.03.2019;99;Interpellation Tabea Rai (AL): Betreffend Situation der LGBT-Geflüchteten (Lesbian, Gay, Bi, Transgender) in Bern – Einschätzung der Problemlage und Bereitschaft für ein Engagement beim Bund betreffend Anerkennung der Fluchtgründe im Asylgesetz und für die Erarbeitung von Lösungen mit anderen Gemeinden;2019-198;Beschlossen;Verschiebung
+21.03.2019;82;Interpellation BDP/CVP (Michael Daphinoff, CVP/Lionel Gaudy, BDP): Stellenwachstum nachvollziehen;2019-181;Beschlossen;Verschiebung
+21.03.2019;13;Interfraktionelle Motion GFL/EVP, GLP/JGLP, SP, BDP/CVP (Matthias Stürmer, EVP/Manuel C. Widmer, GFL/Matthias Egli, GLP/Ingrid Kissling, SP/Lionel Gaudy, BDP/Milena Daphinoff, CVP): Mehr BürgerInnenbeteiligung dank Open Smart City Bern;2019-112;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;14;Postulat Fraktion BDP/CVP (Philip Kohli/Andrin Soppelsa, BDP): Willkommen im 21. Jahrhundert – Potential der bargeld- und kontaktlosen Zahlung prüfen!;2019-113;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;15;Motion Agglomerationskommission Stadt Bern (Ruth Altmann, FDP/Ingrid Kissling-Näf, SP): Eine Share-Region-Strategie für die Kernagglomeration Bern;2019-114;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;16;Postulat Fraktion SP/JUSO (Halua Pinto de Magalhães/Johannes Wartenweiler, SP): Neuorientierung der Wirtschaftsförderung: Mehr Kooperation statt Standortmarketing;2019-115;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;65;Interfraktionelle Motion GFL/EVP, GB/JA! (Lukas Gutzwiller, GFL/Stéphanie Penher, GB): Der Gebäudebestand der Stadt Bern wird bis 2035 klimaneutral;2019-164;Beschlossen;Verschiebung
+21.03.2019;67;Interfraktionelles Postulat FDP/JF, BDP/CVP, GLP/JGLP, GFL/EVP (Tom Berger, JF/Milena Daphinoff, CVP/Claude Grosjean, GLP/Manuel C. Widmer/Brigitte Hilty Haller, GFL): Zeitgemässe Rahmenbedingungen für die Stadtberner Kultur- und Gastronomiebetriebe;2019-166;Beschlossen;Verschiebung
+21.03.2019;102;Postulat Fraktion SP/JUSO (Peter Marbet, SP): Für einen starken Bildungsstandort Bern;2019-201;Beschlossen;Verschiebung
+21.03.2019;103;Motion Fraktion SP/JUSO (Halua Pinto de Magalhães/Fuat Köçer, SP): Ganzjähriges Aktionsprogramm gegen Rassismus – Neuauflage der Aktionswoche gegen Rassismus zum zehnjährigen Jubiläum;2019-202;Beschlossen;Verschiebung
+21.03.2019;39;Interfraktionelle Motion GLP/JGLP, BDP/CVP, SP/JUSO, GFL/EVP (Matthias Egli, GLP/Michael Daphinoff, CVP/Benno Frauchiger, SP/Franziska Grossenbacher, GB/Matthias Stürmer, EVP): Elektroautos als Teil der Mobilität in Bern anerkennen und geeignete Anreize schaffen;2019-138;Beschlossen;Verschiebung
+21.03.2019;104;Motion Fraktion GFL/EVP (Manuel C. Widmer, GFL): Keine Festvermietungen von Rasenplätzen auf Berner Schulgeländen!;2019-203;Beschlossen;Verschiebung
+21.03.2019;86;Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Verzicht auf Herbizide und andere Pestizide bei den städtisch bewirtschafteten Weingütern!;2019-185;Beschlossen;Verschiebung
+21.03.2019;66;Motion Fraktion GFL/EVP (Lukas Gutzwiller, GFL/Bettina Jans-Troxler, EVP): Runde Tische für die Stadtberner Immobilienbesitzenden zur Förderung von energetischen Gebäudesanierungen;2019-165;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;79;Interpellation Fraktion SVP (Alexander Feuz/Stefan Hofer, SVP): Gibt es in der Stadt Bern nebst der Schulzahnklinik auch noch in anderen Direktionen Fälle, in denen im Personalbereich hohe Abgangsentschädigungen ausbezahlt werden mussten?;2019-178;Beschlossen;Kenntnis
+21.03.2019;20;Motion Fraktion SP Fuat Köçer, SP): Historische Denkmäler beschriften, Berner Geschichte der Öffentlichkeit näherbringen;2019-119;Beschlossen;Erheblicherkl. als Postulat
+21.03.2019;11;Interpellation Fraktion SVP (Alexander Feuz, SVP): Asbest im Kirchenfeldschulhaus: Deus ex Machina? Corriger la fortune? Oder ein Schelm, wer Böses denkt;2019-110;Beschlossen;Kenntnis
+21.03.2019;21;Motion Fraktion SP (Peter Marbet/Michael Sutter, SP): Weyermannshaus: Mehr Qualität im Aussenraum I – Schaffen eines Quartierzentrums;2019-120;Beschlossen;Verschiebung
+21.03.2019;22;Motion Fraktion SP (Peter Marbet/Michael Sutter, SP): Weyermannshaus: Mehr Qualität im Aussenraum II – Schaffen des Grünraums Stadtbach;2019-121;Beschlossen;Verschiebung
+21.03.2019;27;Postulat Fraktion SP (Stefan Jordi, SP): Kasernenareal Bern: Wieso wird das brachliegende Potential nicht besser genutzt?;2019-126;Beschlossen;Erheblicherkl.
+21.03.2019;24;Motion Fraktion FDP (Bernhard Eicher, FDP): Bewilligungsverfahren für alle Kulturschaffenden vereinfachen;2019-123;Beschlossen;Verschiebung
+21.03.2019;25;Motion Fraktion FDP (Bernhard Eicher, FDP): Unternehmerische Kulturschaffende stärken;2019-124;Beschlossen;Verschiebung
+21.03.2019;68;Postulat Hans Ulrich Gränicher (SVP): Fehlende Beschilderung von touristisch wichtigen Objekten und Sehenswürdigkeiten in der Stadt Bern – Ausarbeiten eines Konzepts und Realisierung fehlender Wegweiser und Routeninformation;2019-167;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;100;Interpellation Christa Ammann (AL): SozialdetektivInnen in Bern – Welche Folgen hat das Urteil des Europäischen Gerichtshofs für Menschenrechte für die SozialdetektivInnen in Bern?;2019-199;Beschlossen;Verschiebung
+21.03.2019;80;Interpellation Fraktion GLP (Melanie Mettler, GLP): Zukunft der Verbreitung amtlicher Bekanntmachungen;2019-179;Beschlossen;Verschiebung
+21.03.2019;106;Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL): Angemessene und einheitliche Mitwirkung der LehrerInnen sicherstellen!;2019-205;Beschlossen;Verschiebung
+21.03.2019;107;Interfraktionelles Postulat GB/JA!, SP (Regula Bühlmann, GB/Johannes Wartenweiler, SP): Gleich lange Spiesse – Faire Arbeitsbedingungen für das Personal in Kindertagesstätten;2019-206;Beschlossen;Verschiebung
+21.03.2019;112;Postulat Fraktion GB/JA! (Regula Bühlmann, GB): Elternbeiträge an Kinderbetreuung auf europäisches Niveau senken;2019-211;Beschlossen;Verschiebung
+21.03.2019;81;Interpellation Fraktion SVP (Alexander Feuz, SVP): Wie ernst nimmt der Gemeinderat kritische Parlamentarier und Bürger? Sind Treu und Glauben im staatlichen Handeln des Gemeinderates gewährleistet?;2019-180;Beschlossen;Verschiebung
+21.03.2019;88;Postulat Fraktion SP/JUSO (Katharina Altas, SP): Mehr günstige Räume für Kultur und Bildung dank besserer Zusammenarbeit zwischen Immobilien Stadt Bern (ISB)/Koordinationsstelle Zwischennutzung und Jugendamt/Kultur Stadt Bern;2019-187;Beschlossen;Verschiebung
+21.03.2019;113;Interpellation Fraktion SVP (Henri-Charles Beuchat, SVP): Religiös motivierte Dispensation vom Schwimm- und Sportunterricht in der Stadt Bern;2019-212;Beschlossen;Verschiebung
+21.03.2019;28;Postulat Fraktion GB/JA! (Regula Tschanz, GB): Barrierefreier Webauftritt für die Stadt Bern;2019-127;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;23;Interfraktionelle Motion SP, GB/JA! (Peter Marbet, SP/Franziska Grossenbacher, GB): Arealentwicklung Güterstrasse-Weyermannsstrasse an die Hand nehmen;2019-122;Beschlossen;Erheblicherkl.
+21.03.2019;55;Motion Fraktion SP (Fuat Köçer/Michael Sutter, SP): Verbindung und Erweiterung der Pilotprojekte Tempo 30 Loryplatz und Brunnmattstrasse im Bereich Brunnhof;2019-154;Beschlossen;Verschiebung
+21.03.2019;114;Motion Fraktion SP (Halua Pinto de Magalhães): Westwind plus – Kinder- und Jugendkulturprojekt für Holligen;2019-213;Beschlossen;Verschiebung
+21.03.2019;26;Motion Henri-Charles Beuchat (SVP): Kulturaustausch – Schluss mit gratis Ausland-Trip auf Kosten der Steuerzahler;2019-125;Beschlossen;Ablehnung
+21.03.2019;116;Postulat Michael Daphinoff und Milena Daphinoff (CVP): Weiterführung der kirchlichen Infrastruktur mit weltlicher Ausrichtung;2019-215;Beschlossen;Verschiebung
+21.03.2019;101;Interpellation Fraktion SVP (Alexander Feuz, SVP): Zum Postulat „Zufluchtstadt Bern“: Weshalb verheimlicht der Gemeinderat dem Stadtrat die hohen Folgekosten der Annahme dieses Postulats?;2019-200;Beschlossen;Verschiebung
+21.03.2019;109;Motion Fraktion SP/JUSO (Peter Marbet/Nadja Kehrli-Feldmann, SP): Ganztageskindergärten schaffen;2019-208;Beschlossen;Verschiebung
+21.03.2019;29;Motion Fraktion SVP (Roland Iseli, SVP): Neuer Standort für das Politforum Käfigturm;2019-128;Beschlossen;Erheblicherkl. als Postulat
+21.03.2019;48;Motion Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): Zäme geits: Sharing is caring – GiveBoxes und ähnliches unbürokratisch ermöglichen;2019-147;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;10;Interpellation Henri-Charles Beuchat (SVP): Einholung einer Stellungnahme bei der AK zum revidierten kantonalen Polizeigesetz vom 21. September 2016 – Gewaltentrennung auf dem Prüfstand;2019-109;Beschlossen;Kenntnis
+21.03.2019;17;Motion Fraktion SVP (Erich Hess, SVP): Listenverbindungen bei Gemeinderatswahlen;2019-116;Beschlossen;Verschiebung
+21.03.2019;30;Postulat Fraktion SP/JUSO (Benno Frauchiger, SP): Elektroautos statt Benzinkutschen – auch für MieterInnen von Abstellplätzen;2019-129;Beschlossen;Verschiebung
+21.03.2019;69;Interfraktionelle Interpellation GLP/JGLP, GFL/EVP (Matthias Egli, GLP/Matthias Stürmer, EVP/Danielle Cesarov-Zaugg, GFL): Koordination und Entwicklung Smart City Stadt Bern;2019-168;Beschlossen;Verschiebung
+21.03.2019;49;Interfraktionelle Motion FDP/JF, GB/JA!, GLP/JGLP, GFL/EVP (Thomas Berger, JF/Regula Tschanz, GB/Maurice Lindgren, JGLP/Manuel C. Widmer, GFL): Nächtliche Öffnung der Münsterplattform als Pilotversuch;2019-148;Beschlossen;Verschiebung
+21.03.2019;83;Motion Fraktion GB/JA! (Regula Tschanz, GB): Städtisches Lohnsystem auf den Stand der Zeit bringen;2019-182;Beschlossen;Verschiebung
+21.03.2019;54;"Interpellation Alexander Feuz (SVP), Stefan Hofer (SVP), Luzius Theiler (GPB-DA): Ausbau S-Bahn Bern-Ostermundigen; Tramprojekt Länggasse-Wyler; Zusatzast Guisanplatz-Ostermundigen; ZMB Insel-Tram; weitere Doppelgelenkbusse: Ist die Tramplanung Ostermundigen überhaupt noch aktuell?";2019-153;Beschlossen;Kenntnis
+21.03.2019;50;Postulat Fraktion GFL/EVP (Patrik Wyss, GFL): Eignet sich das Bord vor dem Grossen Länggassschulhaus für eine kleine Parkanlage?;2019-149;Beschlossen;Erheblicherkl.
+21.03.2019;111;Interfraktionelle Motion GB/JA!, SP/JUSO, GFL/EVP (Regula Bühlmann, GB/Nadja Kehrli-Feldmann, SP/Brigitte Hilty Haller, GFL): Bedarfsgerechtes Angebot für betreute Tagesferien;2019-210;Beschlossen;Verschiebung
+21.03.2019;71;Interfraktionelles Postulat GB/JA!, GFL/EVP, GLP/JGLP, SP/JUSO, FDP/JF (Regula Bühlmann, GB/Ursina Anderegg, GB/Matthias Stürmer, EVP/Marcel Wüthrich, GFL/Edith Siegenthaler, SP/Melanie Mettler, GLP/Dannie Jost, FDP): Nachhaltige Entwicklungsziele (SDG): Berns Beitrag zur Umsetzung der UN-Agenda 2030;2019-170;Beschlossen;Erheblicherkl.
+21.03.2019;18;Motion Fraktion GLP (Melanie Mettler, GLP): Baudirektion statt Präsidialdirektion;2019-117;Beschlossen;Verschiebung
+21.03.2019;19;Interfraktionelle Motion GFL/EVP, FDP, BDP/CVP (Matthias Stürmer, EVP/Manuel C. Widmer, GFL/Dannie Jost, FDP/Lionel Gaudy, BDP): Bärn wie neu: Melde-App für Mängel und Schäden der städtischen Infrastruktur;2019-118;Beschlossen;Erheblicherkl. als Richtlinie
+21.03.2019;52;Postulat Tabea Rai (AL): Aarerutschbahn – für eine unkonventionelle Erschliessung des Aareraums;2019-151;Beschlossen;Erheblicherkl.
+21.03.2019;53;Postulat Fraktion SP/JUSO (Peter Marbet, SP/Mohamed Abdirahim, JUSO): Stundentakt für Moonliner;2019-152;Beschlossen;Erheblicherkl.
+21.03.2019;115;Interfraktionelle Motion GLP/JGLP, FDP/JF, GFL/EVP, BDP/CVP (Claude Grosjean, GLP/Thomas Berger, JF/Patrik Wyss, GFL/Philip Kohli, BDP): Fertig usebschliesse: Pilotversuch für längere Öffnungszeiten für ausgewählte Schul- und Sportanlagen in den Quartieren;2019-214;Beschlossen;Verschiebung
+21.03.2019;31;Motion Freie Fraktion AL/GPB-DA/PdA (Luzius Theiler, GPB-DA): Schnelle Anpassung des Reglements über die Planungsmehrwertabschöpfung und Offenlegung der Verwendung dieses Sonderkässelis;2019-130;Beschlossen;Abschreibung
+21.03.2019;70;Motion Henri-Charles Beuchat (SVP): Willkür des Gemeinderates gegen bestimmte Altersgruppen im Bereich der Mobilität;2019-169;Beschlossen;Ablehnung
+21.03.2019;110;Interfraktionelle Motion GB/JA!, SP/JUSO (Regula Bühlmann, GB/Nadja Kehrli-Feldmann, SP/Brigitte Hilty Haller, GFL): Ganztagesschulen für Bern – die Zukunft beginnt heute;2019-209;Beschlossen;Verschiebung
+21.03.2019;51;Motion Fraktion SVP (Alexander Feuz, SVP): Der Hirschengraben muss aufgewertet werden! Grünraum/Erholungsraum statt trostloser Veloparkplatz!;2019-150;Beschlossen;Teilweise Erheblicherkl. als Richtlinie
+21.03.2019;105;Postulat Henri-Charles Beuchat (SVP): Wahl in die Schulkommission soll kein Durchwinken von unbekannten Personen sein;2019-204;Beschlossen;Verschiebung
+21.03.2019;75;Motion Fraktion AL/GPB-DA/PdA+ (Luzius Theiler, GPB-DA): Aufhebung der „Maulkorbrichtlinien“ zu Äusserungen städtischer MitarbeiterInnen in der Öffentlichkeit;2019-174;Beschlossen;Ablehnung
+21.03.2019;87;Motion Fraktion SVP (Alexander Feuz, SVP): Zwischennutzungen städtischer Areale: Gleich lange Spiesse für alle! Transparenz und nicht rotgrüne Klientelpolitik ist gefordert!;2019-186;Beschlossen;Verschiebung
+21.03.2019;76;Motion Fraktion SP/JUSO (Tamara Funiciello, JUSO/Johannes Wartenweiler, SP/Mohamed Abdirahim, JUSO): Hot Dogs für alle statt für wenige!;2019-175;Beschlossen;Genehmigung Prüf.bericht
+21.03.2019;77;Interfraktionelle Motion FDP/JF, BDP/CVP, GLP/JGLP, GFL/EVP, SP/JUSO (Thomas Berger, JF/Vivianne Esseiva, FDP/Lionel Gaudy, BDP/Milena Daphinoff, CVP/Manuel C. Widmer, GFL/Lukas Meier, SP/Maurice Lindgren, JGLP): Gastronomiebetriebe in Stadtberner Bädern vom Badebetrieb trennen;2019-176;Beschlossen;Verschiebung
+21.03.2019;78;Interfraktionelle Motion SP, AL/GPD-DA/PdA+, GB/JA!, GLP (Martin Krebs, SP/Christa Ammann, AL/Seraina Patzen, JA!/Melanie Mettler, GLP/Matthias Stürmer, EVP): Standplätze für Fahrende – Keine Räumung im Buech!;2019-177;Beschlossen;Verschiebung
+14.03.2019;14;Dringliche Interpellation Zora Schneider (PdA): Drohende politische und finanzielle Kollateralschäden durch den E-Prix von Bern;2019-90;Beschlossen;Kenntnis
+14.03.2019;2;Agglomerationskommission (AKO): Ersatzwahl;2019-78;Beschlossen;Wahl
+14.03.2019;3;Wahl in Schulkommission (Schulkommission Bethlehem);2019-79;Beschlossen;Wahl
+14.03.2019;4;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Nachfolge Stephan Märki bei KTB: Werden auch die Stellen der einzelnen Spartenleiter ausgeschrieben? Wie wird gewährleistet, dass ab 2021/2022 ein funktionsfähiges Team entsteht, das national wie international vernetzt ist?;2019-80;Beschlossen;Kenntnis
+14.03.2019;5;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Was kostet uns die Zone für alternative Wohnformen? Bern als Eldorado für alternative Wohnformen?;2019-81;Beschlossen;Kenntnis
+14.03.2019;6;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Einführung Schleichverkehr am Viktoriaplatz: wie wurden die betroffenen Kreise von der Stadt informiert?;2019-82;Beschlossen;Kenntnis
+14.03.2019;7;Kleine Anfrage Luzius Theiler (GaP): Wieviel fliegt das Personal der Stadt Bern?;2019-83;Beschlossen;Kenntnis
+14.03.2019;8;Kleine Anfrage Oliver Berger (FDP): Geplante Bremsmanöver MIV im Jahr 2019;2019-84;Beschlossen;Kenntnis
+14.03.2019;1;Protokollgenehmigungen Stadtrat 2019 (Protokoll Nr. 1 vom 17.01.2019);2019-77;Beschlossen;Genehmigung
+14.03.2019;9;"Revision Geschäftsreglement des Stadtrats; Änderungsantrag Fraktion SVP (Alexander Feuz, SVP): Die Wahlen des Ratspräsidiums inklusive des Vizepräsidiums (1. und 2. Vize) sowie der Kommissionspräsidien inklusive der Vizepräsidien erfolgen künftig offen; Zuweisung zur Vorberatung";2019-85;Beschlossen;Zuweisung
+14.03.2019;10;"Gesamtsanierung Volksschule Elfenau Pavillons; Projektierungskredit";2019-86;Beschlossen;Bewilligung
+14.03.2019;11;"Gesamtsanierung und Erneuerung Freibad Marzili; Projektierungskredit";2019-87;Beschlossen;Bewilligung
+14.03.2019;12;"Sanierung Ostring; Ausführungskredit";2019-88;Beschlossen;Bewilligung
+14.03.2019;13;Erneuerung Lichtsignalanlage Effinger-/Zieglerstrasse: Projektierungs- und Ausführungskredit;2019-89;Beschlossen;Bewilligung
+14.03.2019;15;"Reglement vom 23. Mai 2002 über die Erteilung und Zusicherung des Bürgerrechts der Stadt Bern (Einbürgerungsreglement; EBR; SSSB 121.1), Totalrevision; 1. Lesung";2019-91;Beschlossen;Verabschiedung zuhanden 2. Lesung
+14.03.2019;16;Interfraktionelle Motion GB/JA!, SP (Regula Bühlmann/Cristina Anliker-Mansour, GB/Patrizia Mordini, SP): Einbürgerungen sind kein Privileg!;2019-92;Beschlossen;Teilweise Erheblicherkl.
+14.03.2019;17;Motion Fraktion SP/JUSO (Timur Akçasayar/Patrizia Mordini/Barbara Nyffeler, SP): Neues kantonales Bürgerrechtsgesetz (KBüG): Bei Einbürgerungen in der Stadt Bern auch die zweite Amtssprache anerkennen;2019-93;Beschlossen;Erheblicherkl.
+14.03.2019;18;"Motion Fraktion GB/JA! (Regula Bühlmann/Cristina Anliker-Mansour, GB): Einbürgerungen im Rahmen der kantonalen Regelung!; Begründungsbericht";2019-94;Beschlossen;Kenntnis
+14.03.2019;19;"Polizeiinspektorat: Einführung einer neuen Einwohnerdatenbank-Anwendung (CIVITAS); Investitions- und Verpflichtungskredit";2019-95;Beschlossen;Bewilligung
+14.03.2019;20;"Abteilung Feuerwehr, Zivilschutz und Quartieramt der Stadt Bern: Beschaffung von zwei Mehrzweckfahrzeugen für die Milizfeuerwehr der Stadt Bern; Investitionskredit";2019-96;Beschlossen;Bewilligung
+14.03.2019;21;Motion Fraktion FDP/JF (Christophe Weder, FDP): Aufhebung der Feuerwehr-/Zivilschutzkommission;2019-97;Beschlossen;Erheblicherkl. und Abschreibung
+14.03.2019;22;Interfraktionelle Motion GB/JA!, GFL/EVP (Regula Tschanz, GB/Janine Wicki, GFL): Bern klimaneutral bis 2035;2019-98;Beschlossen;Verschiebung
+14.03.2019;23;Interfraktionelle Motion GB/JA!, GFL/EVP (Franziska Grossenbacher, GB/Brigitte Hilty Haller, GFL): Bern klimaneutral bis 2035 (IV), Austausch und Beteiligung;2019-99;Beschlossen;Verschiebung
+28.02.2019;4;"Leistungsverträge mit 22 Kulturinstitutionen für die Periode 2020 - 2023; Verpflichtungskredite (Abstimmungsbotschaft)";2019-60;Beschlossen;Bewilligung
+28.02.2019;5;Motion Fraktion BDP/CVP (Martin Schneider, BDP/Claudio Fischer CVP): Leistungsverträge IkuR vors Volk!;2019-61;Beschlossen;Verschiebung
+28.02.2019;6;Motion Fraktion FDP (Barbara Freiburghaus, FDP): Nachbessern des Leistungsvertrages: Eskalationskaskade und temporäre Schliessung vorsehen;2019-62;Beschlossen;Verschiebung
+28.02.2019;7;Interpellation Fraktion SVP (Alexander Feuz/Rudolf Friedli, SVP): Nachhaken zum Vorstoss „Umwegrendite der Reithalle“ von Michael Burkhard: Wie hoch sind der Kollateralschaden und die negativen Faktoren?;2019-63;Beschlossen;Verschiebung
+28.02.2019;8;Motion Fraktion SVP (Alexander Feuz, SVP): Schluss mit der Hausbesetzer-Terrorszene: Sofortige Schliessung der Reithalle und Kündigung der bestehenden Leistungsverträge.;2019-64;Beschlossen;Verschiebung
+28.02.2019;9;"Aufnahme Fusionsabklärungen; Projektkredit";2019-65;Beschlossen;Genehmigung
+28.02.2019;10;Interfraktionelle Motion FDP/JF, SP/JUSO, GLP/JGLP, GFL/EVP, BDP/CVP (Claudine Esseiva, FDP/Ingrid Kissling-Näf, SP/Melanie Mettler, GLP, Brigitte Hilty, GFL/Matthias Stürmer, EVP/Michael Daphinoff, CVP): Für eine zukunftsfähige Kernregion/Stadtregion;2019-66;Beschlossen;Erheblicherkl.
+28.02.2019;11;Motion Luzius Theiler (GaP): Die Stadt durch Dezentralisierung fusionsfähig gestalten;2019-67;Beschlossen;Erheblicherkl. als Postulat
+28.02.2019;12;Motion Fraktion GFL/EVP (Lukas Gutzwiller, GLP): Stadt der Beteiligung: Breitere Abstützung der Quartierkommissionen;2019-68;Beschlossen;Erheblicherkl. als Postulat
+28.02.2019;13;Agglomerationskommission (AKO): Tätigkeitsbericht für das Jahr 2018;2019-69;Beschlossen;Kenntnis
+28.02.2019;14;Bericht des Gemeinderats an den Stadtrat zur Agglomerationspolitik 2018;2019-70;Beschlossen;Kenntnis
+28.02.2019;2;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): KaWeDe: muss das grosse Becken wirklich verkleinert werden? Welche Anlage wollen die Kinder und Jugendlichen? Werden diese Wünsche im Wettbewerb die gebotene Beachtung finden?;2019-58;Beschlossen;Kenntnis
+28.02.2019;3;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Kann die Schützenmatte im Frühjahr wieder stattfinden?;2019-59;Beschlossen;Kenntnis
+28.02.2019;1;Kleine Anfrage Henri Beuchat (SVP): Kerzen vor der Polizeiwache Waisenhausplatz – politische Mahnwache räumen;2019-57;Beschlossen;Kenntnis
+28.02.2019;15;"Interfraktionelle Motion SP, AL/GPD-DA/PdA+, GB/JA!, GLP (Martin Krebs, SP/Christa Ammann, AL/Seraina Patzen, JA!/Melanie Mettler, GLP/Matthias Stürmer, EVP): Standplätze für Fahrende – Keine Räumung im Buech!; Begründungsbericht Punkt 1/Abschreibung Punkt 2";2019-71;Beschlossen;Verschiebung
+28.02.2019;16;Motion Fraktion AL/GPB-DA/PdA+ (Luzius Theiler, GPB-DA): Aufhebung der „Maulkorbrichtlinien“ zu Äusserungen städtischer MitarbeiterInnen in der Öffentlichkeit;2019-72;Beschlossen;Verschiebung
+28.02.2019;17;Motion Fraktion SVP (Alexander Feuz, SVP): Zwischennutzungen städtischer Areale: Gleich lange Spiesse für alle! Transparenz und nicht rotgrüne Klientelpolitik ist gefordert!;2019-73;Beschlossen;Verschiebung
+28.02.2019;18;Interfraktionelle Motion GB/JA!, GFL/EVP, AL/GPB-DA/PdA (Eva Krattiger, JA!/Katharina Gallizzi, GB/Marcel Wüthrich GFL/Matthias Stürmer, EVP/Daniel Egloff, PdA/Luzius Theiler, GPB-DA/Christa Ammann, AL/Tamara Funiciello, JUSO): Keine Rentengelder für die Kriegsmaterialproduktion!;2019-74;Beschlossen;Verschiebung
+28.02.2019;19;Motion Fraktion SP/JUSO (Tamara Funiciello, JUSO/Johannes Wartenweiler, SP/Mohamed Abdirahim, JUSO): Hot Dogs für alle statt für wenige!;2019-75;Beschlossen;Verschiebung
+28.02.2019;20;Interfraktionelle Motion FDP/JF, BDP/CVP, GLP/JGLP, GFL/EVP, SP/JUSO (Thomas Berger, JF/Vivianne Esseiva, FDP/Lionel Gaudy, BDP/Milena Daphinoff, CVP/Manuel C. Widmer, GFL/Lukas Meier, SP/Maurice Lindgren, JGLP): Gastronomiebetriebe in Stadtberner Bädern vom Badebetrieb trennen;2019-76;Beschlossen;Verschiebung
+14.02.2019;5;Dringliche interfraktionelle Interpellation GFL/EVP, GB/JA!, SP/JUSO, GLP/JGLP, SVP, FDP/JF (Lukas Gutzwiller, Bettina Jans, EVP/Ursina Anderegg, GB/Katharina Altas, SP/Marianne Schild, GLP/Alexander Feuz, SVP/Ruth Altmann, FDP): Wie steht der Gemeinderat zu einer Förderung des Puppentheaters?;2019-40;Beschlossen;Kenntnis
+14.02.2019;4;Dringliche Interpellation Fraktion FDP/JF (Tom Berger, JF/Claudine Esseiva, FDP): UNO-Klimakonferenz – eine Chance für Bern;2019-39;Beschlossen;Kenntnis
+14.02.2019;1;Kleine Anfrage Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Nein zu Tempo 30 auf der Monbijoubrücke und der Aufhebung der Unterführung Eigerstrasse: Fragen zum heutigen Verkehrsregime bezüglich Unfallstatistik, Lärmimmissionen, negativer Auswirkungen auf das Mobilitätsverhalten und der zu erwartenden Kosten;2019-36;Beschlossen;Kenntnis
+14.02.2019;2;Kleine Anfrage Ueli Jaisli (SVP): Schneespass im Weyerli: Was kostet der Spass wirklich?;2019-37;Beschlossen;Kenntnis
+14.02.2019;6;"Korrektion Bolligenstrasse Nord: Beitrag Stadt Bern; Ausführungskredit";2019-41;Beschlossen;Bewilligung
+14.02.2019;11;"Antrag Henri-Charles Beuchat (SVP) auf Änderung des Geschäftsreglements des Stadtrats; Vertraulichkeit Aufsichtskommission (AK) aufheben und Neuausrichtung Aufsichtskommission";2019-46;Beschlossen;Ablehnung
+14.02.2019;10;"Teuerungsausgleich für die städtischen Mitarbeitenden; Nachkredit";2019-45;Beschlossen;Bewilligung
+14.02.2019;7;Erwerb von Liegenschaften: Rahmenkredit (Abstimmungsbotschaft);2019-42;Beschlossen;Bewilligung
+14.02.2019;12;"Reglement vom 23. Mai 2002 über die Erteilung und Zusicherung des Bürgerrechts der Stadt Bern (Einbürgerungsreglement; EBR; SSSB 121.1), Totalrevision; 1. Lesung";2019-47;Beschlossen;Verschiebung
+14.02.2019;3;"Finanzdelegation (FD); Wahl für das Jahr 2019";2019-38;Beschlossen;Wahl
+14.02.2019;13;Interfraktionelle Motion GB/JA!, SP (Regula Bühlmann/Cristina Anliker-Mansour, GB/Patrizia Mordini, SP): Einbürgerungen sind kein Privileg!;2019-48;Beschlossen;Verschiebung
+14.02.2019;14;Motion Fraktion SP/JUSO (Timur Akçasayar/Patrizia Mordini/Barbara Nyffeler, SP): Neues kantonales Bürgerrechtsgesetz (KBüG): Bei Einbürgerungen in der Stadt Bern auch die zweite Amtssprache anerkennen;2019-49;Beschlossen;Verschiebung
+14.02.2019;15;Motion Fraktion GB/JA! (Regula Bühlmann/Cristina Anliker-Mansour, GB): Einbürgerungen im Rahmen der kantonalen Regelung!;2019-50;Beschlossen;Verschiebung
+14.02.2019;9;Interpellation Fraktion FDP/JF (Bernhard Eicher, FDP): Nach welchem Verfahren vergibt die Stadt Bern ihre Liegenschaften respektive ihr Bauland?;2019-44;Beschlossen;Kenntnis
+14.02.2019;8;Interfraktionelle Interpellation FDP/JF und GB/JA! (Thomas Berger, JF/Lea Bill, GB): Keine Leerstände bei städtischen Gebäuden;2019-43;Beschlossen;Kenntnis
+14.02.2019;16;Interpellation Fraktion SVP (Alexander Feuz, SVP): Verweigerung der Mithilfe bei Ausschaffungen: verkommt die Stadt Bern zur rechtsfreien Zone der Schweiz?;2019-51;Beschlossen;Kenntnis
+14.02.2019;18;Interfraktionelle Interpellation GB/JA!, SP/JUSO, AL/GPB-DA/PdA (Lea Bill/Ursina Anderegg, GB/Eva Krattiger, JA!/Lena Sorg, SP/Christa Ammann, AL): Polizeieinsatz beim Staatsbesuch – Verhältnismässigkeit und Interessenabwägung fragwürdig;2019-53;Beschlossen;Kenntnis
+14.02.2019;17;Interpellation Fraktion FDP/JF (Thomas Berger, JF): Nutzung von Aussenbestuhlungsflächen für Glühweinstände;2019-52;Beschlossen;Kenntnis
+14.02.2019;19;Motion Marcel Wüthrich (GFL): Lärmschutz vor nächtlichem Zeitschlag;2019-54;Beschlossen;Verschiebung
+14.02.2019;20;Postulat Lionel Gaudy (BDP): Das Aareufer für Bernerinnen und Berner – la dolce vita!;2019-55;Beschlossen;Verschiebung
+14.02.2019;21;Postulat Fraktion BDP/CVP (Lionel Gaudy/Philip Kohli, BDP/Milena Daphinoff, CVP): Es werde Licht – ein Beleuchtungskonzept für die Aareuferwege;2019-56;Beschlossen;Verschiebung
+31.01.2019;6;Dringliche interfraktionelle Motion GB/JA!, SP/JUSO, AL/GaP/PdA (Franziska Grossenbacher, GB/Timur Akçasayar, SP/Tabea Rai, AL/Luzius Theiler GAP): Keine Buebetrickli bei den verkehrsintensiven Vorhaben (ViV) – gegen eine Erhöhung der Fahrtenzahl für das Einkaufszentrum Westside;2019-21;Beschlossen;Teilweise Erheblicherkl. als Richtlinie
+31.01.2019;7;Dringliches Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): Formel E mit Berner Ökostrom?;2019-22;Beschlossen;Erheblicherkl.
+31.01.2019;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 18 vom 18.10.2018, Nr. 19 vom 01.11.2018, Nr. 20 vom 08.11.2018, Nr. 21 vom 15.11.2018, Nr. 22 vom 29.11.2018 sowie Nr. 23 vom 06.12.2018);2019-16;Beschlossen;Genehmigung
+31.01.2019;5;Interfraktionelle Kleine Anfrage GLP/JGLP, FDP/JF (Claude Grosjean, GLP/Bernhard Eicher, FDP): Wie steht es um den Pilotversuch Vertrauensarbeitszeit?;2019-20;Beschlossen;Kenntnis
+31.01.2019;4;Kleine Anfrage Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP) Kreuzung Egghölzlistrasse/Hiltistrasse: Wann kommt der fehlende Fussgängerstreifen wieder zurück?;2019-19;Beschlossen;Kenntnis
+31.01.2019;3;Kleine Anfrage Hans Ulrich Gränicher (SVP): Verhindern der Verlegung der SRF-Regionalredaktion von Bern nach Zürich. Hat das politische Engagement des Gemeinderats etwas bewirkt?;2019-18;Beschlossen;Kenntnis
+31.01.2019;2;Wahl in Schulkommission (Schulkommission Breitenrain-Lorraine und Schulkommission Bümpliz);2019-17;Beschlossen;Wahl
+31.01.2019;8;"Untersuchungsbericht der Aufsichtskommission i.S. Anlass von Kultur Stadt Bern vom 24.01.2018; Kenntnisnahme";2019-23;Beschlossen;Kenntnis
+31.01.2019;9;"Ersatz von Rechenzentrum-Informatikausrüstungen; Investitionskredit";2019-24;Beschlossen;Genehmigung
+31.01.2019;10;"Volksschule Kleefeld, Ersatzneubauten und Sanierung Doppelturnhalle; Projektierungskrediterhöhung und Baukredit (Abstimmungsbotschaft)";2019-25;Beschlossen;Genehmigung
+31.01.2019;11;"Gesamtsanierung Volksschule und Turnhalle Matte; Projektierungskredit";2019-26;Beschlossen;Genehmigung
+31.01.2019;12;"Neubau Werkhof Forsthaus; Projektierungskrediterhöhung";2019-27;Beschlossen;Genehmigung
+31.01.2019;13;"Velohauptroute Wankdorf: Velomassnahmen Lorrainebrücke/Erneuerung Lichtsignalanlage Knoten Lorrainestrasse/Viktoriarain; Ausführungskredit";2019-28;Beschlossen;Genehmigung
+31.01.2019;14;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2019-29;Beschlossen;Kenntnis
+31.01.2019;16;Interpellation Fraktion SVP (Alexander Feuz, SVP): Velo-Offensive: Velofahren auf dem Trottoir: Wie werden die Fussgänger, insbesondere Kinder und Menschen mit Behinderungen, vor den ihnen von Bikern drohenden Gefahren geschützt?;2019-31;Beschlossen;Kenntnis
+31.01.2019;15;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Velowege auf den Trottoirs: Die Fussgänger, insbesondere die kleinen Kinder, aber auch Menschen mit Behinderungen und Senioren und Seniorinnen, müssen vor den raschen Bikern wirksam geschützt werden!;2019-30;Beschlossen;Erheblicherkl. als Postulat
+31.01.2019;17;Motion Michael Daphinoff und Milena Daphinoff (CVP): Mehr Sicherheit auf gemischt genutzten Velo-Fussgängerflächen durch Verbesserung der (Boden-)Signalisation;2019-32;Beschlossen;Verschiebung
+31.01.2019;18;Motion Henri Beuchat (SVP): Standortbezogene Videoüberwachung für die Abfall-Sammelstellen in der Stadt Bern;2019-33;Beschlossen;Ablehnung
+31.01.2019;19;Motion Fraktion SVP (Alexander Feuz/Rudolf Friedli/Roland Jakob, SVP): Neuer Bahnhof Wankdorf – Optimale Lösung für alle!;2019-34;Beschlossen;Verschiebung
+31.01.2019;20;Interpellation Freie Fraktion AL/GPB-DA/PdA (Luzius Theiler, GPB-DA): Mobilfunkstrahlen unter dem Dolendeckel;2019-35;Beschlossen;Verschiebung
+17.01.2019;9;Dringliches Postulat Henri-Charles Beuchat (SVP): Keine Entlassungen für Menschen mit einer körperlichen Behinderung «Stiftung Rossfeld»;2019-9;Beschlossen;Erheblicherkl.
+17.01.2019;8;Kleine Anfrage Lionel Gaudy, Philip Kohli (BDP): Velobrücke – Stand der Dinge;2019-8;Beschlossen;Kenntnis
+17.01.2019;7;Kleine Anfrage Barbara Freiburghaus, Bernhard Eicher (FDP): Viererfeld – wo steht der Prozess?;2019-7;Beschlossen;Kenntnis
+17.01.2019;1;Wahl des Präsidiums und des Büros des Stadtrates für das Jahr 2019;2019-1;Beschlossen;Wahl
+17.01.2019;2;Aufsichtskommission (AK): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2019;2019-2;Beschlossen;Wahl
+17.01.2019;3;Kommission für Finanzen, Sicherheit und Umwelt (FSU): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2019;2019-3;Beschlossen;Wahl
+17.01.2019;4;Kommission für Planung, Verkehr und Stadtgrün (PVS): Ersatzwahlen von Mitgliedern, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2019;2019-4;Beschlossen;Wahl
+17.01.2019;5;Kommission für Soziales, Bildung und Kultur (SBK): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2019;2019-5;Beschlossen;Wahl
+17.01.2019;6;Agglomerationskommission (AKO): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2019;2019-6;Beschlossen;Wahl
+17.01.2019;14;Motion Fraktion SP (David Stampfli/Katharina Altas, SP): Eine Maurice Bavaud-Strasse in Bern;2019-14;Beschlossen;Verschiebung
+17.01.2019;11;"Korrektion Bolligenstrasse Nord: Beitrag Stadt Bern; Ausführungskredit";2019-11;Beschlossen;Verschiebung
+17.01.2019;10;"Bären-/Waisenhausplatz: Gesamtsanierung; Erhöhung Projektierungskredit für die Erarbeitung des Vorprojekts";2019-10;Beschlossen;Genehmigung
+17.01.2019;12;Motion Fraktion BDP/CVP (Kurt Hirsbrunner, BDP/Claudio Fischer, CVP): Unübersichtliche, gefährliche und unklare Verkehrs- bzw. Parkiersituation entlang der Bolligenstrasse 46 bis 56 und auf der anschliessenden Nussbaumstrasse soll nun endlich zur Zufriedenheit der Anwohnerinnen und Anwohner gelöst werden!;2019-12;Beschlossen;Verschiebung
+17.01.2019;13;Interpellation Fraktion SP (Michael Sutter/Edith Siegenthaler, SP): Keine Besetzung des öffentlichen Raums durch APG-Werbe-Banderolen;2019-13;Beschlossen;Verschiebung
+17.01.2019;15;Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): Historische Namen von Strassen, Gassen und Plätzen in der Altstadt anschreiben;2019-15;Beschlossen;Rückzug
+06.12.2018;3;Kleine Anfrage Fraktion GFL/EVP (Marcel Wüthrich, GFL): Was versteht der Gemeinderat unter Nachhaltigkeit?;2018-569;Beschlossen;Kenntnis
+06.12.2018;8;"Breitenrainstrasse: Neugestaltung im Bereich Breitenrainplatz; Projektierungs- und Ausführungskredit";2018-574;Beschlossen;Bewilligung
+06.12.2018;11;"Gesamtsanierung Achse Eigerstrasse – Kirchenfeldstrasse; Erarbeitung eines Betriebs- und Gestaltungskonzepts; Projektierungskredit";2018-577;Beschlossen;Bewilligung
+06.12.2018;7;"Sitzungsgelder und Entschädigungen Stadtrat; Teilrevision des Geschäftsreglements und des Stadtratsbeschlusses betreffend Festsetzung der Sitzungsgelder der Mitglieder des Stadtrats";2018-573;Beschlossen;Rückzug
+06.12.2018;6;Kleine Anfrage Fraktion FDP/JF (Oliver Berger, JF): Widerrechtliche Tempobeschränkungen im Marzili;2018-572;Beschlossen;Kenntnis
+06.12.2018;5;Kleine Anfrage Michael Daphinoff/Milena Daphinoff (CVP): Wie steht es um die Nachfrage nach GüWR-Wohnungen?;2018-571;Beschlossen;Kenntnis
+06.12.2018;4;Kleine Anfrage Henri-Charles Beuchat (SVP): Ermittlungsergebnisse der regionalen Staatsanwaltschaft Bern-Mittelland zu unbewilligter Kundgebung vom 7. April 2018;2018-570;Beschlossen;Kenntnis
+06.12.2018;19;Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Für einen wissenschaftlichen Pilotversuch für den kontrollierten Kokainverkauf;2018-585;Beschlossen;Verschiebung
+06.12.2018;12;Interfraktionelle Motion GB/JA!, GLP, SP, GFL/EVP, AL/GPB-DA/PdA+ (Seraina Patzen, JA!/Cristina Anliker-Mansour, GB/Peter Ammann, GLP/Lena Sorg, SP/Tania Espinoza Haller, GFL/Christa Ammann, AL): Unterstützung für die Beratungsstelle für Sans-Papiers;2018-578;Beschlossen;Verschiebung
+06.12.2018;13;Interfraktionelle Motion AL/GPB-DA/PdA+, SP (Mess Barry, parteilos/Daniel Egloff, PdA/Fuat Köçer, Halua Pinto de Magalhães, SP): Unterstützung von Flüchtlingen beim Abschluss einer Ausbildung;2018-579;Beschlossen;Verschiebung
+06.12.2018;16;Interfraktionelle Motion GB/JA!, GFL/EVP, GLP (Franziska Grossenbacher, GB/Michael Steiner, GFL/Sandra Ryser, GLP): Klima schützen und Kosten sparen mit energieeffizienter Schwimmhalle;2018-582;Beschlossen;Verschiebung
+06.12.2018;14;Motion Fraktion GB/JA! (Seraina Patzen, JA!): Qualität der Asylunterkünfte in der Stadt Bern prüfen und verbessern;2018-580;Beschlossen;Verschiebung
+06.12.2018;18;Postulat Fraktion SP (Katharina Altas/Marieke Kruit, SP): Wohnen mit Dienstleistungen – Stadt Bern soll die Versorgungslücke für EL-Beziehende und RentnerInnen mit bescheidenem Einkommen schliessen;2018-584;Beschlossen;Verschiebung
+06.12.2018;17;Postulat Alexander Feuz (SVP) und Ueli Jaisli (SVP): Aareschwimmen in Bern: machen wir es noch attraktiver!;2018-583;Beschlossen;Genehmigung Prüf.bericht
+06.12.2018;15;Postulat Fraktion SP (Fuat Köçer/Halua Pinto de Magalhães, SP): Vielfalt im Lehrerzimmer als Antwort auf Vielfalt im Klassenzimmer;2018-581;Beschlossen;Verschiebung
+06.12.2018;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 18 vom 18.10.2018);2018-567;Beschlossen;Genehmigung
+06.12.2018;2;Wahl in Schulkommission (Schulkommission Bümpliz);2018-568;Beschlossen;Wahl
+06.12.2018;9;"Reichenbachstrasse 110, 112 und 114: Baurechtsvertrag mit Erwerb von Gebäuden der Evangelisch-Reformierten Gesamtkirchgemeinde der Stadt Bern (RefBernImmo AG); Verpflichtungs- und Investitionskredit";2018-575;Beschlossen;Bewilligung
+06.12.2018;10;"Reichenbachstrasse 110, 112 und 114: Kinderhaus Matthäus; Projektierungskredit";2018-576;Beschlossen;Bewilligung
+29.11.2018;3;"Kandidatur Rad-WM 2024: Durchführung und Gebührenbefreiung; Verpflichtungskredit";2018-551;Beschlossen;Genehmigung
+29.11.2018;5;"Volksvorschlag «Wohnungsbau unterstützen statt verhindern» zum Reglement vom 14. Juni 2018 über die Planungsmehrwertabgabe (Planungsmehrwertabgabereglement; PMAR): Abstimmungsbotschaft";2018-553;Beschlossen;Genehmigung
+29.11.2018;2;Kleine Anfrage Manuel C. Widmer (GFL): Herbizideinsätze durch die Gemeinde Bern?;2018-550;Beschlossen;Kenntnis
+29.11.2018;1;Kleine Anfrage Fraktion SVP (Alexander Feuz/Rudolf Friedli, SVP): Tramabstimmungen: Corriger la fortune oder die erfolgreiche Manipulation der Stimmbürger durch den Gemeinderat?;2018-549;Beschlossen;Kenntnis
+29.11.2018;4;"Cupfinal mit Public Viewing und BSC YB-Meisterfeier 2018; Nachkredit zum Globalbudget 2018 des Polizeiinspektorats";2018-552;Beschlossen;Genehmigung
+29.11.2018;7;"Reichenbachstrasse 110, 112 und 114: Baurechtsvertrag mit Erwerb von Gebäuden der Evangelisch-Reformierten Gesamtkirchgemeinde der Stadt Bern (RefBernImmo AG); Verpflichtungs- und Investitionskredit";2018-555;Beschlossen;Verschiebung
+29.11.2018;9;"Erneuerung der Drucker und Multifunktionsgeräte in der Stadtverwaltung inklusive Volksschulen; Investitionskredit und Verpflichtungskredit";2018-557;Beschlossen;Genehmigung
+29.11.2018;8;"Reichenbachstrasse 110, 112 und 114: Kinderhaus Matthäus; Projektierungskredit";2018-556;Beschlossen;Verschiebung
+29.11.2018;12;"Velohauptroute Wankdorf: Velomassnahmen Lorrainebrücke/Erneuerung Lichtsignalanlage Knoten Lorrainestrasse/Viktoriarain; Ausführungskredit";2018-560;Beschlossen;Verschiebung
+29.11.2018;10;"Korrektion Bolligenstrasse Nord: Beitrag Stadt Bern; Ausführungskredit";2018-558;Beschlossen;Verschiebung
+29.11.2018;11;"Bären-/Waisenhausplatz: Gesamtsanierung; Erhöhung Projektierungskredit für die Erarbeitung des Vorprojekts";2018-559;Beschlossen;Verschiebung
+29.11.2018;6;"Stadtfest 2020; Befreiung von städtischen Gebühren";2018-554;Beschlossen;Genehmigung
+29.11.2018;13;Motion Fraktion BDP/CVP (Kurt Hirsbrunner, BDP/Claudio Fischer, CVP): Unübersichtliche, gefährliche und unklare Verkehrs- bzw. Parkiersituation entlang der Bolligenstrasse 46 bis 56 und auf der anschliessenden Nussbaumstrasse soll nun endlich zur Zufriedenheit der Anwohnerinnen und Anwohner gelöst werden!;2018-561;Beschlossen;Verschiebung
+29.11.2018;16;Interpellation Fraktion SVP (Alexander Feuz, SVP): Velo-Offensive: Velofahren auf dem Trottoir: Wie werden die Fussgänger, insbesondere Kinder und Menschen mit Behinderungen, vor den ihnen von Bikern drohenden Gefahren geschützt?;2018-564;Beschlossen;Verschiebung
+29.11.2018;18;Motion Michael Daphinoff und Milena Daphinoff (CVP): Mehr Sicherheit auf gemischt genutzten Velo-Fussgängerflächen durch Verbesserung der (Boden-)Signalisation;2018-566;Beschlossen;Verschiebung
+29.11.2018;17;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Velowege auf den Trottoirs: Die Fussgänger, insbesondere die kleinen Kinder, aber auch Menschen mit Behinderungen und Senioren und Seniorinnen, müssen vor den raschen Bikern wirksam geschützt werden!;2018-565;Beschlossen;Verschiebung
+29.11.2018;14;Interpellation Fraktion SP (Michael Sutter/Edith Siegenthaler, SP): Keine Besetzung des öffentlichen Raums durch APG-Werbe-Banderolen;2018-562;Beschlossen;Verschiebung
+29.11.2018;15;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2018-563;Beschlossen;Verschiebung
+15.11.2018;4;Dringliches Postulat Fraktion SP/JUSO (Bernadette Häfliger/Yasemin Cevik, SP): Kameraüberwachung des öffentlichen Raums durch Private;2018-534;Beschlossen;Erheblicherkl.
+15.11.2018;5;Dringliches Postulat Freie Fraktion AL/GaP/PdA (Luzius Theiler, GaP): Keine Bewilligung für ein E-Prix-Rundstreckenrennen in Bern!;2018-535;Beschlossen;Ablehnung
+15.11.2018;6;Dringliche Interpellation Fraktion GB/JA! (Rahel Ruch/Katharina Gallizzi, GB): Formel E-Rennen in Bern: Kosten und Nutzen eines Grossanlasses?;2018-536;Beschlossen;Kenntnis
+15.11.2018;2;Kleine Anfrage Fraktion SVP (Alexander Feuz/Roland Iseli, SVP): Kommt die «Schütz» im Hebst noch nach Bern oder wird sie ein weiteres Opfer der neuen Zwischennutzung?;2018-532;Beschlossen;Kenntnis
+15.11.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Die neue rote Linie bei der Reithalle;2018-533;Beschlossen;Kenntnis
+15.11.2018;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 16 vom 13.09.2018 und Nr. 17 vom 20.09.2018);2018-531;Beschlossen;Genehmigung
+15.11.2018;14;"ESP Wankdorf: Beitrag der Stadt Bern an die Kosten des gemeinsamen Projekts der ESP-Partner; Krediterhöhung";2018-544;Beschlossen;Bewilligung
+15.11.2018;8;"Sanierung Nydeggbrücke; Projektierungskredit";2018-538;Beschlossen;Bewilligung
+15.11.2018;9;"Sanierung Untertorbrücke; Projektierungskredit";2018-539;Beschlossen;Bewilligung
+15.11.2018;10;"Fussgängerverbindung Loryplatz – Loryspital; Ausführungskredit";2018-540;Beschlossen;Bewilligung
+15.11.2018;11;"Zweijähriger Leistungsvertrag 2019 – 2020 mit dem Dachverband offene Arbeit mit Kindern in der Stadt Bern (DOK); Verpflichtungskredit in Stadtratskompetenz";2018-541;Beschlossen;Bewilligung
+15.11.2018;13;"Verein Berner Feriensportlager: Durchführung der polysportiven Feriensportlager in Fiesch (Frühlings- und Herbstlager): Leistungsvertrag 2019 – 2020; Verpflichtungskredit";2018-543;Beschlossen;Bewilligung
+15.11.2018;7;BERNMOBIL: Ersatzwahl Verwaltungsrat für die Amtsdauer bis Ende 2020 (Ersatzwahl Allemann);2018-537;Beschlossen;Wahl
+15.11.2018;12;Interfraktionelle Motion SP, GB/JA!, GFL (Nadja Kehrli-Feldmann, SP/Ursina Anderegg, GB/Janine Wicki, GFL): Die Zeit ist mehr als reif: Ein Angebot für offene Arbeit mit Kindern im Stadtteil IV Kirchenfeld-Schosshalde!;2018-542;Beschlossen;Abschreibung
+15.11.2018;15;Motion Fraktion FDP (Peter Erni, FDP): Keine unnötige Regulierung;2018-545;Beschlossen;Ablehnung
+15.11.2018;16;Motion Fraktion AL/GPB-DA/PdA+ (Luzius Theiler, GPB-DA): Keine Zusagen der Stadt für olympische Winterspiele ohne vorgängige Volksabstimmung!;2018-546;Beschlossen;Rückzug
+15.11.2018;18;Motion Fraktion GFL/EVP (Lukas Gutzwiller/Patrik Wyss, GFL): Bessere Kostenkontrolle bei den städtischen Hochbauten im Verwaltungs- und Finanzvermögen;2018-548;Beschlossen;Erheblicherkl. als Postulat
+15.11.2018;17;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Olympische Spiele 2026: Transparenz zu den Kostenfolgen und der Umweltverträglichkeit;2018-547;Beschlossen;Kenntnis
+08.11.2018;79;"Motion Fraktion SP (Elsi Meyer): 50% Wohnanteil im Planungsgebiet Weyermannshaus-West; Fristverlängerung";2018-514;Beschlossen;Fristverl.
+08.11.2018;80;"Postulat Fraktion GB/JA! (Franziska Grossenbacher/Regula Tschanz, GB): „Kalkbreite“ am Eigerplatz; Fristverlängerung Prüfungsbericht Punkt 2";2018-515;Beschlossen;Fristverl.
+08.11.2018;90;"Motion Fraktion GB/JA! (Franziska Grossenbacher, GB): Zukunft des Wifag-Areals an die Hand nehmen!; Fristverlängerung Punkt 1";2018-525;Beschlossen;Fristverl.
+08.11.2018;81;"Motion Fraktion GB/JA! (Natalie Imboden/Karin Gasser, GB): Klimafreundliche Stadt Bern (2): Energieeffiziente Überbauungsordnungen; Fristverlängerung Punkt 1";2018-516;Beschlossen;Fristverl.
+08.11.2018;82;"Motion Fraktion GB/JA! (Hasim Sancar, GB): Offenlegung der Finanzierung von Partei-, Wahl- und Abstimmungskampagnen; Fristverlängerung";2018-517;Beschlossen;Fristverl.
+08.11.2018;1;"Motion GB/JA! (Natalie Imboden/Urs Frieden, GB): Bern setzt sich die ""2000-Watt-Gesellschaft"" zum (mittelfristigen) Ziel; Fristverlängerung";2018-436;Beschlossen;Fristverl.
+08.11.2018;2;"Motion Fraktion GB/JA! (Franziska Grossenbacher, GB): „Bern erneuerbar“ auf städtischer Ebene umsetzen; Fristverlängerung Punkt 1 und 3";2018-437;Beschlossen;Fristverl.
+08.11.2018;17;"Jugendpostulat (Julia Richard): Der Gaskessel bleibt, wo er ist; Fristverlängerung Punkt 3";2018-452;Beschlossen;Fristverl.
+08.11.2018;16;"Jugendmotion (Julia Richard): Der Gaskessel bleibt, wo er ist; Fristverlängerung Punkt 1 und 2";2018-451;Beschlossen;Fristverl.
+08.11.2018;18;"Interfraktionelles Postulat SVP, FDP, BDP, GLP (Roland Jakob, SVP/Pascal Rub, FDP/Martin Schneider, BDP/Sandra Ryser, GLP): Schulen stärken, Bildung fördern, Abläufe flexibler gestalten!; Fristverlängerung Prüfungsbericht";2018-453;Beschlossen;Fristverl.
+08.11.2018;38;"Postulat Fraktion GB/JA! (Aline Trede/Judith Gasser, GB): Kunststoffrecycling in der Stadt Bern; Fristverlängerung";2018-473;Beschlossen;Fristverl.
+08.11.2018;39;"Postulat Fraktion GB/JA! (Aline Trede/Esther Oester, GB): Plastiksammlung im Ökoinfomobil – Hohlkörpersammlung rentabel?; Fristverlängerung";2018-474;Beschlossen;Fristverl.
+08.11.2018;40;"Motion Fraktion SP (Marieke Kruit/Michael Sutter, SP): Abfalltrennung an öffentlichen, neuralgischen Punkten in der Stadt Bern; Fristverlängerung";2018-475;Beschlossen;Fristverl.
+08.11.2018;41;"Motion Erich J. Hess (SVP)/Henri-Charles Beuchat (CVP)/Tanja Sollberger (GLP)/Daniela Lutz-Beck (GFL)/Beat Zobrist (SP)/Aline Trede (GB): Installation von Brückennetzen gegen Suizide in der Stadt Bern; Fristverlängerung Punk 4";2018-476;Beschlossen;Fristverl.
+08.11.2018;42;"Motion Fraktion GB/JA! (Aline Trede, GB/Lea Bill, JA!): Kostenpflichtige Parkplätze für Motorräder; Fristverlängerung";2018-477;Beschlossen;Fristverl.
+08.11.2018;43;"Postulat Henri-Charles Beuchat/Alexander Feuz (SVP): Konzept Halteplätze und Terminals für Reise- und Fernverkehrsbusse; Fristverlängerung Prüfungsbericht";2018-478;Beschlossen;Fristverl.
+08.11.2018;44;"Interfraktionelle Motion GFL/EVP, GB/JA!/GPB (Ueli Stückelberger, GFL/Blaise Kropf, JA!): Mehr Wohnqualität: Zusätzliche Verkehrsberuhigungsmassnahmen im Stadtteil 4 (Kirchenfeld/Schosshalde); Fristverlängerung";2018-479;Beschlossen;Fristverl.
+08.11.2018;45;"Interfraktionelle Motion GFL/EVP, GB/JA!/GPB (Ueli Stückelberger, GFL/Blaise Kropf, JA!): Mehr Wohnqualität: zusätzliche Verkehrsberuhigungsmassnahmen im Stadtteil 5 (Breitenrain/Lorraine); Fristverlängerung";2018-480;Beschlossen;Fristverl.
+08.11.2018;46;"Motion Fraktion SP/JUSO (Michael Aebersold, SP): Schutz des Nordquartiers vor Durchgangsverkehr; Fristverlängerung";2018-481;Beschlossen;Fristverl.
+08.11.2018;47;"Motion Michael Jordi (GB): Quartierschonender Guisanplatz; Fristverlängerung";2018-482;Beschlossen;Fristverl.
+08.11.2018;48;"Interfraktionelle Motion SP/JUSO, GFL/EVP (Thomas Göttin, SP/Ueli Stückelberger, GFL): Koexistenz auf der Achse Thunstrasse-Ostring; Fristverlängerung";2018-483;Beschlossen;Fristverl.
+08.11.2018;49;"Motion Fraktion SP/JUSO (Oskar Balsiger/Beat Zobrist, SP): Fussgänger- und veloverkehrsfreundliches Bern: Umgestaltung Ostermundigenstrasse, Abschnitt Zentweg-Pulverweg; Fristverlängerung Punkt 1";2018-484;Beschlossen;Fristverl.
+08.11.2018;50;"Interfraktionelle Motion GFL/EVP, BDP/CVP (Patrik Wyss, GFL/Philip Kohli, BDP): Neugestaltung des Waisenhausplatzes – was lange währt soll endlich umgesetzt werden; Fristverlängerung";2018-485;Beschlossen;Fristverl.
+08.11.2018;51;"Motion Fraktion SVP (Hans Ulrich Gränicher, SVP): Umsetzung der vom Volk 1988 angenommenen SVP-Initiative „I läbti gärn im Härz vo Bärn“; Fristverlängerung";2018-486;Beschlossen;Fristverl.
+08.11.2018;52;"Motion Fraktion SP (Gisela Vollmer, SP): Nutzung und Gestaltung der Achse Bundesplatz-Waisenhausplatz; Fristverlängerung";2018-487;Beschlossen;Fristverl.
+08.11.2018;53;"Motion Silvia Aepli (GFL): Stadtplätze, wo es keinen Tunnel gibt: Bärenplatz/Waisenhausplatz; Fristverlängerung";2018-488;Beschlossen;Fristverl.
+08.11.2018;54;"Motion Fraktion SP/JUSO (Stefan Jordi, SP): Sicherheit für Fuss- und Veloverkehr an der Bolligenstrasse!; Fristverlängerung";2018-489;Beschlossen;Fristverl.
+08.11.2018;55;"Postulat Fraktion GB/JA! (Judith Gasser/Stéphanie Penher, GB): Hodlerstrasse aufwerten; Fristverlängerung";2018-490;Beschlossen;Fristverl.
+08.11.2018;69;"Postulat Fraktion FDP (Bernhard Eicher, FDP): Systematische Überprüfung der städtischen Aufgaben; Fristverlängerung Prüfungsbericht";2018-504;Beschlossen;Fristverl.
+08.11.2018;70;"Postulat Fraktion GB/JA! (Regula Bühlmann/Katharina Gallizzi, GB): Verlängerung von bezahltem Mutterschafts- und Vaterschaftsurlaub bei erschwerten Bedingungen; Fristverlängerung";2018-505;Beschlossen;Fristverl.
+08.11.2018;71;"Postulat Fraktion GLP/JGLP (Claude Grosjean, GLP): Bedingter Elternurlaub von maximal 16 Wochen für beide Elternteile bei beidseitiger Erwerbstätigkeit; Fristverlängerung";2018-506;Beschlossen;Fristverl.
+08.11.2018;72;"Motion Interfraktionelle Frauengruppe (Lea Kusano, SP/Jacqueline Gafner Wasem, FDP/Christine Michel, GB/Judith Renner-Bach, BDP/Rahel Ruch, JA!/Barbara Streit-Stettler, EVP/Daniela Lutz, GFL/Béatrice Wertli, CVP): Geschlechterquote in den Kaderstellen der Stadtverwaltung und den öffentlich-rechtlichen Anstalten der Stadt Bern/Gleichstellungspreis für Unternehmen in der Stadt Bern; Fristverlängerung Punkt 1";2018-507;Beschlossen;Fristverl.
+08.11.2018;86;"Motion Fraktion GLP (Melanie Mettler, GLP): Kulturförderungskonzept und -strategie in den Stadtrat; Begründungsbericht Punkt 1 und 2";2018-521;Beschlossen;Kenntnis
+08.11.2018;87;"Motion Fraktion GB/JA! (Regula Tschanz, GB): Polit-Forum Käfigturm erhalten; Begründungsbericht";2018-522;Beschlossen;Kenntnis
+08.11.2018;3;"Motion Manuel C. Widmer (GFL), Philip Kohli (BDP), Bernhard Eicher (FDP), Stéphanie Penher (GB), Simon Glauser (SVP): Gemeinsam für den Fussball und das Volksfest, dass er sein sollte!; Begründungsbericht";2018-438;Beschlossen;Kenntnis
+08.11.2018;4;"Motion Fraktion GLP (Peter Ammann, GLP): Wer jahrelang von fiktiven AKW-Gewinnen profitiert, soll nun auch die Folgekosten tragen; Begründungsbericht";2018-439;Beschlossen;Kenntnis
+08.11.2018;31;"Interfraktionelle Motion GFL/EVP, SP, GLP, BDP/CVP (Tania Espinoza Haller, GFL/Katharina Altas, SP/Peter Ammann, GLP/Kurt Hirsbrunner, BDP/Claudio Fischer, CVP): Beschäftigungsprogramme für Flüchtlinge in der Stadt Bern; Begründungsbericht";2018-466;Beschlossen;Kenntnis
+08.11.2018;23;"Motion Fraktion SP (Bettina Stüssi/Yasemin Cevik, SP): Für die Zukunft bauen! Guter Unterricht braucht gute Infrastruktur: Wir fordern ein Schulzentrum im Wyssloch!; Begründungsbericht";2018-458;Beschlossen;Kenntnis
+08.11.2018;24;"Motion Fraktion SP (Bettina Stüssi/Yasemin Cevik, SP): Tagesschule Wyssloch – jetzt bauen und dringend benötigten Schulraum sichern!; Begründungsbericht";2018-459;Beschlossen;Kenntnis
+08.11.2018;25;"Motion Michael Köpfli (GLP): Frühere Kindergartenzuteilung und gemeinsame elektronische Abwicklung der Anmeldungen für Kita-Gutscheine und Tagesschule; Begründungsbericht";2018-460;Beschlossen;Kenntnis
+08.11.2018;26;"Motion Fraktion GB/JA! (Seraina Patzen, JA!): Bessere politische Bildung für Jugendliche!; Begründungsbericht";2018-461;Beschlossen;Kenntnis
+08.11.2018;27;"Interfraktionelle Motion SP, GB/JA!, FDP, SVP (Halua Pinto de Magalhães, SP/Franziska Grossenbacher, GB/Dannie Jost, FDP/Simon Glauser, SVP/Matthias Stürmer, EVP): Förderung von digitalen Kompetenzen und Vielfalt in der Schule; Begründungsbericht";2018-462;Beschlossen;Kenntnis
+08.11.2018;28;"Motion Daniel Egloff (PdA): Schulgarten als Lernort; Begründungsbericht";2018-463;Beschlossen;Kenntnis
+08.11.2018;30;"Motion Fraktion SP (Michael Sutter/Marieke Kruit, SP): Keine Zone für experimentelles Parkieren in der unteren Altstadt!; Begründungsbericht Punkt 4";2018-465;Beschlossen;Kenntnis
+08.11.2018;29;"Motion Manuel C. Widmer (GFL), Gisela Vollmer (SP), Martin Mäder (BDP): Rückbau „Bypass Loryplatz“ wirklich umsetzen; Begründungsbericht";2018-464;Beschlossen;Kenntnis
+08.11.2018;83;Interpellation Fraktion SP (Halua Pinto de Magalhães/Benno Frauchiger, SP): Soziale und politische Anforderungen an Smart City Bern 3 – Datenschutz und Mitbestimmung;2018-518;Beschlossen;Kenntnis
+08.11.2018;84;Interpellation Fraktion FDP/JF (Bernhard Eicher, FDP): Zusammensetzung der Vereinsvorstände von anerkannten Quartierorganisationen;2018-519;Beschlossen;Kenntnis
+08.11.2018;5;Interpellation Fraktion SP/JUSO (Patrizia Mordini, SP/Mohamed Abdirahim, JUSO): Einige Fragen im Zusammenhang mit dem Polizeiaufgebot und den Antifa-Aktionen vom 7. und 14.10.17;2018-440;Beschlossen;Kenntnis
+08.11.2018;6;Interpellation Henri-Charles Beuchat (SVP): Missbrauch des Feueralarms in Berner Asylunterkünften «Fehlalarm durch Täuschung» an der Tagesordnung;2018-441;Beschlossen;Kenntnis
+08.11.2018;7;Interfraktionelle Interpellation SP/JUSO, AL/GaP/PdA (Mohamed Abdirahim, JUSO/Tabea Rai, AL): Demo von 7.4.2018 – Willkür und Polizeigewalt: Warum?;2018-442;Beschlossen;Kenntnis
+08.11.2018;19;Interpellation Fraktion SVP (Erich Hess, SVP): Wie hoch ist der Sozialhilfemissbrauch in der Stadt Bern?;2018-454;Beschlossen;Kenntnis
+08.11.2018;20;Interpellation Henri-Charles Beuchat (SVP): Linker Spiessrutenlauf um Tretmine Spitex;2018-455;Beschlossen;Kenntnis
+08.11.2018;21;Interpellation Fraktion SP/JUSO (Katharina Altas/Edith Siegenthaler, SP): Armut soll nicht vererbt werden – Wie können Familienergänzungsleistungen in Bern eingeführt werden?;2018-456;Beschlossen;Kenntnis
+08.11.2018;58;Interpellation Fraktion SP/JUSO (Michael Sutter/Nora Krummen, SP): Wie weiter bei der Planung der Panoramabrücke?;2018-493;Beschlossen;Kenntnis
+08.11.2018;73;Interpellation Fraktion FDP/JF (Bernhard Eicher, FDP): Fragen zu internen Anlässen der Stadt Bern;2018-508;Beschlossen;Kenntnis
+08.11.2018;74;Interpellation Fraktion GLP/JGLP (Patrick Zillig, GLP): ICT-Strategie 2013-2016 der Stadt Bern – Stand der Umsetzung;2018-509;Beschlossen;Kenntnis
+08.11.2018;85;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Auswirkungen des Tamedia-Entscheides auf das lokale Medienangebot;2018-520;Beschlossen;Kenntnis
+08.11.2018;8;Interpellation Christa Ammann, Tabea Rai (AL): Demo-Kartei und Bussenwillkür beim Polizeiinspektorat?;2018-443;Beschlossen;Kenntnis
+08.11.2018;10;Interpellation Christa Ammann, Tabea Rai (AL): Ausstandspflicht PolizistInnen;2018-445;Beschlossen;Kenntnis
+08.11.2018;9;Interpellation Tabea Rai, Christa Ammann (AL): Polizei macht Politik: Fake-news als neue Informationsbasis der RGM-Regierung?;2018-444;Beschlossen;Kenntnis
+08.11.2018;11;Interpellation Fraktion BDP/CVP (Lionel Gaudy/Philip Kohli, BDP/Milena Daphinoff, CVP): Ist ewb schon am SMART-metern?;2018-446;Beschlossen;Kenntnis
+08.11.2018;12;Interpellation Manuel C. Widmer (GFL): Fragen zu Präventivmassnahmen gegen mögliche Gewalttaten: Nutzen und Einsatz von Betonpollern und anderen Vorkehrungen?;2018-447;Beschlossen;Kenntnis
+08.11.2018;22;Interpellation Zora Schneider (PdA): Kältewelle in Bern – Tut die Stadt genug für die Obdachlosen?;2018-457;Beschlossen;Kenntnis
+08.11.2018;75;Interpellation Fraktion GFL/EVP (Lukas Gutzwiller, GFL): Wie ist die Struktur der Kaderlöhne und wie könnten diese konkurrenzfähiger ausgestaltet werden?;2018-510;Beschlossen;Kenntnis
+08.11.2018;76;Interfraktionelle Interpellation SP/JUSO, GB/JA! (Marieke Kruit/Peter Marbet, SP/Franziska Grossenbacher, GB): Rasche Realisierung von gemeinnützigen Wohnungen auf dem Viererfeld/Mittelfeld: Vergabe von Baufeldern an eine Genossenschaft der Genossenschaften;2018-511;Beschlossen;Kenntnis
+08.11.2018;88;Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler EVP): KTB: Neue Transparenz- und Informationsregelung im Vertrag zwischen KTB, Kanton und Stadt Bern;2018-523;Beschlossen;Erheblicherkl.
+08.11.2018;89;Postulat Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): KTB: Pflichtenheft für Städtische VertreterInnen in Kulturorganisationen;2018-524;Beschlossen;Erheblicherkl.
+08.11.2018;32;"Interfraktionelle Motion SP, BDP/CVP, GB/JA!, FDP, GFL/EVP, SVP, GLP, AL/GPB-DA/PdA+ (Katharina Altas, SP/Kurt Hirsbrunner, BDP/Seraina Patzen, JA!/Barbara Freiburghaus, FDP/Manuel C. Widmer, GFL/Roland Jakob; SVP/Ursina Anderegg, GB/Michael Daphinoff, CVP/Melanie Mettler, GLP/Christa Ammann, AL/Daniel Egloff, PdA/Luzius Theiler, GPB-DA): Ein Jugendtreff im Bauernhaus des Brünnenguts";2018-467;Beschlossen;Erheblicherkl.
+08.11.2018;33;Interfraktionelles Postulat FDP/JF, BDP/CVP, GFL/EVP, GLP/JGLP, GB/JA!, SP/JUSO, SVP (Thomas Berger, JF/Michael Daphinoff, CVP/Philip Kohli, BDP/Marcel Wüthrich, GFL/Maurice Lindgren, JGLP/Franziska Grossenbacher, GB/David Stampfli, SP/Alexander Feuz, SVP): Flexiblere Nutzungszeiten der Stadtberner Sportstätten;2018-468;Beschlossen;Erheblicherkl.
+08.11.2018;34;Interfraktionelles Postulat FDP/JF, GLP/JGLP, BDP/CVP (Claudine Esseiva, FDP/Marianne Schild, GLP/Milena Daphinoff, CVP): Späterer Schulbeginn;2018-469;Beschlossen;Erheblicherkl.
+08.11.2018;35;Interfraktionelles Postulat FDP/JF, GLP/JGLP, BDP/CVP (Claudine Esseiva, FDP/Marianne Schild, GLP/Milena Daphinoff, CVP): Engere Zusammenarbeit von KITAs und Kindergarten;2018-470;Beschlossen;Erheblicherkl.
+08.11.2018;59;Motion Fraktion GFL/EVP (Patrik Wyss, GFL/Bettina Jans-Troxler, EVP): Antoniergässchen baldmöglichst aufwerten;2018-494;Beschlossen;Erheblicherkl.
+08.11.2018;60;Motion Fraktion FDP/JF (Bernhard Eicher, FDP): Förderung des Fussverkehrs: Mehr Sitzgelegenheiten an öV-Haltestellen und bei beliebten Spazier- und Wanderwegen;2018-495;Beschlossen;Erheblicherkl.
+08.11.2018;77;"Interfraktionelle Motion SP, GFL/EVP, GB/JA!  (Lena Sorg, SP/Daniel Klauser, GFL/Matthias Stürmer EVP/Christine Michel, GB): Kein Rückschritt bei der städtischen Wohnbauförderung!; Abschreibung";2018-512;Beschlossen;Abschreibung
+08.11.2018;78;"Motion der Aufsichtskommission (Kurt Hirsbrunner, BDP/Nadja-Kehrli-Feldmann, SP): Schutzbestimmungen für Whistleblowing im Personalreglement verankern; Abschreibung";2018-513;Beschlossen;Abschreibung
+08.11.2018;91;"Motion Fraktion GB/JA! (Franziska Grossenbacher, GB): Zukunft des Wifag-Areals an die Hand nehmen!; Abschreibung Punkt 2 und 3";2018-526;Beschlossen;Abschreibung
+08.11.2018;36;"Postulat Fraktion AL/GPB-DA/PdA+ (Daniel Egloff, PdA/Mess Barry, parteilos): Die Stadt Bern soll eine Zufluchtsstadt werden und sich dem europäischen Netzwerk anschliessen; Prüfungsbericht";2018-471;Beschlossen;Genehmigung Prüf.bericht
+08.11.2018;37;"Interfraktionelles Postulat SP, GB/JA!, GFL/EVP (Katharina Altas, SP/Leena Schmitter, GB/Seraina Patzen, JA!/Michael Burkard, GFL): Städte setzen ein solidarisches Zeichen – Direktaufnahme von Geflüchteten, jetzt!; Prüfungsbericht";2018-472;Beschlossen;Genehmigung Prüf.bericht
+08.11.2018;56;"Motion Fraktion SP (Benno Frauchiger/Gisela Vollmer, SP): Entflechtung der Verkehrsströme im oberen Hirschengraben; Abschreibung";2018-491;Beschlossen;Abschreibung
+08.11.2018;57;"Interfraktionelle Motion GB/JA!, GFL/EVP (Regula Tschanz, GB/Michael Steiner, GFL): Velohauptachse Köniz-Bern-Ostermundigen; Abschreibung";2018-492;Beschlossen;Fristverl.
+08.11.2018;61;"I5100056, Fr. 26 000 000.00; Tram Bern West; überarbeitetes Projekt; Kreditabrechnung";2018-496;Beschlossen;Bewilligung
+08.11.2018;92;Postulat Fraktion SP (Gisela Vollmer, SP): Günstigen Wohnraum im Bestand erhalten;2018-527;Beschlossen;Erheblicherkl.
+08.11.2018;93;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Anteil gemeinnütziger Wohnraum in der Stadt Bern;2018-528;Beschlossen;Kenntnis
+08.11.2018;94;Postulat Fraktion SP (Gisela Vollmer/Benno Frauchiger, SP): Einseitige Stadtentwicklung: Immer grösserer Arbeitsplatzüberhang anstatt Wohnungen;2018-529;Beschlossen;Erheblicherkl.
+08.11.2018;95;Postulat Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Hans Ulrich Gränicher, SVP): Fertig Luxusbauen! Bedürfnisse der Benutzer und Steuerzahler vermehrt berücksichtigen!;2018-530;Beschlossen;Erheblicherkl.
+08.11.2018;62;Motion Fraktion SP (Michael Sutter/David Stampfli, SP): Friedliches Nebeneinander von Fussgängerinnen und Velofahrern zwischen Schönausteg und Eichholz;2018-497;Beschlossen;Erheblicherkl. als Postulat
+08.11.2018;64;Postulat Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Erhöhen der Verkehrssicherheit für Fussgängerinnen und Fussgänger in der Berner Innenstadt durch Beschränken der Fahrgeschwindigkeit der Velofahrenden und/oder das Erlassen von Fahrverboten an stark frequentierten Orten;2018-499;Beschlossen;Ablehnung
+08.11.2018;65;Interpellation Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher/Roland Jakob, SVP): Besserer Schutz der Fussgänger in der Stadt Bern vor Velorowdys und E-Bikes!;2018-500;Beschlossen;Kenntnis
+08.11.2018;63;Motion Fraktion SVP (Alexander Feuz, SVP): Velowege an der Aare: Stopp unnötiger Planungskosten!;2018-498;Beschlossen;Ablehnung
+08.11.2018;66;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2018-501;Beschlossen;Verschiebung
+08.11.2018;67;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schaffung neuer Begegnungszonen in Bern: Auch Hauseigentümer und Dienstbarkeitsberechtigte frühzeitig in den Entscheidungsprozess einbeziehen!;2018-502;Beschlossen;Ablehnung
+08.11.2018;68;Postulat Henri Beuchat und Alexander Feuz (SVP): Bettelnde Tram-Musiker nerven Passagiere in der Stadt Bern;2018-503;Beschlossen;Ablehnung
+08.11.2018;14;Postulat Kommission für Finanzen, Sicherheit und Umwelt FSU (Dannie Jost, FDP/Matthias Stürmer, EVP/Michael Burkard, GFL): Mehr Transparenz im Berner Taximarkt mit einer Berner Taxi-App;2018-449;Beschlossen;Genehmigung Prüf.bericht
+08.11.2018;15;Interfraktionelles Postulat GLP, BDP/CVP (Claude Grosjean, GLP/Andrin Soppelsa, BDP): Bessere Voraussetzungen für Mobilitätsplattformen schaffen – regulatorische Hindernisse abbauen;2018-450;Beschlossen;Ablehnung
+08.11.2018;13;Interpellation Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Was will der Gemeinderat: Rechtsfreie Reithalle für Anarchisten oder Rechtsgleichheit? Der Gemeinderat ist gefordert!;2018-448;Beschlossen;Kenntnis
+01.11.2018;8;"Anstaltsreglement der Städtischen Verkehrsbetriebe (SVB) vom 28. September 1997 (SSSB 764.11)/Teilrevision; 1. Lesung";2018-422;Beschlossen;Rückweisung
+01.11.2018;9;"Parkanlage Holligen Nord; Projektierungskredit";2018-423;Beschlossen;Bewilligung
+01.11.2018;10;"Stadtteilpark Wyssloch: Entwicklung; Projektierungskredit";2018-424;Beschlossen;Bewilligung
+01.11.2018;5;"Kleine Anfrage Fraktion SVP (Alexander Feuz/Roland Iseli, SVP): Fragen zur ausgewogenen Ernährung; Teil I";2018-419;Beschlossen;Kenntnis
+01.11.2018;6;"Kleine Anfrage Fraktion SVP (Alexander Feuz/Roland Iseli, SVP): Fragen zur ausgewogenen Ernährung in den KITAS; Teil II";2018-420;Beschlossen;Kenntnis
+01.11.2018;2;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Sanierung Thunstrasse: Werden endlich die Lehren aus Zürich gezogen?;2018-416;Beschlossen;Kenntnis
+01.11.2018;3;Kleine Anfrage Barbara Freiburghaus (FDP): Gratis-Abo von Publibike;2018-417;Beschlossen;Kenntnis
+01.11.2018;4;Kleine Anfrage Barbara Freiburghaus (FDP): Quartierküche Zieglerspital (2017.PRD.000055) – Wie organisiert die Stadt den Transport der vorbereiteten Mahlzeiten;2018-418;Beschlossen;Kenntnis
+01.11.2018;1;Kleine Anfrage Michael Daphinoff (CVP): Klarheit bei GüWR-Wohnungen;2018-415;Beschlossen;Kenntnis
+01.11.2018;16;"WLAN für städtische Volksschulen; Krediterhöhung";2018-430;Beschlossen;Bewilligung
+01.11.2018;15;Bauernhaus und Stöckli Hubel (Hubelweg 5 + 9, 3086 Englisberg): Entwidmung und Übertragung vom Verwaltungs- ins Finanzvermögen;2018-429;Beschlossen;Bewilligung
+01.11.2018;7;Wasserstrategie der Stadt Bern;2018-421;Beschlossen;Kenntnis
+01.11.2018;17;Motion Fraktion AL/GPB-DA/PdA+ (Luzius Theiler, GPB-DA): Aufhebung der „Maulkorbrichtlinien“ zu Äusserungen städtischer MitarbeiterInnen in der Öffentlichkeit;2018-431;Beschlossen;Verschiebung
+01.11.2018;18;Motion Fraktion SVP (Alexander Feuz, SVP): Zwischennutzungen städtischer Areale: Gleich lange Spiesse für alle! Transparenz und nicht rotgrüne Klientelpolitik ist gefordert!;2018-432;Beschlossen;Verschiebung
+01.11.2018;19;Interfraktionelle Motion GB/JA!, GFL/EVP, AL/GPB-DA/PdA (Eva Krattiger, JA!/Katharina Gallizzi, GB/Marcel Wüthrich GFL/Matthias Stürmer, EVP/Daniel Egloff, PdA/Luzius Theiler, GPB-DA/Christa Ammann, AL/Tamara Funiciello, JUSO): Keine Rentengelder für die Kriegsmaterialproduktion!;2018-433;Beschlossen;Verschiebung
+01.11.2018;11;Motion Michael Daphinoff (CVP): Veloroutennetz neu denken – ab auf schnellere und sicherere Nebenstrassen!;2018-425;Beschlossen;Ablehnung
+01.11.2018;12;Postulat Michael Daphinoff (CVP): Sicheres, stressfreies und schnelles Vorwärtskommen auf den Velorouten: Direkte Veloverbindung vom Glasbrunnen zum Falkenplatz abseits der Länggassstrasse;2018-426;Beschlossen;Genehmigung Prüf.bericht
+01.11.2018;13;Motion Fraktion FDP (Barbara Freiburghaus/Bernhard Eicher, FDP): Mobility Pricing – Stadt Bern macht nicht mit;2018-427;Beschlossen;Ablehnung
+01.11.2018;14;Motion Fraktion GLP (Melanie Mettler, GLP): Effizientere Nutzung der Verkehrsinfrastruktur mittels Mobility-Pricing;2018-428;Beschlossen;Teilweise Erheblicherkl.
+01.11.2018;20;Motion Fraktion SP/JUSO (Tamara Funiciello, JUSO/Johannes Wartenweiler, SP/Mohamed Abdirahim, JUSO): Hot Dogs für alle statt für wenige!;2018-434;Beschlossen;Verschiebung
+01.11.2018;21;Interfraktionelle Motion FDP/JF, BDP/CVP, GLP/JGLP, GFL/EVP, SP/JUSO (Thomas Berger, JF/Vivianne Esseiva, FDP/Lionel Gaudy, BDP/Milena Daphinoff, CVP/Manuel C. Widmer, GFL/Lukas Meier, SP/Maurice Lindgren, JGLP): Gastronomiebetriebe in Stadtberner Bädern vom Badebetrieb trennen;2018-435;Beschlossen;Verschiebung
+18.10.2018;4;Kleine Anfrage Luzius Theiler (GaP): Wundersames «Winterwunderland» auf der Kleinen Schanze;2018-398;Beschlossen;Kenntnis
+18.10.2018;7;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Publiflop ohne Ende I: Ist die lila Markierung für Publibike rechtmässig?;2018-401;Beschlossen;Kenntnis
+18.10.2018;8;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Publiflop ohne Ende II: Was kosten die Fehlplanungen der Stadt den Steuerzahler?;2018-402;Beschlossen;Kenntnis
+18.10.2018;3;Kleine Anfrage Henri-Charles Beuchat (SVP): Sicherheitsvorkehrungen im Vorfeld der Kundgebung Marsch für's läbe vom 15. Sept. 2018;2018-397;Beschlossen;Kenntnis
+18.10.2018;6;Kleine Anfrage Fraktion SVP (Roland Iseli/Alexander Feuz, SVP): Fragen zur rechtswidrigen Besetzung des Gaswerkareals Teil II;2018-400;Beschlossen;Kenntnis
+18.10.2018;5;Kleine Anfrage Fraktion SVP (Roland Iseli/Alexander Feuz, SVP): Fragen zur rechtswidrigen Besetzung des Gaswerkareals Teil I;2018-399;Beschlossen;Kenntnis
+18.10.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 15 vom 30.08.2018);2018-395;Beschlossen;Genehmigung
+18.10.2018;11;"Tourismusförderung unter dem Dach von Bern Welcome: Vierjährige Leistungsverträge 2019 – 2022 mit der Bern Tourismus AG und der Bern Meetings & Events AG; Verpflichtungskredit in Stadtratskompetenz";2018-405;Beschlossen;Bewilligung
+18.10.2018;12;"Verwaltungsgebäude Erlacherhof: Instandsetzungsarbeiten erste Etappe und Anpassung Sicherheit; Projektierungs- und Baukredit";2018-406;Beschlossen;Bewilligung
+18.10.2018;14;"Tierpark Bern: Projekt «AareAlpen» (Steinwild); Kreditfreigabe";2018-408;Beschlossen;Bewilligung
+18.10.2018;15;"Polizeiinspektorat: Ablösung der Applikation GEWEPO (Gewerbepolizeiapplikation): Projekt GPoBärn; Investitionskredit";2018-409;Beschlossen;Bewilligung
+18.10.2018;16;"Abteilung Feuerwehr, Zivilschutz und Quartieramt: Ersatz zweier Autodrehleitern für die Berufsfeuerwehr der Stadt Bern; Investitionskredit";2018-410;Beschlossen;Bewilligung
+18.10.2018;2;Agglomerationskommission (AKO): Ersatzwahl;2018-396;Beschlossen;Wahl
+18.10.2018;9;"Geschäftsreglement (GRSR) des Stadtrats: Änderungsantrag Henri-Charles Beuchat (SVP) gemäss Art. 82; Zuweisung zur Vorberatung";2018-403;Beschlossen;Zuweisung
+18.10.2018;13;Postulat Fraktion SP (Benno Frauchiger/Martin Krebs, SP): Alternative Arbeitszeitmodelle auch in der Exekutive: Einführung der Möglichkeit einer Teamkandidatur für den Gemeinderat;2018-407;Beschlossen;Erheblicherkl.
+18.10.2018;10;"Erneuerung der Microsoft-Lizenzierung und -Wartung für die Bürokommunikationsarbeitsplätze und Server der Stadtverwaltung; Verpflichtungskredit";2018-404;Beschlossen;Bewilligung
+18.10.2018;20;Interpellation Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Was will der Gemeinderat: Rechtsfreie Reithalle für Anarchisten oder Rechtsgleichheit? Der Gemeinderat ist gefordert!;2018-414;Beschlossen;Verschiebung
+18.10.2018;17;Interfraktionelle Motion AL/GPB-DA/PdA+, GFL/EVP, GB/JA!, SP, GLP (Christa Ammann, AL/Daniel Egloff, PdA/Janine Wicki, GFL/Leena Schmitter, GB/Lena Sorg, SP/Melanie Mettler, GLP/Bettina Jans-Troxler, EVP): Stadtteile ohne Partnergewalt (StoP). Für ein Pilotprojekt in Bern!;2018-411;Beschlossen;Erheblicherkl. als Richtlinie
+18.10.2018;18;Postulat Kommission für Finanzen, Sicherheit und Umwelt FSU (Dannie Jost, FDP/Matthias Stürmer, EVP/Michael Burkard, GFL): Mehr Transparenz im Berner Taximarkt mit einer Berner Taxi-App;2018-412;Beschlossen;Verschiebung
+18.10.2018;19;Interfraktionelles Postulat GLP, BDP/CVP (Claude Grosjean, GLP/Andrin Soppelsa, BDP): Bessere Voraussetzungen für Mobilitätsplattformen schaffen – regulatorische Hindernisse abbauen;2018-413;Beschlossen;Verschiebung
+20.09.2018;9;Dringliches Postulat Fraktion SVP (Alexander Feuz, SVP/Hans Ulrich Gränicher, SVP): Prüfung einer Velo-, evtl. Fussgängerverbindung in Zusammenarbeit mit dem ASTRA im Rahmen der Sanierung des Felsenauviaduktes;2018-382;Beschlossen;Ablehnung
+20.09.2018;8;Dringliches interfraktionelles Postulat GFL/EVP, SP/JUSO (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP/Nadja Kehrli-Fehlmann, SP): Bauteilbörse: Nachhaltiges und ressourcenschonendes Programm sichern!;2018-381;Beschlossen;Erheblicherkl.
+20.09.2018;10;Dringliches interfraktionelles Postulat SVP, FDP/JF, BDP/CVP (Alexander Feuz, SVP/Hans Ulrich Gränicher, SVP/Thomas Berger, JF/Milena Daphinoff, CVP/Marianne Schild, GLP): Endlich sinnvolle Richtlinien für die Kulturförderung!;2018-383;Beschlossen;Ablehnung
+20.09.2018;13;"Zwischennutzung Schützenmatte 2018–2021; Kredit";2018-386;Beschlossen;Bewilligung
+20.09.2018;14;"Gesamtsanierung Volksschule Steckgut; Projektierungskredit";2018-387;Beschlossen;Bewilligung
+20.09.2018;6;"Energie Wasser Bern (ewb); Ersatzwahl Verwaltungsrat für die Amtsdauer 2018 – 2020 (Ersatzwahl Többen)";2018-379;Beschlossen;Wahl
+20.09.2018;12;Bericht über die Verwaltungskontrollarbeit der Aufsichtskommission (AK) im Jahr 2017;2018-385;Beschlossen;Kenntnis
+20.09.2018;15;"Neubau öffentliche WC-Anlage Mühlenplatz; Baukredit";2018-388;Beschlossen;Bewilligung
+20.09.2018;16;"Verwaltungsgebäude Meerhaus, Effingerstrasse 21: Anpassungen Erdgeschoss und Obergeschoss sowie Instandsetzungsarbeiten; Baukredit";2018-389;Beschlossen;Bewilligung
+20.09.2018;17;"Intranet 3.0: Weiterentwicklung des Intranets und der «Arbeitsräume extern» der Stadt Bern; Investitions-/Verpflichtungskredit";2018-390;Beschlossen;Bewilligung
+20.09.2018;7;Wahl in Schulkommission (Schulkommission Kirchenfeld-Schosshalde);2018-380;Beschlossen;Wahl
+20.09.2018;1;Kleine Anfrage Milena Daphinoff (CVP): Wie steht es um die Nachfolge von Stephan Märki?;2018-374;Beschlossen;Kenntnis
+20.09.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Renovation Kirchenfeldbrücke: Wird das Fahrverbot durchgesetzt oder müssen fehlbare Radfahrer auf Weisung des Gemeinderates geschont werden?;2018-376;Beschlossen;Kenntnis
+20.09.2018;2;Kleine Anfrage Luzius Theiler (GaP): Warum werden die beabsichtigten Leistungsverträge mit Bern Tourismus AG und Bern Meetings & Event AG nicht öffentlich ausgeschrieben?;2018-375;Beschlossen;Kenntnis
+20.09.2018;4;Kleine Anfrage Luzius Theiler (GaP): Warum fördert der Gemeinderat die gefährlichen schnellen E-Bikes?;2018-377;Beschlossen;Kenntnis
+20.09.2018;5;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Ueli Jaisli, SVP): KaWeDe: muss das grosse Becken wirklich verkleinert werden? Welche Anlage wollen Kinder und Jugendlichen? Werden diese Wünsche im Wettbewerb die gebotene Beachtung finden?;2018-378;Beschlossen;Kenntnis
+20.09.2018;11;Tätigkeitsbericht der Ombuds- und Datenaufsichtsstelle 2017;2018-384;Beschlossen;Kenntnis
+20.09.2018;18;Postulat Fraktion SP (Gisela Vollmer, SP): Günstigen Wohnraum im Bestand erhalten;2018-391;Beschlossen;Verschiebung
+20.09.2018;19;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Anteil gemeinnütziger Wohnraum in der Stadt Bern;2018-392;Beschlossen;Verschiebung
+20.09.2018;20;Postulat Fraktion SP (Gisela Vollmer/Benno Frauchiger, SP): Einseitige Stadtentwicklung: Immer grösserer Arbeitsplatzüberhang anstatt Wohnungen;2018-393;Beschlossen;Verschiebung
+20.09.2018;21;Postulat Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Hans Ulrich Gränicher, SVP): Fertig Luxusbauen! Bedürfnisse der Benutzer und Steuerzahler vermehrt berücksichtigen!;2018-394;Beschlossen;Verschiebung
+13.09.2018;6;Dringliche Interpellation Fraktion SVP (Alexander Feuz SVP): Nachlese zum Cup-Final – Auslegordnung: Wie sieht der Gemeinderat die Zukunft des Cup-Finals in Bern? Was für Verbesserungen müssten insbesondere im Bereich Sicherheit, Sauberkeit und Schutz der Bevölkerung angedacht werden?;2018-364;Beschlossen;Kenntnis
+13.09.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz SVP): Umfrage Liegeplätze KA-WE-DE: Traue keiner Statistik, die du nicht selber gefälscht hast?;2018-361;Beschlossen;Kenntnis
+13.09.2018;4;Kleine Anfrage Fraktion FDP/JF (Oliver Berger/Viviane Esseiva, FDP): Auf welche Benchmarks und Best Practises stellt die Stadt Bern beim Stellenetat ab?;2018-362;Beschlossen;Kenntnis
+13.09.2018;5;Kleine Anfrage Manuel C. Widmer (GFL): Sehr unterschiedliche Dichte von Veloverleihstationen bei «Velo Bern»;2018-363;Beschlossen;Kenntnis
+13.09.2018;7;Produktegruppen-Budget 2019 (Abstimmungsbotschaft);2018-365;Beschlossen;Genehmigung
+13.09.2018;8;"Erlass Naturgefahrenplan: Teilrevision der Bauordnung der Stadt Bern vom 24. September 2006 (BO; SSSB 721.1); Änderung der baurechtlichen Grundordnung (Abstimmungsbotschaft)";2018-366;Beschlossen;Genehmigung
+13.09.2018;9;"Umsetzung der kantonalen Verordnung vom 25. Mai 2011 über die Begriffe und Messweisen im Bauwesen (BMBV; BSG 721.3); Teilrevision der Bauordnung der Stadt Bern vom 24. September 2006 (BO; SSSB 721.1) (Abstimmungsbotschaft)";2018-367;Beschlossen;Genehmigung
+13.09.2018;2;Finanzdelegation (FD): Ersatzwahl;2018-360;Beschlossen;Wahl
+13.09.2018;1;Aufsichtskommission (AK): Ersatzwahl;2018-359;Beschlossen;Wahl
+13.09.2018;10;"Sport- und Freizeitanlage Weyermannshaus: Erneuerung Kunsteisbahn und Hallenbad; Projektierungskredit";2018-368;Beschlossen;Bewilligung
+13.09.2018;11;"Einbau Quartierküche im Personalhaus Zieglerspital; Baukredit";2018-369;Beschlossen;Bewilligung
+13.09.2018;12;Postulat Fraktion SP (Gisela Vollmer, SP): Günstigen Wohnraum im Bestand erhalten;2018-370;Beschlossen;Verschiebung
+13.09.2018;13;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Anteil gemeinnütziger Wohnraum in der Stadt Bern;2018-371;Beschlossen;Verschiebung
+13.09.2018;14;Postulat Fraktion SP (Gisela Vollmer/Benno Frauchiger, SP): Einseitige Stadtentwicklung: Immer grösserer Arbeitsplatzüberhang anstatt Wohnungen;2018-372;Beschlossen;Verschiebung
+13.09.2018;15;Postulat Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Hans Ulrich Gränicher, SVP): Fertig Luxusbauen! Bedürfnisse der Benutzer und Steuerzahler vermehrt berücksichtigen!;2018-373;Beschlossen;Verschiebung
+30.08.2018;2;Kleine Anfrage Luzius Theiler (GaP): Wann kommt die städtische Digitalstrategie vor den Stadtrat?;2018-344;Beschlossen;Kenntnis
+30.08.2018;4;Wahlen in Schulkommission (Schulkommission Heilpädagogische Schule);2018-346;Beschlossen;Wahl
+30.08.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 11 vom 17.05.2018, Protokoll Nr. 12 vom 31.05.2018, Protokoll Nr. 13 vom 14. Juni 2018 sowie Protokoll Nr. 14 vom 28. Juni 2018);2018-343;Beschlossen;Genehmigung
+30.08.2018;9;"Mittelstrasse 43: Schaffung eines öffentlichen Platzes im Rahmen des Mitwirkungsprogramms Wohnumfeldverbesserung (WUV5); Krediterhöhung";2018-351;Beschlossen;Bewilligung
+30.08.2018;10;Versuchsbetrieb Tangentiallinie Bern Süd: Ausführungs- und Betriebskredit (Verpflichtungskredit zu Lasten der Erfolgsrechnung);2018-352;Beschlossen;Bewilligung
+30.08.2018;11;"Velohauptroute Bern – Eigerplatz – Köniz (Gemeindegebiet Bern), Gesamtprojekt; Ausführungskredit";2018-353;Beschlossen;Bewilligung
+30.08.2018;12;"Bundesplatz: Sanierung Wasserspiel und Einführung einer Begegnungszone im Bereich Amthausgasse-Schauplatzgasse; Ausführungskredit";2018-354;Beschlossen;Bewilligung
+30.08.2018;5;Dringliche Motion Fraktion GB/JA! (Rahel Ruch, GB/Seraina Patzen, JA!): Unabhängige Untersuchung des Polizeieinsatzes vom 7.4.2018;2018-347;Beschlossen;Erheblicherkl. als Richtlinie
+30.08.2018;6;"Geschäftsreglement (GRSR) des Stadtrats: Änderungsantrag freie Fraktion AL/GaP/PdA gemäss Art. 82; Zuweisung zur Vorberatung";2018-348;Beschlossen;Zuweisung
+30.08.2018;7;"Geschäftsreglement (GRSR) des Stadtrats: Änderungsantrag Luzius Theiler (GaP) gemäss Art. 82; Zuweisung zur Vorberatung";2018-349;Beschlossen;Zuweisung
+30.08.2018;8;"Schulinformatik «base4kids2»; Investitions- und Verpflichtungskredit (Abstimmungsbotschaft)";2018-350;Beschlossen;Bewilligung
+30.08.2018;13;Interfraktionelle Motion SP, GB/JA! (David Stampfli, SP/Cristina Anliker-Mansour, GB): Tempo 30 auf der Achse Viktoriarain-Viktoriastrasse;2018-355;Beschlossen;Erheblicherkl. als Richtlinie
+30.08.2018;14;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schaffung neuer Begegnungszonen in Bern: Auch Hauseigentümer und Dienstbarkeitsberechtigte frühzeitig in den Entscheidungsprozess einbeziehen!;2018-356;Beschlossen;Verschiebung
+30.08.2018;15;Postulat Henri Beuchat und Alexander Feuz (SVP): Bettelnde Tram-Musiker nerven Passagiere in der Stadt Bern;2018-357;Beschlossen;Verschiebung
+30.08.2018;3;Kommission für Soziales, Bildung und Kultur (SBK): Ersatzwahl;2018-358;Beschlossen;Wahl
+28.06.2018;12;Dringliche Motion Fraktion GB/JA! (Rahel Ruch, GB/Seraina Patzen, JA!): Unabhängige Untersuchung des Polizeieinsatzes vom 7.4.2018;2018-338;Beschlossen;Verschiebung
+28.06.2018;5;BERNMOBIL: Ersatzwahl Verwaltungsrat für die Amtsdauer bis Ende 2020 (Ersatzwahl Sedlmayer);2018-331;Beschlossen;Wahl
+28.06.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 10 vom 03.05.2018);2018-327;Beschlossen;Genehmigung
+28.06.2018;16;Wasserstrategie der Stadt Bern;2018-342;Beschlossen;Verschiebung
+28.06.2018;10;"Sanierung Thunstrasse West; Projektierungskredit (Bauprojekt)";2018-336;Beschlossen;Bewilligung
+28.06.2018;11;"Verkehrsberuhigung Brunnadern-Elfenau; Projektierungskredit (Bauprojekt)";2018-337;Beschlossen;Bewilligung
+28.06.2018;13;Postulat Fraktion SP (Benno Frauchiger/Martin Krebs, SP): Alternative Arbeitszeitmodelle auch in der Exekutive: Einführung der Möglichkeit einer Teamkandidatur für den Gemeinderat;2018-339;Beschlossen;Verschiebung
+28.06.2018;3;Kommission für Finanzen, Sicherheit und Umwelt (FSU): Ersatzwahl;2018-329;Beschlossen;Wahl
+28.06.2018;4;Agglomerationskommission (AKO): Ersatzwahl;2018-330;Beschlossen;Wahl
+28.06.2018;15;Tätigkeitsbericht der Ombuds- und der Datenaufsichtsstelle 2017;2018-341;Beschlossen;Verschiebung
+28.06.2018;14;Bericht über die Verwaltungskontrollarbeit der Aufsichtskommission (AK) im Jahr 2017;2018-340;Beschlossen;Verschiebung
+28.06.2018;6;Kleine Anfrage Barbara Freiburghaus (FDP): Verursacht das Veloverleihsystem doch Betriebskosten für die Stadt Bern?;2018-332;Beschlossen;Kenntnis
+28.06.2018;7;Kleine Anfrage Fraktion GB/JA! (Ursina Anderegg, GB): Polizeiliche Videoüberwachung öffentlicher Raum beim Falkenplatz;2018-333;Beschlossen;Kenntnis
+28.06.2018;2;Aufsichtskommission (AK): Ersatzwahl;2018-328;Beschlossen;Wahl
+28.06.2018;8;Jahresbericht 2017;2018-334;Beschlossen;Kenntnis
+28.06.2018;9;Dringliche interfraktionelle Motion FDP/JF, BDP/CVP (Barbara Freiburghaus, FDP/Michael Daphinoff, CVP): Eine echte Generationenbrücke für künftige Generationen statt Velobrücke und/oder Panoramasteg;2018-335;Beschlossen;Teilweise Erheblicherkl. als Postulat
+14.06.2018;18;Motion Fraktion AL/GPB-DA/PdA+ (Christa Ammann, AL): Ein Haus der Vereine im Ringhof!;2018-320;Beschlossen;Erheblicherkl.
+14.06.2018;19;Dringliche interfraktionelle Motion FDP/JF, BDP/CVP (Barbara Freiburghaus, FDP/Michael Daphinoff, CVP): Eine echte Generationenbrücke für künftige Generationen statt Velobrücke und/oder Panoramasteg;2018-321;Beschlossen;Verschiebung
+14.06.2018;6;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Verkehrsberuhigung Brunnadern-/Elfenauquartier: offene Fragen!;2018-308;Beschlossen;Kenntnis
+14.06.2018;5;Kleine Anfrage Christa Ammann (AL): Fragen zur Kommunikation rund um die Afrin-Kundgebung vom 7. April 2018;2018-307;Beschlossen;Kenntnis
+14.06.2018;9;Kleine Anfrage Christa Ammann (AL): Entfernung von Transparenten bei der Grossen Halle;2018-311;Beschlossen;Kenntnis
+14.06.2018;2;Kleine Anfrage Milena Daphinoff (CVP): Trauerspiel in der Sparte Schauspiel I;2018-304;Beschlossen;Kenntnis
+14.06.2018;3;Kleine Anfrage Milena Daphinoff (CVP): Trauerspiel in der Sparte Schauspiel II;2018-305;Beschlossen;Kenntnis
+14.06.2018;4;Kleine Anfrage Michael Daphinoff/Milena Daphinoff (CVP): Rettet das Radio-Studio Bern – Was tut der Gemeinderat?;2018-306;Beschlossen;Kenntnis
+14.06.2018;8;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Sanierung Thunstrasse: Werden die Fussgänger in Zukunft wirksam geschützt oder muss zuerst ein Unfall passieren? Trial and error?;2018-310;Beschlossen;Kenntnis
+14.06.2018;7;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Velo/Fussgänger-Mischverkehr auf den Trottoirs der Thunstrasse: Was gilt?;2018-309;Beschlossen;Kenntnis
+14.06.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 09 vom 26.04.2018);2018-303;Beschlossen;Genehmigung
+14.06.2018;16;"Neue Fallführungssoftware citysoftnet für den Sozialbereich; Investitions- und Verpflichtungskredit (Abstimmungsbotschaft)";2018-318;Beschlossen;Bewilligung
+14.06.2018;15;"Volksschule Breitenrain: Anpassungen für drei Basisstufen- und drei Primarklassen; Baukredit";2018-317;Beschlossen;Bewilligung
+14.06.2018;14;"Reglement über die Planungsmehrwertabgabe (Planungsmehrwertabgabereglement, PMAR); Erlass; 2. Lesung";2018-316;Beschlossen;Genehmigung
+14.06.2018;13;"Polizeiinspektorat (Dienststelle 230); Nachkredit zum Globalbudget 2017";2018-315;Beschlossen;Bewilligung
+14.06.2018;17;"Logistik Bern; Nachkredit zum Globalbudget 2017";2018-319;Beschlossen;Bewilligung
+14.06.2018;20;Motion Fraktion SVP (Alexander Feuz, SVP): Velowege an der Aare: Stopp unnötiger Planungskosten!;2018-322;Beschlossen;Verschiebung
+14.06.2018;21;Motion Fraktion SP (Michael Sutter/David Stampfli, SP): Friedliches Nebeneinander von Fussgängerinnen und Velofahrern zwischen Schönausteg und Eichholz;2018-323;Beschlossen;Verschiebung
+14.06.2018;22;Postulat Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Erhöhen der Verkehrssicherheit für Fussgängerinnen und Fussgänger in der Berner Innenstadt durch Beschränken der Fahrgeschwindigkeit der Velofahrenden und/oder das Erlassen von Fahrverboten an stark frequentierten Orten;2018-324;Beschlossen;Verschiebung
+14.06.2018;23;Interpellation Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher/Roland Jakob, SVP): Besserer Schutz der Fussgänger in der Stadt Bern vor Velorowdys und E-Bikes!;2018-325;Beschlossen;Verschiebung
+14.06.2018;24;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2018-326;Beschlossen;Verschiebung
+14.06.2018;11;Integrierter Aufgaben- und Finanzplan 2019 - 2022;2018-313;Beschlossen;Kenntnis
+14.06.2018;12;"Interfraktionelles Postulat SVP, BDP/CVP, FDP (Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP/Christoph Zimmerli, FDP): Die alarmierende Zunahme der Verschuldung muss gebremst werden; Prüfungsbericht (Bericht zur Verschuldungssituation der Stadt Bern)";2018-314;Beschlossen;Kenntnis
+14.06.2018;10;Dringliches interfraktionelles Postulat BDP/CVP, FDP/JF, SVP (Lionel Gaudy, BDP/Barbara Freiburghaus, FDP/Kurt Rüegsegger, SVP): Verkehrsregime Guisanplatz – Planung mit Verstand;2018-312;Beschlossen;Teilweise Erheblicherkl.
+31.05.2018;10;Dringliches interfraktionelles Postulat BDP/CVP, FDP/JF, SVP (Lionel Gaudy, BDP/Barbara Freiburghaus, FDP/Kurt Rüegsegger, SVP): Verkehrsregime Guisanplatz – Planung mit Verstand;2018-294;Beschlossen;Verschiebung
+31.05.2018;9;"Interfraktionelles Postulat SVP, BDP/CVP, FDP (Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP/Christoph Zimmerli, FDP): Die alarmierende Zunahme der Verschuldung muss gebremst werden; Prüfungsbericht (Bericht zur Verschuldungssituation der Stadt Bern)";2018-293;Beschlossen;Verschiebung
+31.05.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Besetzung der Grossen Halle: Wer zahlt die Folgekosten?;2018-287;Beschlossen;Kenntnis
+31.05.2018;6;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Bewertung durch Moody's: Kosten? Selbsteinschätzung der Finanzlage durch den Gemeinderat?;2018-290;Beschlossen;Kenntnis
+31.05.2018;4;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Reithalle: Verbannung von «we love Techno», wer reagiert: das Umfeld, das Recht oder der Terror?;2018-288;Beschlossen;Kenntnis
+31.05.2018;2;Kleine Anfrage Tabea Rai (AL): Dossier Kundgebungen: Ist das Verhalten des Sicherheitsdirektors noch tragbar?;2018-286;Beschlossen;Kenntnis
+31.05.2018;5;Kleine Anfrage Thomas Berger (JF): Verzichtet die Grosse Halle freiwillig auf Einnahmen?;2018-289;Beschlossen;Kenntnis
+31.05.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 08 vom 05.04.2018);2018-285;Beschlossen;Genehmigung
+31.05.2018;8;Integrierter Aufgaben- und Finanzplan 2019 – 2022;2018-292;Beschlossen;Unterbruch
+31.05.2018;11;Motion Fraktion SVP (Alexander Feuz, SVP): Velowege an der Aare: Stopp unnötiger Planungskosten!;2018-295;Beschlossen;Verschiebung
+31.05.2018;12;Motion Fraktion SP (Michael Sutter/David Stampfli, SP): Friedliches Nebeneinander von Fussgängerinnen und Velofahrern zwischen Schönausteg und Eichholz;2018-296;Beschlossen;Verschiebung
+31.05.2018;13;Postulat Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Erhöhen der Verkehrssicherheit für Fussgängerinnen und Fussgänger in der Berner Innenstadt durch Beschränken der Fahrgeschwindigkeit der Velofahrenden und/oder das Erlassen von Fahrverboten an stark frequentierten Orten;2018-297;Beschlossen;Verschiebung
+31.05.2018;14;Interpellation Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher/Roland Jakob, SVP): Besserer Schutz der Fussgänger in der Stadt Bern vor Velorowdys und E-Bikes!;2018-298;Beschlossen;Verschiebung
+31.05.2018;15;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2018-299;Beschlossen;Verschiebung
+31.05.2018;17;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schaffung neuer Begegnungszonen in Bern: Auch Hauseigentümer und Dienstbarkeitsberechtigte frühzeitig in den Entscheidungsprozess einbeziehen!;2018-301;Beschlossen;Verschiebung
+31.05.2018;18;Postulat Henri Beuchat und Alexander Feuz (SVP): Bettelnde Tram-Musiker nerven Passagiere in der Stadt Bern;2018-302;Beschlossen;Verschiebung
+31.05.2018;16;Interfraktionelle Motion SP, GB/JA! (David Stampfli, SP/Cristina Anliker-Mansour, GB): Tempo 30 auf der Achse Viktoriarain-Viktoriastrasse;2018-300;Beschlossen;Verschiebung
+31.05.2018;7;Dringliche Interpellation Freie Fraktion AL/GaP/PdA (Luzius Theiler, GaP): Wettbewerb Viererfeld: Warum werden die Versprechungen in der Abstimmungsbotschaft nicht eingehalten?;2018-291;Beschlossen;Kenntnis
+17.05.2018;10;Dringliche Motion Fraktion FDP/JF (Bernhard Eicher, FDP): Die Ecole française Internationale de Berne retten;2018-273;Beschlossen;Abschreibung
+17.05.2018;9;Dringliche Motion Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): Neustart jetzt: Sicherheits- und Alarmsystem an Schulen;2018-272;Beschlossen;Erheblicherkl. als Richtlinie
+17.05.2018;16;Dringliche Interpellation Freie Fraktion AL/GaP/PdA (Luzius Theiler, GaP): Wettbewerb Viererfeld: Warum werden die Versprechungen in der Abstimmungsbotschaft nicht eingehalten?;2018-279;Beschlossen;Verschiebung
+17.05.2018;8;Dringliche Motion Lionel Gaudy, Philip Kohli (BDP): Bei einem Amoklauf bringt das Posthorn nichts – mehr Sicherheit an Berner Schulen!;2018-271;Beschlossen;Ablehnung
+17.05.2018;2;Kleine Anfrage Fraktion BDP/CVP (Michel Daphinoff, CVP/Lionel Gaudy, BDP): Fragen zur Besetzung der Grossen Halle und zur Abstimmung über den Kredit von CHF 3 Mio. für die Sanierung;2018-265;Beschlossen;Kenntnis
+17.05.2018;4;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Neues Länggasstram: Entlastung Spitalgasse und Marktgasse durch zweite Tramachse?;2018-267;Beschlossen;Kenntnis
+17.05.2018;5;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Neues Länggasstram: Was kümmert mich mein Geschwätz von gestern! Entlastung von Spitalgasse und Marktgasse oder bewusste Irreführung der Stimmbürger?;2018-268;Beschlossen;Kenntnis
+17.05.2018;3;Kleine Anfrage Henri-Charles Beuchat (SVP): Leistungserfassung Eigenleistungen und Finanzkompetenzordnung bei dem Kulturfest vom 24. Januar 2018;2018-266;Beschlossen;Kenntnis
+17.05.2018;7;Kleine Anfrage Barbara Freiburghaus (FDP): Prioritärer Winterdienst;2018-270;Beschlossen;Kenntnis
+17.05.2018;6;Kleine Anfrage Barbara Freiburghaus (FDP): Analyse des steigenden Freizeitverkehrs;2018-269;Beschlossen;Kenntnis
+17.05.2018;17;Interfraktionelle Parlamentarische Initiative GLP/JGLP, FDP/JF, SVP, BDP/CVP, AL/GPB-DA/PdA (Melanie Mettler, GLP/Bernhard Eicher, FDP/Alexander Feuz, SVP/Philip Kohli, BDP/Daniel Egloff, PdA): Neutrales Wahlverfahren bei den Stadtberner Wahlen;2018-280;Beschlossen;Ablehnung
+17.05.2018;11;TEAG Technologiepark-Immobilien AG (Morgenstrasse 128, 3018 Bern): Entwidmung und Übertragung vom Verwaltungs- ins Finanzvermögen;2018-274;Beschlossen;Bewilligung
+17.05.2018;12;"Nutzung des städtischen Veloverleihsystems durch die Mitarbeitenden der Stadtverwaltung; Verpflichtungskredit und Nachkredit zum Globalbudget 2018 von Logistik Bern";2018-275;Beschlossen;Bewilligung
+17.05.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 07 vom 22.03.2018);2018-264;Beschlossen;Genehmigung
+17.05.2018;18;Postulat Fraktion SP (Benno Frauchiger/Martin Krebs, SP): Alternative Arbeitszeitmodelle auch in der Exekutive: Einführung der Möglichkeit einer Teamkandidatur für den Gemeinderat;2018-281;Beschlossen;Verschiebung
+17.05.2018;19;Postulat Fraktion SP (Gisela Vollmer, SP): Günstigen Wohnraum im Bestand erhalten;2018-282;Beschlossen;Verschiebung
+17.05.2018;20;Postulat Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Hans Ulrich Gränicher, SVP): Fertig Luxusbauen! Bedürfnisse der Benutzer und Steuerzahler vermehrt berücksichtigen!;2018-283;Beschlossen;Verschiebung
+17.05.2018;21;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Anteil gemeinnütziger Wohnraum in der Stadt Bern;2018-284;Beschlossen;Verschiebung
+17.05.2018;13;Motion Fraktion SP/JUSO (Rithy Chheng, SP): Für mehr bezahlbare Wohnungen und fairere Mietverhältnisse in unserer Stadt dank Offenlegung des vorherigen Mietzinses;2018-276;Beschlossen;Erheblicherkl. als Richtlinie
+17.05.2018;14;"Motion Fraktion SP (Rithy Chheng, SP): Charta – Zusammenarbeit zwischen der Stadt Bern und den gemeinnützigen Berner Wohnbauträgern; Begründungsbericht";2018-277;Beschlossen;Kenntnis
+17.05.2018;15;Postulat Fraktion BDP/CVP (Milena Daphinoff, CVP/Andrin Soppelsa, BDP): Belebung der Altstadt durch Schaffung von neuem Wohnraum dank Verlagerung der städtischen Verwaltungseinrichtungen in periphere Stadtgebiete – ein prüfenswertes Szenario;2018-278;Beschlossen;Ablehnung
+03.05.2018;39;"Interfraktionelle Motion GB/JA!, SP, GFL/EVP (Leena Schmitter, GB/Seraina Patzen, JA!/Michael Sutter, SP/Manuel C. Widmer, GFL): Unabhängige Untersuchung zum Polizeieinsatz bei den Miss-Schweiz-Wahlen; Begründungsbericht";2018-240;Beschlossen;Kenntnis
+03.05.2018;1;"Motion Fraktion SP/JUSO (Andreas Flückiger/Rolf Schuler, SP): Wohnen im Kleefeld am Stadtbach; Fristverlängerung";2018-202;Beschlossen;Fristverl.
+03.05.2018;21;"Motion Tania Espinoza Haller (GFL), Bettina Jans-Troxler (EVP), Sandra Ryser (GLP), Kurt Hirsbrunner (BDP), Claudio Fischer (CVP): Die Stadt Bern muss als Bundeshauptstadt Farbe bekennen: Das Zieglerspital soll möglichst rasch zum ersten (befristeten) Bundeszentrum für Asylsuchende (BZ) des Kantons Bern bestimmt werden; als rasche Zwischenlösung ist die Einrichtung eines städtischen Durchgangszentrums (DZ) ins Auge zu fassen; Begründungsbericht";2018-222;Beschlossen;Kenntnis
+03.05.2018;2;"Interfraktionelles Postulat SP, GB/JA! (Peter Marbet, SP/Franziska Grossenbacher, GB): Meinen-Areal: Wohnungsbau für Familien fördern; Fristverlängerung";2018-203;Beschlossen;Fristverl.
+03.05.2018;22;"Interfraktionelle Motion Fraktionen GB/JA!, SP, BDP/CVP, AL/GPB-DA/PdA+ (Leena Schmitter, GB/Seraina Patzen, JA!/Michael Sutter, SP/Lionel Gaudy, BDP/Claudio Fischer, CVP/Christa Ammann, AL): Plätze aus der Notunterkunft Hochfeld im Zieglerspital integrieren und Hochfeldbunker schliessen!; Begründungsbericht";2018-223;Beschlossen;Kenntnis
+03.05.2018;3;"Postulat Fraktion SP (Peter Marbet/Michael Sutter, SP): Meinen-Areal: Wohnungen – für alle statt für wenige; Fristverlängerung";2018-204;Beschlossen;Fristverl.
+03.05.2018;38;"Interfraktionelle Motion GB/JA!, GLP (Lea Bill, JA!/Leena Schmitter, GB/Peter Ammann, GLP): Gleiche Rechte für alle: Kundgebungen während den eidgenössischen Sessionen auf dem Bundesplatz erlauben; Fristverlängerung";2018-239;Beschlossen;Fristverl.
+03.05.2018;19;Motion Fraktion SP (Peter Marbet, SP): Erhalt des Kirchgemeindehauses Steigerhubel als Sozial- und Bildungszentrum, Fristverlängerung;2018-220;Beschlossen;Fristverl.
+03.05.2018;14;"Motion Fraktion BDP/CVP (Edith Leibundgut, CVP / Kurt Hirsbrunner, BDP): Bedürfnisgerechtes Angebot an Familiengärten in der Stadt Bern; Fristverlängerung Punkt 4 und 5";2018-215;Beschlossen;Fristverl.
+03.05.2018;15;"Interfraktionelle Motion SP, BDP/CVP (Lea Kusano, SP/Kurt Hirsbrunner, BDP): Ja zur Schulwegsicherheit im Galgenfeld – Ja zur Lichtsignalanlage!; Fristverlängerung";2018-216;Beschlossen;Fristverl.
+03.05.2018;16;"Postulat Fraktion GLP (Daniel Imthurn/Jürg Weder, GLP): öV-Verbindungen Bahnhof Weissenbühl-Paul-Klee-Zentrum und Länggasse-Bahnhof Wankdorf herstellen!; Fristverlängerung";2018-217;Beschlossen;Fristverl.
+03.05.2018;20;"Postulat Fraktion SP (Fuat Köçer, SP): Die Jugend braucht für ihre Entfaltung genügend Raum; Fristverlängerung";2018-221;Beschlossen;Fristverl.
+03.05.2018;17;"lnterfraktionelles Postulat SP/JUSO, GB/JA! (Stefan Jordi, SP/Stéphanie Penher, GB): Kleine Allmend: Keine Blechlawine auf der grünen Wiese!; Fristverlängerung";2018-218;Beschlossen;Fristverl.
+03.05.2018;18;"Postulat Fraktion GB/JA! (Stéphanie Penher/Franziska Grossenbacher, GB): Parkplätze auf öffentlichem Grund um mindestens 10 Prozent reduzieren; Fristverlängerung";2018-219;Beschlossen;Fristverl.
+03.05.2018;49;"Postulat Fraktion GLP (Melanie Mettler/Sandra Ryser, GLP): Etappierte Entwicklung auf dem Areal der Alten Feuerwehrkaserne; Fristverlängerung";2018-250;Beschlossen;Fristverl.
+03.05.2018;51;"Postulat Fraktion GB/JA! (Esther Oester/Stéphanie Penher, GB): Feuerwehrkaserne Viktoria: Gemeinnütziges Wohnen im Einklang mit quartierbelebendem Gewerbe ermöglichen; Fristverlängerung Punkt 4";2018-252;Beschlossen;Fristverl.
+03.05.2018;50;"Motion Fraktion GB/JA! (Esther Oester/Stéphanie Penher, GB): Feuerwehrkaserne Viktoria: Gemeinnütziges Wohnen im Einklang mit quartierbelebendem Gewerbe ermöglichen; Fristverlängerung Punkt 1 und 3";2018-251;Beschlossen;Fristverl.
+03.05.2018;52;"Motion Fraktion GLP (Melanie Mettler/Sandra Ryser, GLP): Etappierte Entwicklung auf dem Areal der Alten Feuerwehrkaserne; Fristverlängerung Punkt 1, 2, 4, 6, 7 und 8";2018-253;Beschlossen;Fristverl.
+03.05.2018;53;"Postulat Fraktion GB/JA! (Regula Tschanz, GB): Beratung von IAFP, Jahresbericht und Produktegruppen-Budget; Fristverlängerung";2018-254;Beschlossen;Fristverl.
+03.05.2018;54;"Motion Aufsichtskommission AK (Kurt Hirsbrunner, BDP/Nicola von Greyerz, SP): PGB – Überprüfung von Kennzahlen, Steuerungsvorgaben und ""light""-Dienststellen; Fristverlängerung";2018-255;Beschlossen;Fristverl.
+03.05.2018;55;"Postulat Fraktion FDP (Bernhard Eicher, FDP): Park Brückenstrasse für die Bevölkerung zugänglich machen; Fristverlängerung";2018-256;Beschlossen;Fristverl.
+03.05.2018;23;"Interfraktionelle Motion SP, GB/JA!, GLP, GFL/EVP, BDP/CVP (Michael Sutter, SP/Christina Anliker-Mansour, GB/Sandra Ryser, GLP/Daniela Lutz-Beck, GFL/Kurt Hirsbrunner, BDP): Schaffung einer Asylunterkunft im Gebäude des Zieglerspitals und Schliessung des Hochfelds; Begründungsbericht";2018-224;Beschlossen;Kenntnis
+03.05.2018;24;"Interfraktionelle Motion Fraktion GB/JA!, SP (Cristina Anliker-Mansour, GB/Christa Ammann, AL/Michael Sutter, SP): Die NUK Hochfeld darf kein Dauerprovisorium werden; Begründungsbericht";2018-225;Beschlossen;Kenntnis
+03.05.2018;26;"Motion Fraktion GB/JA! (Leena Schmitter, GB/Lea Bill, JA!): Cannabis Social Clubs auch in Bern!; Begründungsbericht";2018-227;Beschlossen;Kenntnis
+03.05.2018;28;"Motion Fraktion GB/JA! (Regula Bühlmann, GB): Mahlzeiten 3: Lustvoller und gesunder Umgang mit Essen in Berner Kitas; Begründungsbericht";2018-229;Beschlossen;Kenntnis
+03.05.2018;27;"Motion Fraktion GB/JA! (Cristina Anliker-Mansour, GB): Mahlzeiten 1: Cateringlieferungsfirma mit Ausbildungsplätzen für erwerbslose AusländerInnen; Begründungsbericht";2018-228;Beschlossen;Kenntnis
+03.05.2018;12;"Interfraktionelle Motion SP/JUSO, BDP/CVP (Rithy Chheng, SP/Vinzenz Bartlome, BDP): Generationenpark für Bern, ein Pilotversuch im Bienzgut; Begründungsbericht";2018-213;Beschlossen;Kenntnis
+03.05.2018;11;"Interfraktionelle Motion SP, GFL/EVP, GLP, GB/JA! (Thomas Göttin, SP/Lukas Gutzwiller, GFL/Melanie Mettler, GLP/Regula Tschanz, GB): Lärmschutz und Stadtreparatur im Osten Berns; Begründungsbericht";2018-212;Beschlossen;Kenntnis
+03.05.2018;29;"Interfraktionelle Motion FDP, SP, BDP/CVP, GFL/EVP, GB/JA!, SVP (Bernhard Eicher FDP/Rithy Chheng SP/Kurt Hirsbrunner, BDP/Claudio Fischer, CVP/Janine Wicki, GFL/Bettina Jans-Troxler, EVP/Regula Tschanz, GB/Seraina Patzen, JA!/Ueli Jaisli, SVP): Kirchliche Gemeinschaftszentren sollen auch künftig für Gemeinwesenarbeit benützt werden können; Begründungsbericht";2018-230;Beschlossen;Kenntnis
+03.05.2018;56;"Motion Fraktion FDP (Alexandre Schmidt, FDP): Eine Sanierungsstrategie für die städtische Infrastruktur; Begründungsbericht";2018-257;Beschlossen;Kenntnis
+03.05.2018;31;"Motion Fraktion SP/JUSO (Giovanna Battagliero/Miriam Schwarz, SP): Primano - definitive Einführung samt Nachfolgefinanzierung muss gesichert werden!; Abschreibung";2018-232;Beschlossen;Abschreibung
+03.05.2018;57;"Interfraktionelle Motion BDP/CVP, GFL/EVP (Martin Schneider, BDP/Manuel C. Widmer, GFL): Solarzellen auf möglichst viele städtische Dächer!; Abschreibung Punkt 3";2018-258;Beschlossen;Abschreibung
+03.05.2018;35;"Motion Fraktion GFL/EVP (Tania Espinoza/Lukas Gutzwiller, GFL): Energiewende konkret - Photovoltaikanteil in das Standardangebot von ewb aufnehmen; Abschreibung Punkt 2";2018-236;Beschlossen;Abschreibung
+03.05.2018;4;"Interfraktionelle Motion GFL/EVP, SP/JUSO, FDP (Ueli Stückelberger, GFL/Margrith Beyeler-Graf, SP/Urs Jaberg, FDP): Neue Wohnzone bei der S-Bahn-Station Riedbach; Abschreibung";2018-205;Beschlossen;Abschreibung
+03.05.2018;5;"Interfraktionelle Motion GFL/EVP, SP/JUSO (Verena Furrer-Lehmann, GFL/Margrith Beyeler-Graf, SP): Bestehenden Wohnraum sichern; Abschreibung Punkt 2";2018-206;Beschlossen;Abschreibung
+03.05.2018;13;"I580-020, Fr. 900 000.00, Einführung Tempo-30-Zonen zum Schutz der Wohnquartiere Projektierungskredit; Kreditabrechnung";2018-214;Beschlossen;Bewilligung
+03.05.2018;8;Interpellation Fraktion SVP (Alexander Feuz, SVP): Schulraum Manuel: Wie geht es weiter? Was für Alternativen werden geprüft?;2018-209;Beschlossen;Kenntnis
+03.05.2018;7;Interpellation Milena Daphinoff/Michael Daphinoff (CVP): Wie steht es um den „Dialog“ zwischen den Behörden und der Reitschule?;2018-208;Beschlossen;Kenntnis
+03.05.2018;6;Interpellation Fraktion GFL/EVP (Manuel C. Widmer, GFL/Bettina Jans-Troxler, EVP): KTB: Konflikt zwischen Konzert Theater Bern KTB und der Schauspieldirektorin Gräve: Wie und was kann aus der Vergangenheit für die Zukunft gelernt werde?;2018-207;Beschlossen;Kenntnis
+03.05.2018;45;Interpellation Fraktion SP (Johannes Wartenweiler/Ingrid Kissling-Näf, SP): Soziale und politische Anforderungen an Smart City Bern 2 – neue Unternehmen und soziale Verantwortung;2018-246;Beschlossen;Kenntnis
+03.05.2018;37;Interpellation Freie Fraktion AL/GPB-DA/PdA (Christa Ammann, AL): Verantwortlichkeit, Rechtmässigkeit und Verhältnismässigkeit des Polizeieinsatzes und der Einschränkung der freien Meinungsäusserung rund um Staatsbesuche klären;2018-238;Beschlossen;Kenntnis
+03.05.2018;36;Interpellation Fraktion SP/JUSO (Nora Krummen, SP/Tamara Funiciello, JUSO): Polizeieinsatz während des chinesischen Staatsbesuchs;2018-237;Beschlossen;Kenntnis
+03.05.2018;40;Interpellation Fraktion SP/JUSO (Yasemin Cevik/Michael Sutter, SP): Polizeieinsatz im Zusammenhang mit der Räumung der Liegenschaft Effingerstrasse 29 – war das verhältnismässig?;2018-241;Beschlossen;Kenntnis
+03.05.2018;43;Interpellation Freie Fraktion AL/GPB-DA/PdA (Christa Ammann, AL): Effingerstrasse 29 – Räumung & Co. - Teil III;2018-244;Beschlossen;Kenntnis
+03.05.2018;42;Interpellation Freie Fraktion AL/GPB-DA/PdA (Christa Ammann, AL): Effingerstrasse 29 – Räumung & Co. - Teil II;2018-243;Beschlossen;Kenntnis
+03.05.2018;41;Interpellation Freie Fraktion AL/GPB-DA/PdA (Christa Ammann, AL): Effingerstrasse 29 – Räumung & Co. - Teil I;2018-242;Beschlossen;Kenntnis
+03.05.2018;46;Interpellation Fraktion SP (Halua Pinto de Magalhães/Johannes Wartenweiler, SP): Soziale und politische Anforderungen an Smart City Bern 1 – städtische Beschäftigte;2018-247;Beschlossen;Kenntnis
+03.05.2018;48;Interpellation Fraktion SVP (Alexander Feuz, SVP): Villa Zähringerstrasse 22 als Asylunterkunft – offene Fragen zum Vorgehen der Stadt II;2018-249;Beschlossen;Kenntnis
+03.05.2018;32;Interpellation Fraktion FDP (Bernhard Eicher, FDP): Unseriöse Vermieter betreiben Sozialhilfemissbrauch: Was unternimmt die Stadt dagegen?;2018-233;Beschlossen;Kenntnis
+03.05.2018;30;Strategie zur Förderung der beruflichen und sozialen Integration in der Stadt Bern 2018–2021;2018-231;Beschlossen;Kenntnis
+03.05.2018;33;Interpellation Henri-Charles Beuchat und Rudolf Friedli (SVP): Ist die Studie zur Reitschule ein rot-grünes Gefälligkeitsgutachten?;2018-234;Beschlossen;Kenntnis
+03.05.2018;34;Interpellation Henri-Charles Beuchat (SVP): Ist die Vertretung von Schulkommissionen als Mitglied in einer Quartiermitwirkung vom Gesetzgeber vorgesehen?;2018-235;Beschlossen;Kenntnis
+03.05.2018;25;Interfraktionelle Interpellation FDP, SVP (Jacqueline Gafner Wasem/Bernhard Eicher, FDP/Alexander Feuz/Roland Jakob, SVP): Unterirdische Asylunterkunft in der Zivilschutzanlage des Verteilzentrums Coop an der Riedbachstrasse 165 in 3027 Bern: Verletzt der Kanton Bern mehr als nur Anstandsregeln?;2018-226;Beschlossen;Kenntnis
+03.05.2018;10;Interpellation Hans Ulrich Gränicher und Roland Jakob (SVP): Zukleben von Tramschienen für die Radprofis der Tour de France 2016 – fehlender Nutzen für Stadtberner Velofahrende;2018-211;Beschlossen;Kenntnis
+03.05.2018;44;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Stromfirmen müssen gemäss Bundesgericht Millionen an Kleinverbraucher zurückzahlen. Wann tut dies ewb? Droht der Stadt Bern ein Finanzloch?;2018-245;Beschlossen;Kenntnis
+03.05.2018;9;Interpellation Fraktion SVP (Alexander Feuz, SVP): Tour de France – Nachlese;2018-210;Beschlossen;Kenntnis
+03.05.2018;58;Interpellation Ingrid Kissling-Näf (SP) und Ueli Jaisli (SVP): Wo bleibt der minimale Unterhalt fürs Marzili?;2018-259;Beschlossen;Kenntnis
+03.05.2018;59;Interpellation Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Der Bauernhof in der Elfenau ein Erlebnisort für Stadtkinder und Jugendliche;2018-260;Beschlossen;Kenntnis
+03.05.2018;60;Motion Fraktion GB/JA! (Katharina Gallizzi/Ursina Anderegg, GB): Für eine verantwortungsvolle Anlage der Rentengelder: Beitritt der PVK zum Verein für verantwortungsbewusste Kapitalanlagen (SVVK-ASIR);2018-261;Beschlossen;Erheblicherkl. als Postulat
+03.05.2018;61;Interfraktionelle Interpellation SP, GFL/EVP (Peter Marbet, SP/Janine Wicki, GFL): Mit welchem Spielraum und mit welchen Konsequenzen lassen sich friedenspolitische Forderungen an die Anlagepolitik der PVK umsetzen?;2018-262;Beschlossen;Kenntnis
+03.05.2018;47;Interpellation Fraktion SVP (Alexander Feuz, SVP): Villa Zähringerstrasse 24 als Asylunterkunft – offene Fragen zum Vorgehen der Stadt;2018-248;Beschlossen;Kenntnis
+03.05.2018;62;Interfraktionelle Interpellation GB/JA!, GFL/EVP (Katharina Gallizzi, GB/Marcel Wüthrich, GFL/Bettina Jans-Troxler, EVP): „Carbon Bubble“: Wie hoch ist das finanzielle Risiko für Bern durch Investitionen in fossile Energien?;2018-263;Beschlossen;Kenntnis
+26.04.2018;6;Dringliche Interpellation Fraktion SVP (Alexander Feuz/Rudolf Friedli, SVP): Frei werdende ehemalige KITAG Kino-Säle in der Innenstadt: Könnte einer davon – bei vernünftigem Kosten-/Nutzen-Verhältnis – als Alternative für die Tankere genutzt werden?;2018-188;Beschlossen;Kenntnis
+26.04.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Realisierung eines Parks auf dem Areal des NPZ (Nationales Pferdzentrum): Was wären die Folgen für den bernischen Pferdesport, den Reiterzug der KAPO, die Kavallerie Bereitermusik Bern und weitere betroffene Vereine?;2018-185;Beschlossen;Kenntnis
+26.04.2018;4;Kleine Anfrage Barbara Freiburghaus (FDP), Lionel Gaudy (BDP): Erfolgskriterien Verkehrsversuch Guisanplatz;2018-186;Beschlossen;Kenntnis
+26.04.2018;1;Protokollgenehmigung Stadtrat 2018 (Protokoll Nr. 06 vom 08.03.2018);2018-183;Beschlossen;Genehmigung
+26.04.2018;5;"Erneuerung der Ka-We-De; Projektierungskredit";2018-187;Beschlossen;Bewilligung
+26.04.2018;7;"Zukunft Bahnhof Bern (ZBB): Verkehrsmassnahmen im ersten Ausbauschritt; Erhöhung Projektierungskredit (Mitwirkung/Bauprojekt)";2018-189;Beschlossen;Bewilligung
+26.04.2018;8;"Ausbau des Veloabstellplatzangebots im Rahmen des ersten Ausbauschritts ZBB; Projektierungskredite (Vorprojekte/Mitwirkung/Bauprojekte)";2018-190;Beschlossen;Bewilligung
+26.04.2018;11;"Sanierung Thunstrasse West; Projektierungskredit (Bauprojekt)";2018-193;Beschlossen;Verschiebung
+26.04.2018;12;Interfraktionelle Motion SP, GB/JA! (David Stampfli, SP/Cristina Anliker-Mansour, GB): Tempo 30 auf der Achse Viktoriarain-Viktoriastrasse;2018-194;Beschlossen;Verschiebung
+26.04.2018;13;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schaffung neuer Begegnungszonen in Bern: Auch Hauseigentümer und Dienstbarkeitsberechtigte frühzeitig in den Entscheidungsprozess einbeziehen!;2018-195;Beschlossen;Verschiebung
+26.04.2018;14;Motion Fraktion SVP (Alexander Feuz, SVP): Velowege an der Aare: Stopp unnötiger Planungskosten!;2018-196;Beschlossen;Verschiebung
+26.04.2018;15;Motion Fraktion SP (Michael Sutter/David Stampfli, SP): Friedliches Nebeneinander von Fussgängerinnen und Velofahrern zwischen Schönausteg und Eichholz;2018-197;Beschlossen;Verschiebung
+26.04.2018;19;Postulat Henri Beuchat und Alexander Feuz (SVP): Bettelnde Tram-Musiker nerven Passagiere in der Stadt Bern;2018-201;Beschlossen;Verschiebung
+26.04.2018;16;Postulat Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Erhöhen der Verkehrssicherheit für Fussgängerinnen und Fussgänger in der Berner Innenstadt durch Beschränken der Fahrgeschwindigkeit der Velofahrenden und/oder das Erlassen von Fahrverboten an stark frequentierten Orten;2018-198;Beschlossen;Verschiebung
+26.04.2018;9;Motion Michael Daphinoff (CVP): Neue Lösung für das Langzeitparkieren von Velos beim Bahnhof. Befreiung der bahnhofsnahen Veloabstellplätze von Veloleichen;2018-191;Beschlossen;Erheblicherkl. als Richtlinie
+26.04.2018;10;Postulat Fraktion GB/JA! (Franziska Grossenbacher, GB): Veloabstellplätze im frei werdenden RBS-Bahnhof sichern;2018-192;Beschlossen;Erheblicherkl.
+26.04.2018;17;Interpellation Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher/Roland Jakob, SVP): Besserer Schutz der Fussgänger in der Stadt Bern vor Velorowdys und E-Bikes!;2018-199;Beschlossen;Verschiebung
+26.04.2018;18;Interpellation Fraktion SVP (Rudolf Friedli, SVP): Verbilligte Velostationsabonnemente als Wahlgeschenke?;2018-200;Beschlossen;Verschiebung
+26.04.2018;2;"Aufsichtskommission (AK): Wahlen Legislatur 2017 - 2020; Ersatzwahl";2018-184;Beschlossen;Wahl
+05.04.2018;3;Dringliche Motion Lionel Gaudy, Philip Kohli (BDP): Bei einem Amoklauf bringt das Posthorn nichts – mehr Sicherheit an Berner Schulen!;2018-164;Beschlossen;Verschiebung
+05.04.2018;4;Dringliche lnterpellation Fraktion SP/JUSO (Timur Akçasayar, SP): Konzessionserneuerung WKW Mühleberg: Folgen für die Stadt Bern?;2018-165;Beschlossen;Kenntnis
+05.04.2018;2;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Nein zur Eingangskontrolle für die Polizei! Nein zur weiteren Zementierung des rechtsfreien Raumes!;2018-163;Beschlossen;Kenntnis
+05.04.2018;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 04 vom 15.02.2018 und Nr. 05 vom 01.03.2018);2018-162;Beschlossen;Genehmigung
+05.04.2018;10;"Reglement vom 28. September 1997 über die Erhebung einer Übernachtungsabgabe (Übernachtungsabgabereglement: ÜAR; SSSB 664.21); Teilrevision; 1. Lesung";2018-171;Beschlossen;Genehmigung
+05.04.2018;15;Stadtbauten Bern (StaBe): Gesamtschau der zu sanierenden städtischen Verwaltungsgebäude zuhanden des Stadtrats;2018-176;Beschlossen;Kenntnis
+05.04.2018;14;"Informatikdienste: WLAN und Netzanbindungen in Volksschulen und Kindergärten; Investitions- und Verpflichtungskredit";2018-175;Beschlossen;Bewilligung
+05.04.2018;5;"Schwarztorstrasse, Einführung Velogegenverkehr: Anpassung und Erneuerung der Lichtsignalanlagen sowie Strassen- und Werkleitungssanierung im Abschnitt Belpstrasse – Monbijoustrasse; Ausführungskredit";2018-166;Beschlossen;Bewilligung
+05.04.2018;11;"Vereinbarungen mit dem BSC Young Boys (YB) und dem Schlittschuhclub Bern (SCB) betreffend Abgeltung Sicherheitskosten; Verpflichtungskredite";2018-172;Beschlossen;Bewilligung
+05.04.2018;12;Interpellation Henri-Charles Beuchat (SVP): Berichterstattung der Kantonspolizei an den Stadtpräsidenten über die letzten zwölf Wochen – sexuelle Übergriffe im Umfeld der Reitschule;2018-173;Beschlossen;Kenntnis
+05.04.2018;13;Motion Fraktion GB/JA! (Katharina Gallizzi, GB): Beitritt der ewb zum Netzwerk der öffentlichen europäischen Wasseranbieter „Aqua Publica Europea“;2018-174;Beschlossen;Erheblicherkl. als Richtlinie
+05.04.2018;16;Interfraktionelle Motion FDP, SVP, BDP/CVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP): Unterhaltsnachholbedarf bei den städtischen Infrastrukturen: Zunahme der Verschuldung verhindern, vermehrt Public-Private-Partnership-Modelle nutzen;2018-177;Beschlossen;Genehmigung Prüf.bericht
+05.04.2018;17;Interfraktionelle Motion SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP): Gebührenbelastung reduzieren;2018-178;Beschlossen;Ablehnung
+05.04.2018;18;Motion Fraktion SP/JUSO (Rithy Chheng, SP): Für mehr bezahlbare Wohnungen und fairere Mietverhältnisse in unserer Stadt dank Offenlegung des vorherigen Mietzinses;2018-179;Beschlossen;Verschiebung
+05.04.2018;19;"Motion Fraktion SP (Rithy Chheng, SP): Charta – Zusammenarbeit zwischen der Stadt Bern und den gemeinnützigen Berner Wohnbauträgern; Begründungsbericht";2018-180;Beschlossen;Verschiebung
+05.04.2018;20;Postulat Fraktion BDP/CVP (Milena Daphinoff, CVP/Andrin Soppelsa, BDP): Belebung der Altstadt durch Schaffung von neuem Wohnraum dank Verlagerung der städtischen Verwaltungseinrichtungen in periphere Stadtgebiete – ein prüfenswertes Szenario;2018-181;Beschlossen;Verschiebung
+05.04.2018;21;Interpellation Fraktion SVP (Alexander Feuz, SVP): Offene Fragen zur Wohnbaupolitik des Gemeinderates? Auswirkungen auf das Viererfeld?;2018-182;Beschlossen;Kenntnis
+05.04.2018;6;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schauplatzgasse: Verbesserung des Fussgängerschutzes durch Verbot des Velogegenverkehrs!;2018-167;Beschlossen;Ablehnung
+05.04.2018;7;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Bärenplatz-Waisenhausplatz: Verbesserung des Fussgängerschutzes durch Verbot des Velogegenverkehrs!;2018-168;Beschlossen;Ablehnung
+05.04.2018;8;Motion Fraktion SP (David Stampfli/Michael Sutter, SP): Zeughausgasse aufwerten;2018-169;Beschlossen;Erheblicherkl. als Richtlinie
+05.04.2018;9;Motion Fraktion SP (David Stampfli/Michael Sutter, SP): Schauplatzgasse aufwerten;2018-170;Beschlossen;Erheblicherkl. als Richtlinie
+22.03.2018;15;Dringliche interfraktionelle Motion SP/JUSO, GB/JA!, AL/GaP/PdA, GLP/JGLP (Michael Sutter/Timur Akçasayar, SP/Franziska Grossenbacher, GB/JA!/Zora Schneider, PdA/Christa Ammann, AL/Luzius Theiler, GaP/Melanie Mettler, GLP): NEIN zum massiven Kapazitätsausbau des Autobahnanschlusses Wankdorf und zu neuen Strassenflächen auf der Allmend!;2018-151;Beschlossen;Erheblicherkl. als Richtlinie
+22.03.2018;2;"Finanzdelegation (FD); Wahl für das Jahr 2018";2018-138;Beschlossen;Wahl
+22.03.2018;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 02 vom 25.01.2018 und Nr. 03 vom 01.02.2018);2018-137;Beschlossen;Genehmigung
+22.03.2018;12;Interfraktionelle Parlamentarische Initiative GLP/JGLP, FDP/JF, SVP, BDP/CVP, AL/GPB-DA/PdA (Melanie Mettler, GLP/Bernhard Eicher, FDP/Alexander Feuz, SVP/Philip Kohli, BDP/Daniel Egloff, PdA): Neutrales Wahlverfahren bei den Stadtberner Wahlen;2018-148;Beschlossen;Verschiebung
+22.03.2018;8;"Bauliche Anpassungen Reitschule: Baukredit; Abstimmungsbotschaft";2018-144;Beschlossen;Genehmigung
+22.03.2018;10;Überbauungsordnung Rehhag;2018-146;Beschlossen;Genehmigung
+22.03.2018;9;Zonenplan-Änderung Rehhag (Abstimmungsbotschaft);2018-145;Beschlossen;Genehmigung
+22.03.2018;11;"Reglement über die Planungsmehrwertabgabe (Planungsmehrwertabgabereglement, PMAR); Erlass; 1. Lesung";2018-147;Beschlossen;Verabschiedung zuhanden 2. Lesung
+22.03.2018;14;Postulat Fraktion SP (Katharina Altas/Marieke Kruit, SP): Jährliche Mietpreiserhebung der Ladenlokale in der Berner Altstadt (Unesco-Weltkulturerbe);2018-150;Beschlossen;Erheblicherkl.
+22.03.2018;13;Postulat Fraktion SP (Michael Sutter/Benno Frauchiger, SP): ...und am Schluss warten alle noch auf Bern;2018-149;Beschlossen;Erheblicherkl.
+22.03.2018;3;Kleine Anfrage Luzius Theiler (GaP): Sportpalast Weissenstein, Zuschaueranlage ohne Zuschauer – Welches sind die finanziellen Konsequenzen?;2018-139;Beschlossen;Kenntnis
+22.03.2018;4;Kleine Anfrage Claude Grosjean (GLP): Das Mobilfunkanlagenmoratorium schadet mehr, als es nützt – ist der Gemeinderat bereit, es aufzuheben?;2018-140;Beschlossen;Kenntnis
+22.03.2018;7;Kleine Anfrage Henri-Charles Beuchat, Alexander Feuz (SVP): Die 26'000-Franken-Party der Stadt Bern;2018-143;Beschlossen;Kenntnis
+22.03.2018;5;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Velobrücke, Panoramabrücke: Was kosten die beabsichtigten Planungsänderungen hin zur kombinierten Velo-Busbrücke den Steuerzahler zusätzlich?;2018-141;Beschlossen;Kenntnis
+22.03.2018;6;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Velobrücke, Panoramabrücke: Was haben die beabsichtigten Planungsänderungen hin zur kombinierten Velo-Busbrücke für den Steuerzahler für Folgen? Muss wieder enteignet werden?;2018-142;Beschlossen;Kenntnis
+22.03.2018;16;Interfraktionelle Motion SP, GB/JA! (David Stampfli, SP/Cristina Anliker-Mansour, GB): Tempo 30 auf der Achse Viktoriarain-Viktoriastrasse;2018-152;Beschlossen;Verschiebung
+22.03.2018;17;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schaffung neuer Begegnungszonen in Bern: Auch Hauseigentümer und Dienstbarkeitsberechtigte frühzeitig in den Entscheidungsprozess einbeziehen!;2018-153;Beschlossen;Verschiebung
+22.03.2018;18;Motion Fraktion SVP (Alexander Feuz, SVP): Velowege an der Aare: Stopp unnötiger Planungskosten!;2018-154;Beschlossen;Verschiebung
+22.03.2018;20;Postulat Henri Beuchat und Alexander Feuz (SVP): Bettelnde Tram-Musiker nerven Passagiere in der Stadt Bern;2018-156;Beschlossen;Verschiebung
+22.03.2018;21;Motion Fraktion SP (David Stampfli/Michael Sutter, SP): Zeughausgasse aufwerten;2018-157;Beschlossen;Verschiebung
+22.03.2018;25;Postulat Fraktion SVP (Hans Ulrich Gränicher/Alexander Feuz, SVP): Erhöhen der Verkehrssicherheit für Fussgängerinnen und Fussgänger in der Berner Innenstadt durch Beschränken der Fahrgeschwindigkeit der Velofahrenden und/oder das Erlassen von Fahrverboten an stark frequentierten Orten;2018-161;Beschlossen;Verschiebung
+22.03.2018;23;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Schauplatzgasse: Verbesserung des Fussgängerschutzes durch Verbot des Velogegenverkehrs!;2018-159;Beschlossen;Verschiebung
+22.03.2018;24;Motion Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Bärenplatz-Waisenhausplatz: Verbesserung des Fussgängerschutzes durch Verbot des Velogegenverkehrs!;2018-160;Beschlossen;Verschiebung
+22.03.2018;22;Motion Fraktion SP (David Stampfli/Michael Sutter, SP): Schauplatzgasse aufwerten;2018-158;Beschlossen;Verschiebung
+22.03.2018;19;Motion Fraktion SP (Michael Sutter/David Stampfli, SP): Friedliches Nebeneinander von Fussgängerinnen und Velofahrern zwischen Schönausteg und Eichholz;2018-155;Beschlossen;Verschiebung
+08.03.2018;5;Interfraktionelle Motion GB/JA!, SP, GFL/EVP, GLP (Regula Bühlmann, GB/Patrizia Mordini, SP/Janine Wicki, GFL/Melanie Mettler, GLP): Lohntransparenz in Stellenausschreibungen;2018-118;Beschlossen;Erheblicherkl.
+08.03.2018;21;Postulat Fraktion SP (Gisela Vollmer, SP): Günstigen Wohnraum im Bestand erhalten;2018-134;Beschlossen;Verschiebung
+08.03.2018;22;Postulat Fraktion SVP (Alexander Feuz/Kurt Rüegsegger/Hans Ulrich Gränicher, SVP): Fertig Luxusbauen! Bedürfnisse der Benutzer und Steuerzahler vermehrt berücksichtigen!;2018-135;Beschlossen;Verschiebung
+08.03.2018;19;Postulat Fraktion SP (Benno Frauchiger/Martin Krebs, SP): Alternative Arbeitszeitmodelle auch in der Exekutive: Einführung der Möglichkeit einer Teamkandidatur für den Gemeinderat;2018-132;Beschlossen;Verschiebung
+08.03.2018;15;Stadtbauten Bern (StaBe): Gesamtschau der zu sanierenden städtischen Verwaltungsgebäude zuhanden des Stadtrats;2018-128;Beschlossen;Verschiebung
+08.03.2018;4;Motion Tamara Funiciello (JUSO), Christa Ammann (AL), Janine Wicki (GFL): Freier 8. März – Gleichstellung jetzt!;2018-117;Beschlossen;Erheblicherkl. als Richtlinie
+08.03.2018;20;"Interfraktionelle Motion GFL/EVP, SP/JUSO (Verena Furrer-Lehmann, GFL/Margrith Beyeler-Graf, SP): Bestehenden Wohnraum sichern; Abschreibung Punkt 2";2018-133;Beschlossen;Verschiebung
+08.03.2018;7;"Motion Fraktion SP/JUSO (Margrith Beyeler-Graf/Raymond Anliker, SP): Neubau von einfachem, sehr günstigen Wohnraum in der Stadt Bern; Abschreibung Punkt 1";2018-120;Beschlossen;Abschreibung
+08.03.2018;9;"Motion Fraktion SP (Rithy Chheng/Michael Sutter, SP): Städtisches Land nur für als Erstwohnsitz genutzten Wohnraum abgeben; Abschreibung";2018-122;Beschlossen;Abschreibung
+08.03.2018;12;Interfraktionelle Motion FDP, SVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP): Fonds für Boden- und Wohnbaupolitik: Systemwechsel/Einführung der Subjektunterstützung;2018-125;Beschlossen;Ablehnung
+08.03.2018;17;Interfraktionelle Motion FDP, SVP, BDP/CVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP): Unterhaltsnachholbedarf bei den städtischen Infrastrukturen: Zunahme der Verschuldung verhindern, vermehrt Public-Private-Partnership-Modelle nutzen;2018-130;Beschlossen;Verschiebung
+08.03.2018;10;Interfraktionelle Motion SP/JUSO, GB/JA!, GFL/EVP (Johannes Wartenweiler, SP/Rahel Ruch, GB/Lukas Gutzwiller, GFL): Wohnbaufonds muss handlungsfähig sein – Globalkredit für den Erwerb von Liegenschaften und Grundstücken;2018-123;Beschlossen;Erheblicherkl.
+08.03.2018;11;"Motion Kommission für Finanzen, Sicherheit und Umwelt FSU (Christine Michel, GB/JA!/Yasemin Cevik, SP): Strategie des Fonds für Boden- und Wohnbaupolitik zum Erwerb von preisgünstigem Wohn- und Gewerberaum in der Stadt Bern; Begründungsbericht";2018-124;Beschlossen;Kenntnis
+08.03.2018;13;Motion Fraktion SP/JUSO (Rithy Chheng, SP): Für mehr bezahlbare Wohnungen und fairere Mietverhältnisse in unserer Stadt dank Offenlegung des vorherigen Mietzinses;2018-126;Beschlossen;Verschiebung
+08.03.2018;8;Interfraktionelle Motion AL/GPB-DA/PdA+, SP, GB/JA! (Christa Ammann, AL/Martin Krebs, SP/Franziska Grossenbacher, GB): Für mehr günstige Wohnungen mit Vermietungskriterien (GüWR)!;2018-121;Beschlossen;Teilweise Erheblicherkl.
+08.03.2018;14;"Motion Fraktion SP (Rithy Chheng, SP): Charta – Zusammenarbeit zwischen der Stadt Bern und den gemeinnützigen Berner Wohnbauträgern; Begründungsbericht";2018-127;Beschlossen;Verschiebung
+08.03.2018;16;Postulat Fraktion BDP/CVP (Milena Daphinoff, CVP/Andrin Soppelsa, BDP): Belebung der Altstadt durch Schaffung von neuem Wohnraum dank Verlagerung der städtischen Verwaltungseinrichtungen in periphere Stadtgebiete – ein prüfenswertes Szenario;2018-129;Beschlossen;Verschiebung
+08.03.2018;18;Interpellation Fraktion SVP (Alexander Feuz, SVP): Offene Fragen zur Wohnbaupolitik des Gemeinderates? Auswirkungen auf das Viererfeld?;2018-131;Beschlossen;Verschiebung
+08.03.2018;2;Kleine Anfrage Lionel Gaudy (BDP): Dialog ohne Partner – warum werden im Breitenrain wichtige Anstösser ignoriert?;2018-115;Beschlossen;Kenntnis
+08.03.2018;1;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Stadtverwaltung: Exklusive Vernetzungsanlässe statt Sitzungen? Waren von der Stadt Bern geförderte junge Künstler nicht gut genug für den Vernetzungsanlass der Kulturabteilung? Mit welchen weiteren Überraschungen muss der Steuerzahler noch rechnen?;2018-114;Beschlossen;Kenntnis
+08.03.2018;3;Kleine Anfrage Luzius Theiler (GaP): Besetzung der städtischen Liegenschaft Bahnstrasse 69: Ist der Gemeinderat bereit, zur Enthärtung der Fronten beizutragen und die Verhandlungen über einen Zwischennutzungsvertrag weiterzuführen?;2018-116;Beschlossen;Kenntnis
+08.03.2018;23;Interpellation Fraktion GB/JA! (Stéphanie Penher, GB): Anteil gemeinnütziger Wohnraum in der Stadt Bern;2018-136;Beschlossen;Verschiebung
+08.03.2018;6;"Motion Fraktion GB/JA! (Sabine Baumgartner, GB): Förderung der Teilzeitarbeit für Stadtangestellte mit Betreuungspflichten; Begründungsbericht";2018-119;Beschlossen;Kenntnis
+01.03.2018;1;Kleine Anfrage Fraktion SVP (Alexander Feuz/Kurt Rüegsegger, SVP): Zone für alternative Wohnnutzungen im Riedbach: Zwischenstand? Gibt es doch rechtliche Probleme? Was kostet dieses Projekt den Steuerzahler bisher?;2018-91;Beschlossen;Kenntnis
+01.03.2018;2;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Neues Bundesasylzentrum in Bern: Was ist geplant? Wird das Areal des Strassenverkehrs- und Schiffahrsamtes geprüft?;2018-92;Beschlossen;Kenntnis
+01.03.2018;3;Bericht des Gemeinderats an den Stadtrat zur Agglomerationspolitik 2017;2018-93;Beschlossen;Kenntnis
+01.03.2018;4;Agglomerationskommission (AKO): Tätigkeitsbericht für das Jahr 2017;2018-94;Beschlossen;Kenntnis
+01.03.2018;5;"Interfraktionelles Postulat SP, GB/JA!, GFL/EVP, GLP (Peter Marbet, SP/Stéphanie Penher, GB/Daniela Lutz-Beck, GFL/Melanie Mettler, GLP): Kernregion Bern: Gemeinsame Entwicklung an die Hand nehmen; Prüfungsbericht";2018-95;Beschlossen;Genehmigung Prüf.bericht
+01.03.2018;6;Interpellation Agglomerationskommission Stadt Bern (Ingrid Kissling-Näf, SP): Entwicklung der Stadtagglomeration Bern wohin?;2018-96;Beschlossen;Kenntnis
+01.03.2018;10;"Gleisersatz Brunnhof – Fischermätteli; Erhöhung Projektierungskredit";2018-100;Beschlossen;Bewilligung
+01.03.2018;13;"Abteilung Feuerwehr, Zivilschutz und Quartieramt der Stadt Bern: Ersatz eines Tanklöschfahrzeugs für die Berufsfeuerwehr der Stadt Bern; Kredit";2018-103;Beschlossen;Bewilligung
+01.03.2018;14;Postulat Fraktion SP (Katharina Altas/Halua Pinto de Magalhães, SP): Erhebung zur Wertschöpfung der „Kultur-“ und „Kreativwirtschaft“;2018-104;Beschlossen;Genehmigung Prüf.bericht
+01.03.2018;15;Motion Fraktion AL/GPB-DA/PdA+ (Daniel Egloff, PdA): Missstände im Einbürgerungsverfahren beheben!;2018-105;Beschlossen;Erheblicherkl. als Richtlinie
+01.03.2018;16;Motion Fraktion SVP (Roland Iseli, SVP): Einheitliche Logos auf sämtlichen Bechern beim Mehrweggeschirr am Zibelämärit!;2018-106;Beschlossen;Ablehnung
+01.03.2018;17;Motion Henri-Charles Beuchat (SVP): Gewalttätige Konflikte durch ausländische Organisationen in der Bundeshauptstadt verhindern;2018-107;Beschlossen;Ablehnung
+01.03.2018;18;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Antifaschistische Abendspaziergänge und Hooligan-Märsche mit Gewaltpotential: Veranstalter und Unterstützer endlich zur Kasse und zur Verantwortung!;2018-108;Beschlossen;Ablehnung
+01.03.2018;20;Motion Henri-Charles Beuchat (SVP): Schluss mit Gewalt – klare Strukturen für die Reitschule;2018-110;Beschlossen;Ablehnung
+01.03.2018;11;Motion Luzius Theiler (GPB-DA): Besserer Rechtsschutz für Bäume;2018-101;Beschlossen;Ablehnung
+01.03.2018;7;Motion Fraktion SVP (Hans Ulrich Gränicher, SVP): Neugestaltung und quartierverträgliche Nutzung des Entsorgungshofs Egelsee als Naherholungsraum nach der Inbetriebnahme des Entsorgungshofs Schermen ab Sommer 2015;2018-97;Beschlossen;Genehmigung Prüf.bericht
+01.03.2018;8;Motion Henri-Charles Beuchat (SVP): Die Herabwürdigung des Wappens oder der Fahne der Eidgenossenschaft oder eines Kantons in der Stadt Bern unterbinden;2018-98;Beschlossen;Ablehnung
+01.03.2018;9;Interpellation Alexander Feuz (SVP) und Luzius Theiler (GPB-DA): Aaretalschutz und Viererfeld: wann erfolgt eine neue Auflage?;2018-99;Beschlossen;Kenntnis
+01.03.2018;12;Motion Fraktion SVP (Alexander Feuz/Hans Ulrich Gränicher, SVP): Der Baumbestand beim Bundeshaus und auf der Bundeterrasse muss erhalten werden!;2018-102;Beschlossen;Rückzug
+01.03.2018;19;Motion Fraktion SVP (Alexander Feuz/Roland Jakob/Rudolf Friedli, SVP): Unbewilligte Kundgebungen: Das Kundgebungsreglement muss endlich angepasst werden!;2018-109;Beschlossen;Ablehnung
+01.03.2018;23;Interpellation Fraktion SP (Michael Sutter, SP): Fördert die Stadt Bern den Auto-Tourismus durchs Unesco-Welterbe?;2018-113;Beschlossen;Kenntnis
+01.03.2018;22;Motion Fraktion GB/JA! (Katharina Gallizzi, GB): Beitritt der ewb zum Netzwerk der öffentlichen europäischen Wasseranbieter „Aqua Publica Europea“;2018-112;Beschlossen;Verschiebung
+01.03.2018;21;Interpellation Henri-Charles Beuchat (SVP): Berichterstattung der Kantonspolizei an den Stadtpräsidenten über die letzten zwölf Wochen – sexuelle Übergriffe im Umfeld der Reitschule;2018-111;Beschlossen;Verschiebung
+15.02.2018;10;Dringliche interfraktionelle Motion GB/JA!, SP/JUSO, FDP/JF, BDP/CVP, AL/GaP/PdA, GLP/JGLP (Lea Bill, GB/Seraina Patzen, JA!/Marieke Kruit/Yasemin Cevik, SP/Claudine Esseiva, FDP/Philip Kohli, BDP/Christa Ammann, AL/Zora Schneider, PdA/Melanie Mettler, GLP): Cannabis-Pilotprojekt – jetzt erst recht!;2018-75;Beschlossen;Erheblicherkl. als Richtlinie
+15.02.2018;9;"Gesamtsanierung Volksschule Schwabgut; Projektierungskrediterhöhung";2018-74;Beschlossen;Bewilligung
+15.02.2018;8;"Gebietsentwicklung Chantier Bümpliz Nord-West; Kredit";2018-73;Beschlossen;Bewilligung
+15.02.2018;2;Kleine Anfrage Luzius Theiler (GaP): Was genau soll Thomas Kessler in Bern machen?;2018-67;Beschlossen;Kenntnis
+15.02.2018;6;Kleine Anfrage Luzius Theiler (GaP): Nachträgliches Baugesuch der Stadt für die «City-Golf»-Löcher;2018-71;Beschlossen;Kenntnis
+15.02.2018;4;Kleine Anfrage Vivianne Esseiva, Claudine Esseiva (FDP): Wachstum an Firmen in der Stadt Bern;2018-69;Beschlossen;Kenntnis
+15.02.2018;3;Interfraktionelle Kleine Anfrage BDP/CVP, GLP/JGLP, FDP/JF (Michael Daphinoff, CVP/Marianne Schild, GLP/Claudine Esseiva, FDP): Versuchsbetrieb auf der Schützenmatte: Wer, wie, was und wann?;2018-68;Beschlossen;Kenntnis
+15.02.2018;5;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Rückstufung Planung Bahnhof durch Bund: Was sind die konkreten Folgen? Gibt es noch andere Überraschungen für die Stadt?;2018-70;Beschlossen;Kenntnis
+15.02.2018;7;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Offene Fragen Wettbewerbsverfahren Viererfeld: Ist der Wettbewerb mit der Planung mit dem Kanton abgesprochen und koordiniert? Ist der versprochene Park auch langfristig garantiert? Gibt es weitere Einschränkungen?;2018-72;Beschlossen;Kenntnis
+15.02.2018;1;Protokollgenehmigungen Stadtrat 2018 (Protokoll Nr. 01 vom 11.01.2018);2018-66;Beschlossen;Genehmigung
+15.02.2018;11;"Interfraktionelle Motion GB/JA!, GLP (Hasim Sancar, GB/Claude Grosjean, GLP): Finanz-Oberaufsicht des Stadtrates stärken!; Abschreibung";2018-76;Beschlossen;Fristverl.
+15.02.2018;12;Interfraktionelle Motion SVP, FDP, BDP/CVP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP/Claudio Fischer, CVP): Keine unzulässige Konkurrenzierung privater Anbieter – Tätigkeit der Stadtverwaltung strikte auf öffentliche Aufgaben beschränken;2018-77;Beschlossen;Ablehnung
+15.02.2018;13;Interpellation Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Offene Rechtsfragen um die Reithalle: Handelt es sich hier um Beschaffung von Leistungen gemäss öffentlichem Beschaffungsrecht oder um Vergabe einer Subvention? Zahlt die Reitschule Steuern (Mehrwertsteuer und direkte Steuern)?;2018-78;Beschlossen;Kenntnis
+15.02.2018;14;Interfraktionelles Postulat SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP/Matthias Stürmer, EVP): Städtische Aufgaben vermehrt auslagern;2018-79;Beschlossen;Ablehnung
+15.02.2018;15;Interfraktionelle Motion SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP): Gebührenbelastung reduzieren;2018-80;Beschlossen;Verschiebung
+15.02.2018;16;Motion Ingrid Kissling-Näf (SP) und Ueli Jaisli (SVP): Renovation der sanitären Anlagen im Marzili;2018-81;Beschlossen;Erheblicherkl.
+15.02.2018;17;Interfraktionelle Motion FDP, SVP, BDP/CVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP): Unterhaltsnachholbedarf bei den städtischen Infrastrukturen: Zunahme der Verschuldung verhindern, vermehrt Public-Private-Partnership-Modelle nutzen;2018-82;Beschlossen;Verschiebung
+15.02.2018;18;Interfraktionelle Motion FDP, SVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP): Fonds für Boden- und Wohnbaupolitik: Systemwechsel/Einführung der Subjektunterstützung;2018-83;Beschlossen;Verschiebung
+15.02.2018;21;Motion Fraktion SP/JUSO (Rithy Chheng, SP): Für mehr bezahlbare Wohnungen und fairere Mietverhältnisse in unserer Stadt dank Offenlegung des vorherigen Mietzinses;2018-86;Beschlossen;Verschiebung
+15.02.2018;19;Interfraktionelle Motion SP/JUSO, GB/JA!, GFL/EVP (Johannes Wartenweiler, SP/Rahel Ruch, GB/Lukas Gutzwiller, GFL): Wohnbaufonds muss handlungsfähig sein – Globalkredit für den Erwerb von Liegenschaften und Grundstücken;2018-84;Beschlossen;Verschiebung
+15.02.2018;25;Interpellation Fraktion SVP (Alexander Feuz, SVP): Offene Fragen zur Wohnbaupolitik des Gemeinderates? Auswirkungen auf das Viererfeld?;2018-90;Beschlossen;Verschiebung
+15.02.2018;20;"Motion Kommission für Finanzen, Sicherheit und Umwelt FSU (Christine Michel, GB/JA!/Yasemin Cevik, SP): Strategie des Fonds für Boden- und Wohnbaupolitik zum Erwerb von preisgünstigem Wohn- und Gewerberaum in der Stadt Bern; Begründungsbericht";2018-85;Beschlossen;Verschiebung
+15.02.2018;23;"Motion Fraktion SP (Rithy Chheng, SP): Charta – Zusammenarbeit zwischen der Stadt Bern und den gemeinnützigen Berner Wohnbauträgern; Begründungsbericht";2018-88;Beschlossen;Verschiebung
+15.02.2018;22;Interfraktionelle Motion AL/GPB-DA/PdA+, SP, GB/JA! (Christa Ammann, AL/Martin Krebs, SP/Franziska Grossenbacher, GB): Für mehr günstige Wohnungen mit Vermietungskriterien (GüWR)!;2018-87;Beschlossen;Verschiebung
+15.02.2018;24;Postulat Fraktion BDP/CVP (Milena Daphinoff, CVP/Andrin Soppelsa, BDP): Belebung der Altstadt durch Schaffung von neuem Wohnraum dank Verlagerung der städtischen Verwaltungseinrichtungen in periphere Stadtgebiete – ein prüfenswertes Szenario;2018-89;Beschlossen;Verschiebung
+01.02.2018;2;"Dachsanierung Volksschule Bümpliz; Projektierungs- und Baukredit";2018-44;Beschlossen;Bewilligung
+01.02.2018;3;"Kirchenfeldbrücke: Verstärkung der Brückenkonstruktion und Gleisersatz mit Brückenoberbausanierung: Ausführungskredit; Kostenanteil der Stadt Bern";2018-45;Beschlossen;Bewilligung
+01.02.2018;8;Motion Fraktion SP (Michael Sutter/Ingrid Kissling-Näf, SP): Harmonisierung der Parkgebühren in der Berner Altstadt;2018-50;Beschlossen;Erheblicherkl. als Postulat
+01.02.2018;17;Motion Luzius Theiler (GPB-DA): Besserer Rechtsschutz für Bäume;2018-59;Beschlossen;Verschiebung
+01.02.2018;9;Motion Fraktion SVP (Manfred Blaser/Roland Jakob, SVP): Verkehrssicherheit im Schul- und Kindergartenumfeld an der Bümplizstrasse fördern!;2018-51;Beschlossen;Ablehnung
+01.02.2018;11;Postulat Fraktion GB/JA! (Leena Schmitter, GB): Globale Verantwortung für Menschenrechte ernst nehmen: Schützenmatte wird Luciano-Romero-Platz!;2018-53;Beschlossen;Ablehnung
+01.02.2018;12;Postulat Manuel C. Widmer (GFL): Wenn statt dem Zytglogge ein Bernmobil-Bus auf dem Ferienfoto in Japan prangt…;2018-54;Beschlossen;Ablehnung
+01.02.2018;13;Interfraktionelle Motion SP, GB/JA! (Peter Marbet, SP/Franziska Grossenbacher, GB): Schliessung Bahnunterführung Steigerhubelstrasse für den MIV;2018-55;Beschlossen;Erheblicherkl. als Richtlinie
+01.02.2018;14;Postulat Fraktion GB/JA! (Seraina Patzen, JA!/Franziska Grossenbacher, GB): Gesamtnutzungskonzept für den öffentlichen Raum in der Innenstadt;2018-56;Beschlossen;Erheblicherkl.
+01.02.2018;15;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): „Fürio, in Bärn läuets“ und die Poller stoppen die Feuerwehr!;2018-57;Beschlossen;Ablehnung
+01.02.2018;16;Interpellation Fraktion FDP (Bernhard Eicher, FDP): Fragen zur Förderung von Carsharing;2018-58;Beschlossen;Kenntnis
+01.02.2018;10;Postulat Fraktion SP (David Stampfli SP): Sicheres Schulumfeld in der Länggasse;2018-52;Beschlossen;Erheblicherkl.
+01.02.2018;23;Motion Henri-Charles Beuchat (SVP): Schluss mit Gewalt – klare Strukturen für die Reitschule;2018-65;Beschlossen;Verschiebung
+01.02.2018;19;Motion Fraktion AL/GPB-DA/PdA+ (Daniel Egloff, PdA): Missstände im Einbürgerungsverfahren beheben!;2018-61;Beschlossen;Verschiebung
+01.02.2018;21;Motion Henri-Charles Beuchat (SVP): Gewalttätige Konflikte durch ausländische Organisationen in der Bundeshauptstadt verhindern;2018-63;Beschlossen;Verschiebung
+01.02.2018;22;Postulat Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Antifaschistische Abendspaziergänge und Hooligan-Märsche mit Gewaltpotential: Veranstalter und Unterstützer endlich zur Kasse und zur Verantwortung!;2018-64;Beschlossen;Verschiebung
+01.02.2018;20;Motion Fraktion SVP (Roland Iseli, SVP): Einheitliche Logos auf sämtlichen Bechern beim Mehrweggeschirr am Zibelämärit!;2018-62;Beschlossen;Verschiebung
+01.02.2018;1;"Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Gesprächskultur mit der Reithalle: gescheiterter Moderationsversuch Wiprächtiger; ausser Spesen nichts gewesen: Was soll mit der Einschaltung Thomas Kesslers und des Stadtpräsidenten nun besser werden? Was zieht die Stadt für Konsequenzen?";2018-43;Beschlossen;Kenntnis
+01.02.2018;4;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Isabelle Heer, BDP): Inklusion konkret: Pilotprojekt „Mobilitätshilfen“ im Stadtzentrum für mobilitätseingeschränkte Personen realisieren;2018-46;Beschlossen;Ablehnung
+01.02.2018;5;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Kurt Hirsbrunner, BDP): Inklusion konkret: Pilotprojekt „Mobilitätshilfen“ für mobilitätseingeschränkte Personen auf einem grossen städtischen Friedhof realisieren;2018-47;Beschlossen;Genehmigung Prüf.bericht
+01.02.2018;6;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Martin Schneider, BDP):  Fördermassnahmen für mehr Elektromobilität in Bern;2018-48;Beschlossen;Teilweise Erheblicherkl. als Postulat
+01.02.2018;18;Postulat Fraktion SP (Katharina Altas/Halua Pinto de Magalhães, SP): Erhebung zur Wertschöpfung der „Kultur-“ und „Kreativwirtschaft“;2018-60;Beschlossen;Verschiebung
+01.02.2018;7;Motion Fraktion SP (Benno Frauchiger, SP): Elektromobilität für alle – Anwohnerparkplätze mit Stromanschluss;2018-49;Beschlossen;Erheblicherkl. als Postulat
+25.01.2018;10;Dringliche interfraktionelle Interpellation SVP, FDP/JF, BDP/CVP (Alexander Feuz, SVP/Bernhard Eicher, FDP/Michael Daphinoff, CVP): Abgeltung von Planungsmehrwerten: will die Stadt nicht aus den Fehlern von Köniz lernen und ihr Reglement entschärfen?;2018-29;Beschlossen;Kenntnis
+25.01.2018;9;Dringliche interfraktionelle Interpellation Fraktionen GB/JA!, GFL/EVP (Stéphanie Penher, GB/Brigitte Hilty Haller, GFL): Die No Billag-Initiative und die Konsequenzen für die Stadt Bern;2018-28;Beschlossen;Kenntnis
+25.01.2018;11;Dringliche interfraktionelle Motion SVP, BDP/CVP (Alexander Feuz/Rudolf Friedli, SVP/Lionel Gaudy, BDP/Milena Daphinoff, CVP): Pacta sunt servanda! Mit der Planung für Wohnraum im Ziegler ist endlich zu beginnen!;2018-30;Beschlossen;Kenntnis
+25.01.2018;12;Dringliche Motion Fraktion SVP (Alexander Feuz, SVP): Militärkaserne Bern: Angebot des Gemeinderates, Provisorium, Providurium, Definitivum? Schluss mit der leichtsinnigen Vergabe von besten zentralen Wohnlagen für den Asylbereich!;2018-31;Beschlossen;Ablehnung
+25.01.2018;1;Protokollgenehmigungen Stadtrat 2017 (Protokoll Nr. 20 vom 09.11.2017, Nr. 21 vom 16.11.2017, Nr. 22 vom 30.11.2017 und Nr. 23 vom 07.12.2017);2018-20;Beschlossen;Genehmigung
+25.01.2018;22;"Interfraktionelle Motion GB/JA!, GLP (Hasim Sancar, GB/Claude Grosjean, GLP): Finanz-Oberaufsicht des Stadtrates stärken!; Abschreibung";2018-41;Beschlossen;Verschiebung
+25.01.2018;4;"Gaswerkareal: Bericht Entwicklungs- und Planungsprozess; Bisherige Arbeiten und vorgesehenes Planänderungsverfahren";2018-23;Beschlossen;Kenntnis
+25.01.2018;5;"Interfraktionelle Motion GB/JA!, GLP (Franziska Grossenbacher, GB/Sandra Ryser, GLP): Städtebaulicher Wettbewerb auf dem Gaswerkareal; Fristverlängerung";2018-24;Beschlossen;Fristverl.
+25.01.2018;7;Interpellation Fraktion GLP (Melanie Mettler, GLP): Wie und wann startet der Gemeinderat die nächsten Planungsschritte für das Gaswerkareal?;2018-26;Beschlossen;Kenntnis
+25.01.2018;6;"Motion Fraktion GB/JA! (Stéphanie Penher, GB/Lea Bill, JA!): Gaswerkareal: Art und Mass der Nutzung definiert die Stadt; Fristverlängerung";2018-25;Beschlossen;Fristverl.
+25.01.2018;13;"Grundstück Bern 5/1354 (Lorrainestrasse 49 und 60, 3014 Bern): Widmung und Entwidmung; Projektierungskredit Gesamtsanierung Lorrainestrasse 49";2018-32;Beschlossen;Bewilligung
+25.01.2018;8;Ratssekretariat: Antrag auf provisorische Anstellung einer Ratssekretärin;2018-27;Beschlossen;Wahl
+25.01.2018;2;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Besetzte städtische Liegenschaften: Was sind die straf- und zivilrechtlichen Folgen für die Besetzer? Was zahlt der Steuerzahler, dem Steuersenkungen verweigert wurden, für die permissive Haltung des Gemeinderates drauf?;2018-21;Beschlossen;Kenntnis
+25.01.2018;3;Kleine Anfrage Fraktion SVP (Alexander Feuz, SVP): Umbau Volksschule Kirchenfeld: Welche Optionen für Provisorien werden vom Gemeinderat geprüft? Auch solche im Quartier?;2018-22;Beschlossen;Kenntnis
+25.01.2018;14;Interfraktionelle Motion FDP, SVP, BDP/CVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP): Personalbestand: Stellenplan als Steuerungsinstrument wieder einführen;2018-33;Beschlossen;Ablehnung
+25.01.2018;16;Interfraktionelle Motion SVP, FDP, BDP/CVP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP/Claudio Fischer, CVP): Keine unzulässige Konkurrenzierung privater Anbieter – Tätigkeit der Stadtverwaltung strikte auf öffentliche Aufgaben beschränken;2018-35;Beschlossen;Verschiebung
+25.01.2018;17;Interpellation Fraktion SVP (Alexander Feuz/Roland Jakob, SVP): Offene Rechtsfragen um die Reithalle: Handelt es sich hier um Beschaffung von Leistungen gemäss öffentlichem Beschaffungsrecht oder um Vergabe einer Subvention? Zahlt die Reitschule Steuern (Mehrwertsteuer und direkte Steuern)?;2018-36;Beschlossen;Verschiebung
+25.01.2018;18;Interfraktionelles Postulat SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP/Matthias Stürmer, EVP): Städtische Aufgaben vermehrt auslagern;2018-37;Beschlossen;Verschiebung
+25.01.2018;19;Interfraktionelle Motion SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP): Gebührenbelastung reduzieren;2018-38;Beschlossen;Verschiebung
+25.01.2018;15;Interfraktionelles Postulat BDP/CVP, FDP, GLP, GFL/EVP (Andrin Soppelsa, BDP/Bernhard Eicher, FDP/Claude Grosjean, GLP/Matthias Stürmer, EVP): Pilotversuch: Arbeitszeit auf Vertrauen im Kader der Stadtverwaltung Bern;2018-34;Beschlossen;Rückzug
+25.01.2018;20;Motion Ingrid Kissling-Näf (SP) und Ueli Jaisli (SVP): Renovation der sanitären Anlagen im Marzili;2018-39;Beschlossen;Verschiebung
+25.01.2018;21;Interfraktionelle Motion FDP, SVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP): Fonds für Boden- und Wohnbaupolitik: Systemwechsel/Einführung der Subjektunterstützung;2018-40;Beschlossen;Verschiebung
+25.01.2018;23;Interfraktionelle Motion FDP, SVP, BDP/CVP (Christoph Zimmerli, FDP/Rudolf Friedli, SVP/Philip Kohli, BDP/Claudio Fischer, CVP): Unterhaltsnachholbedarf bei den städtischen Infrastrukturen: Zunahme der Verschuldung verhindern, vermehrt Public-Private-Partnership-Modelle nutzen;2018-42;Beschlossen;Verschiebung
+11.01.2018;10;Dringliche Interpellation Lionel Gaudy, Philip Kohli (BDP): Schülerinnen und Schüler auf der Strasse – trotz Anspruch auf Grundschulunterricht;2018-10;Beschlossen;Kenntnis
+11.01.2018;8;Kleine Anfrage Henri-Charles Beuchat (SVP): Nachgang zum Verpflichtungskredit Velo-Kampagne – SR Sitzung vom 16. November 2017;2018-8;Beschlossen;Kenntnis
+11.01.2018;9;Kleine Anfrage Barbara Freiburghaus (FDP), Milena Daphinoff (CVP): Wie setzt sich das Preisgericht beim städtebaulichen Wettbewerb Viererfeld/Mittelfeld zusammen?;2018-9;Beschlossen;Kenntnis
+11.01.2018;1;Wahl des Präsidiums und des Büros des Stadtrates für das Jahr 2018;2018-1;Beschlossen;Wahl
+11.01.2018;2;Aufsichtskommission (AK): Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2018;2018-2;Beschlossen;Wahl
+11.01.2018;3;Kommission für Finanzen, Sicherheit und Umwelt (FSU): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2018;2018-3;Beschlossen;Wahl
+11.01.2018;4;Kommission für Planung, Verkehr und Stadtgrün (PVS): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2018;2018-4;Beschlossen;Wahl
+11.01.2018;5;Kommission für Soziales, Bildung und Kultur (SBK): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2018;2018-5;Beschlossen;Wahl
+11.01.2018;6;Agglomerationskommission (AKO): Ersatzwahl eines Mitglieds, Wahl des Präsidiums und des Vizepräsidiums für das Jahr 2018;2018-6;Beschlossen;Wahl
+11.01.2018;11;Interfraktionelles Postulat SP, GFL, BDP/CVP (Peter Marbet, SP/Tania Espinoza Haller, GFL/Kurt Hirsbrunner, BDP/Claudio Fischer, CVP): Lehre statt Sozialhilfe;2018-11;Beschlossen;Erheblicherkl.
+11.01.2018;12;Jugendmotion (Paula Zysset/Frédéric Mader): EWB-Stromkästen von jungen Künstler/innen übermalen/übersprayen lassen;2018-12;Beschlossen;Kenntnis
+11.01.2018;7;Wahl in Schulkommission (Schulkommission Mattenhof-Weissenbühl);2018-7;Beschlossen;Wahl
+11.01.2018;13;Interfraktionelle Motion SVP, FDP (Rudolf Friedli, SVP/Christoph Zimmerli, FDP/Philip Kohli, BDP): ewb: unechte Gewinnablieferungen beschränken, Rechtsform ändern und Dotationskapital verzinsen;2018-13;Beschlossen;Ablehnung
+11.01.2018;14;Interfraktionelle Interpellation BDP/CVP, FDP, SVP (Philip Kohli, BDP/Claudio Fischer, CVP/Christoph Zimmerli, FDP/Roland Jakob, SVP/Matthias Stürmer, EVP): ewb: strategische Risiken reduzieren und weitere Preiserhöhungen stoppen;2018-14;Beschlossen;Kenntnis
+11.01.2018;15;Interfraktionelle Motion GFL/EVP, BDP/CVP, FDP (Matthias Stürmer, EVP/Manuel C. Widmer, GFL/Philip Kohli, BDP/Bernhard Eicher, FDP): Neuanfang kostenloses WLAN in der Stadt Bern: Schaffung einer breit abgestützten Trägerschaft;2018-15;Beschlossen;Ablehnung
+11.01.2018;16;Postulat Fraktion SP (Katharina Altas/Halua Pinto de Magalhães, SP): Erhebung zur Wertschöpfung der „Kultur-“ und „Kreativwirtschaft“;2018-16;Beschlossen;Verschiebung
+11.01.2018;17;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Isabelle Heer, BDP): Inklusion konkret: Pilotprojekt „Mobilitätshilfen“ im Stadtzentrum für mobilitätseingeschränkte Personen realisieren;2018-17;Beschlossen;Verschiebung
+11.01.2018;18;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Kurt Hirsbrunner, BDP): Inklusion konkret: Pilotprojekt „Mobilitätshilfen“ für mobilitätseingeschränkte Personen auf einem grossen städtischen Friedhof realisieren;2018-18;Beschlossen;Verschiebung
+11.01.2018;19;Motion Fraktion BDP/CVP (Michael Daphinoff, CVP/Martin Schneider, BDP):  Fördermassnahmen für mehr Elektromobilität in Bern;2018-19;Beschlossen;Verschiebung
